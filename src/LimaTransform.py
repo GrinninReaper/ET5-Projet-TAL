@@ -28,8 +28,8 @@ inputFile1.close();
 nltk.download('averaged_perceptron_tagger');
 
 #initialisation des tags LIMA  transformer en PTB
-arrayTagsKeys=["SCONJ","SENT","COMMA", "COLON", "PROPN","AUX", "ADJ", "VERB", "DET", "ADP", "NOUN", "PART", "CONJ", "OQU", "QUOT"];
-arrayTagsValues=["CC",".",",",":", "NNP", "MD","JJ", "VB", "DT", "IN", "NN", "POS", "CC", ".", "."];
+arrayTagsKeys=["SCONJ","SENT","COMMA", "COLON", "PROPN","AUX", "ADJ", "VERB", "DET", "ADP", "NOUN", "PART", "CONJ", "OQU", "QUOT", "NUM"];
+arrayTagsValues=["CC",".",",",":", "NNP", "MD","JJ", "VB", "DT", "IN", "NN", "POS", "CC", ".", ".", "CD"];
 
 #separation du contenu du fichier d'entree par saut de ligne
 #puis separation de chaque ligne en tabulation

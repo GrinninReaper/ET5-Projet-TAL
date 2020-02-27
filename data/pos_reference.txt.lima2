@@ -326,6 +326,8 @@ From	IN
 to	IN
 1955	NNP
 ,	,
+9.8	CD
+billion	CD
 Kent	NNP
 cigarettes	NN
 with	IN
@@ -340,25 +342,30 @@ said	VB
 .	.
 
 Among	IN
+33	CD
 men	NN
 worked	VB
 with	IN
 the	DT
 substance	NN
 ,	,
+28	CD
 have	VB
 died	VB
 --	:
 more	DT
 than	DT
+three	CD
 times	NN
 the	DT
 expected	VB
 number	NN
 .	.
 
+Four	CD
 of	IN
 the	DT
+five	CD
 surviving	VB
 workers	NN
 have	VB
@@ -367,6 +374,7 @@ related	VB
 diseases	NN
 ,	,
 including	VB
+three	CD
 with	IN
 diagnosed	VB
 cancer	NN
@@ -375,6 +383,7 @@ cancer	NN
 The	DT
 total	NN
 of	IN
+18	CD
 deaths	NN
 from	IN
 malignant	JJ
@@ -519,6 +528,7 @@ said	VB
 The	DT
 U.S.	NNP
 is	VB
+one	CD
 of	IN
 the	DT
 few	JJ
@@ -620,6 +630,7 @@ outlawed	VB
 .	.
 
 About	IN
+160	CD
 workers	NN
 at	IN
 a	DT
@@ -637,6 +648,7 @@ to	IN
 asbestos	NN
 in	IN
 the	DT
+1950s	CD
 .	.
 
 Areas	NN
@@ -795,6 +807,7 @@ compound	NN
 yield	NN
 of	IN
 the	DT
+400	CD
 taxable	JJ
 funds	NN
 tracked	VB
@@ -1013,6 +1026,7 @@ funds	NN
 Assets	NN
 of	IN
 the	DT
+400	CD
 taxable	JJ
 funds	NN
 grew	VB
@@ -1116,6 +1130,7 @@ simple	JJ
 yield	NN
 of	IN
 the	DT
+400	CD
 funds	NN
 was	VB
 8.12	NN
@@ -1202,9 +1217,11 @@ resigned	VB
 W.R.	NNP
 Grace	NNP
 holds	VB
+three	CD
 of	IN
 Grace	NNP
 Energy's	NNP
+seven	CD
 board	NN
 seats	NN
 .	.
@@ -1317,6 +1334,7 @@ systems	NN
 .	.
 
 employs	VB
+2,700	CD
 people	NN
 and	CC
 has	VB
@@ -1607,6 +1625,7 @@ idea	NN
 to	POS
 prove	VB
 to	IN
+125	CD
 corporate	JJ
 decision	NN
 makers	NN
@@ -1775,6 +1794,7 @@ the	DT
 speedway	NN
 hauled	VB
 out	VB
+four	CD
 drivers	NN
 ,	,
 crews	NN
@@ -1782,9 +1802,11 @@ and	CC
 the	DT
 official	JJ
 Indianapolis	NNP
+500	CD
 announcer	NN
 for	IN
 a	DT
+10	CD
 -	:
 lap	NN
 exhibition	NN
@@ -1796,6 +1818,7 @@ the	DT
 race	NN
 ,	,
 Fortune	NNP
+500	CD
 executives	NN
 drooled	VB
 like	IN
@@ -1823,6 +1846,7 @@ another	DT
 sponsor's	NN
 name	NN
 or	CC
+two	CD
 .	.
 
 downtown	NN
@@ -1868,6 +1892,7 @@ Indiana	NNP
 Roof	NNP
 ballroom	NN
 ,	,
+nine	CD
 of	IN
 the	DT
 hottest	JJ
@@ -1902,6 +1927,7 @@ free	JJ
 --	:
 meal	NN
 eat	VB
+one	CD
 ,	,
 the	DT
 executives	NN
@@ -2272,6 +2298,7 @@ January	NNP
 A	DT
 full	JJ
 ,	,
+four	CD
 color	JJ
 page	NN
 in	IN
@@ -2421,6 +2448,7 @@ Newsweek's	NNP
 ad	NN
 pages	NN
 totaled	VB
+1,620	CD
 ,	,
 a	DT
 drop	NN
@@ -2495,6 +2523,7 @@ none	NN
 of	IN
 the	DT
 big	JJ
+three	CD
 weeklies	NN
 recorded	VB
 circulation	NN
@@ -2517,6 +2546,7 @@ had	VB
 average	JJ
 circulation	NN
 of	IN
+4,393,237	CD
 ,	,
 a	DT
 decrease	NN
@@ -2535,6 +2565,7 @@ months	NN
 of	IN
 1989	NNP
 was	VB
+3,288,453	CD
 ,	,
 flat	JJ
 from	IN
@@ -2553,6 +2584,7 @@ the	DT
 same	JJ
 time	NN
 was	VB
+2,303,328	CD
 ,	,
 2.6	NN
 %	NN
@@ -2623,6 +2655,7 @@ reorganization	NN
 plan	NN
 in	IN
 Chapter	NN
+11	CD
 bankruptcy	NN
 proceedings	NN
 under	IN
@@ -2858,6 +2891,7 @@ attention	NN
 
 was	VB
 another	DT
+one	CD
 of	IN
 the	DT
 risk	NN
@@ -2934,6 +2968,7 @@ proposed	VB
 by	IN
 the	DT
 other	JJ
+two	CD
 outside	JJ
 bidders	NN
 --	:
@@ -3066,6 +3101,7 @@ Frederick	NNP
 Deane	NNP
 Jr.	NNP
 ,	,
+63	CD
 ,	,
 chairman	NN
 of	IN
@@ -3109,6 +3145,7 @@ undersecretary	NN
 ,	,
 on	IN
 the	DT
+12	CD
 -	:
 member	NN
 board	NN
@@ -3204,6 +3241,8 @@ April	NNP
 1986	NNP
 ,	,
 including	VB
+two	CD
+million	CD
 customers	NN
 have	VB
 moved	VB
@@ -3364,6 +3403,8 @@ changed	VB
 during	IN
 the	DT
 past	JJ
+3	CD
+1/2	CD
 years	NN
 would	MD
 be	VB
@@ -3399,6 +3440,7 @@ $	NN
 2.5	NN
 billion	NN
 Byron	NNP
+1	CD
 plant	NN
 near	IN
 Rockford	NNP
@@ -3603,6 +3645,7 @@ that	CC
 Judge	NNP
 Curry's	NNP
 Byron	NNP
+1	CD
 order	NN
 may	MD
 set	VB
@@ -3618,6 +3661,7 @@ involving	VB
 Commonwealth	NNP
 Edison's	NNP
 Braidwood	NNP
+2	CD
 plant	NN
 .	.
 
@@ -3635,6 +3679,7 @@ to	POS
 pay	VB
 for	IN
 Braidwood	NNP
+2	CD
 .	.
 
 The	DT
@@ -3646,6 +3691,7 @@ rule	VB
 on	IN
 the	DT
 Braidwood	NNP
+2	CD
 case	NN
 by	IN
 year	NN
@@ -3691,6 +3737,7 @@ a	DT
 year	NN
 earlier	JJ
 to	IN
+500,004	CD
 units	NN
 ,	,
 a	DT
@@ -3766,6 +3813,7 @@ a	DT
 year	NN
 earlier	JJ
 to	IN
+361,376	CD
 units	NN
 .	.
 
@@ -3790,8 +3838,10 @@ tax	NN
 than	IN
 doubled	VB
 to	IN
+30,841	CD
 units	NN
 from	IN
+13,056	CD
 in	IN
 October	NNP
 1988	NNP
@@ -3831,6 +3881,7 @@ plant	NN
 located	VB
 in	IN
 Chinchon	NNP
+60	CD
 miles	NN
 from	IN
 Seoul	NNP
@@ -3992,6 +4043,7 @@ years	NN
 the	DT
 Cray	NNP
 -	:
+3	CD
 machine	NN
 is	VB
 another	DT
@@ -4013,6 +4065,7 @@ for	IN
 the	DT
 Cray	NNP
 -	:
+3	CD
 ,	,
 though	IN
 the	DT
@@ -4096,6 +4149,7 @@ of	IN
 the	DT
 Cray	NNP
 -	:
+3	CD
 ,	,
 and	CC
 without	IN
@@ -4279,6 +4333,7 @@ include	VB
 the	DT
 Cray	NNP
 -	:
+3's	CD
 tricky	JJ
 ,	,
 unproven	JJ
@@ -4316,8 +4371,10 @@ equipment	NN
 the	DT
 Cray	NNP
 -	:
+3	CD
 will	MD
 contain	VB
+16	CD
 processors	NN
 --	:
 the	DT
@@ -4354,6 +4411,7 @@ roll	VB
 out	VB
 the	DT
 -	:
+90	CD
 machine	NN
 ,	,
 a	DT
@@ -4363,6 +4421,7 @@ with	IN
 the	DT
 Cray	NNP
 -	:
+3	CD
 ,	,
 in	IN
 1991	NNP
@@ -4380,6 +4439,7 @@ Corp.	NNP
 and	CC
 Japan's	NNP
 Big	JJ
+Three	CD
 --	:
 Hitachi	NNP
 Ltd.	NNP
@@ -4397,6 +4457,7 @@ believes	VB
 are	VB
 fewer	JJ
 than	IN
+100	CD
 potential	JJ
 customers	NN
 for	IN
@@ -4414,6 +4475,7 @@ million	NN
 the	DT
 Cray	NNP
 -	:
+3	CD
 price	NN
 range	NN
 .	.
@@ -4430,11 +4492,13 @@ stockholders	NN
 are	VB
 to	POS
 receive	VB
+one	CD
 Cray	NNP
 Computer	NNP
 share	NN
 for	IN
 every	DT
+two	CD
 Cray	NNP
 Research	NNP
 shares	NN
@@ -4517,6 +4581,7 @@ to	IN
 the	DT
 Cray	NNP
 -	:
+3	CD
 development	NN
 ,	,
 has	VB
@@ -4544,6 +4609,7 @@ Without	IN
 the	DT
 Cray	NNP
 -	:
+3	CD
 research	NN
 and	CC
 development	NN
@@ -4684,6 +4750,7 @@ includes	VB
 Neil	NNP
 Davenport	NNP
 ,	,
+47	CD
 ,	,
 president	NN
 and	CC
@@ -4695,6 +4762,7 @@ Joseph	NNP
 M.	NNP
 Blanchard	NNP
 ,	,
+37	CD
 ,	,
 vice	NN
 president	NN
@@ -4705,6 +4773,7 @@ Malcolm	NNP
 A.	NNP
 Hammerton	NNP
 ,	,
+40	CD
 ,	,
 vice	NN
 president	NN
@@ -4716,6 +4785,7 @@ Douglas	NNP
 R.	NNP
 Wheeland	NNP
 ,	,
+45	CD
 ,	,
 vice	NN
 president	NN
@@ -4733,6 +4803,7 @@ Cray	NNP
 Computer	NNP
 ,	,
 employs	VB
+241	CD
 people	NN
 ,	,
 said	VB
@@ -4741,6 +4812,7 @@ a	DT
 work	NN
 force	NN
 of	IN
+450	CD
 by	IN
 the	DT
 end	NN
@@ -4805,6 +4877,7 @@ Arthur	NNP
 A.	NNP
 Hatch	NNP
 ,	,
+59	CD
 ,	,
 was	VB
 named	VB
@@ -4831,6 +4904,7 @@ John	NNP
 D.	NNP
 Carney	NNP
 ,	,
+45	CD
 ,	,
 was	VB
 named	VB
@@ -4856,6 +4930,7 @@ Robert	NNP
 P.	NNP
 Tassinari	NNP
 ,	,
+63	CD
 ,	,
 was	VB
 named	VB
@@ -4913,6 +4988,7 @@ rights	NN
 .	.
 
 ,	,
+five	CD
 other	JJ
 countries	NN
 --	:
@@ -4988,6 +5064,7 @@ said	VB
 many	JJ
 of	IN
 the	DT
+25	CD
 countries	NN
 that	CC
 placed	VB
@@ -5215,6 +5292,7 @@ said	VB
 .	.
 
 These	DT
+three	CD
 countries	NN
 are	VB
 n't	POS
@@ -5233,6 +5311,7 @@ priority	NN
 list	NN
 that	CC
 includes	VB
+17	CD
 other	JJ
 countries	NN
 .	.
@@ -5348,6 +5427,7 @@ said	VB
 Mexico	NNP
 could	MD
 be	VB
+one	CD
 of	IN
 the	DT
 next	JJ
@@ -5460,6 +5540,7 @@ under	IN
 the	DT
 so-called	JJ
 special	JJ
+301	CD
 provision	NN
 of	IN
 the	DT
@@ -5670,6 +5751,7 @@ business	NN
 history	NN
 .	.
 
+THREE	CD
 COMPUTERS	NN
 that	CC
 CHANGED	VB
@@ -5830,6 +5912,7 @@ keyboards	NN
 and	CC
 could	MD
 store	VB
+two	CD
 pages	NN
 of	IN
 data	NN
@@ -5842,12 +5925,14 @@ PCs	NN
 are	VB
 more	DT
 than	DT
+50	CD
 times	NN
 faster	JJ
 and	CC
 have	VB
 memory	NN
 capacity	NN
+500	CD
 times	NN
 greater	JJ
 than	IN
@@ -5889,6 +5974,7 @@ years	NN
 after	IN
 IBM	NNP
 adapted	VB
+one	CD
 of	IN
 these	DT
 versions	NN
@@ -5923,6 +6009,7 @@ and	CC
 Dale	NNP
 Heatherington	NNP
 ,	,
+two	CD
 Atlanta	NNP
 engineers	NN
 ,	,
@@ -6081,10 +6168,12 @@ will	MD
 be	VB
 raised	VB
 by	IN
+11,000	CD
 barrels	NN
 a	DT
 day	NN
 to	IN
+321,000	CD
 barrels	NN
 with	IN
 the	DT
@@ -6097,6 +6186,7 @@ field	NN
 the	DT
 first	JJ
 of	IN
+five	CD
 small	JJ
 fields	NN
 scheduled	VB
@@ -6157,6 +6247,7 @@ be	VB
 increased	VB
 until	IN
 reaches	VB
+11,000	CD
 barrels	NN
 a	DT
 day	NN
@@ -6175,6 +6266,7 @@ barrels	NN
 Reserves	NN
 for	IN
 the	DT
+five	CD
 new	JJ
 fields	NN
 total	VB
@@ -6411,6 +6503,7 @@ watches	NN
 ,	,
 covered	VB
 by	IN
+58	CD
 different	JJ
 U.S.	NNP
 tariff	NN
@@ -6430,6 +6523,7 @@ duty	NN
 free	JJ
 status	NN
 for	IN
+18	CD
 categories	NN
 ,	,
 but	CC
@@ -6704,6 +6798,7 @@ below	IN
 52-week	JJ
 high	NN
 of	IN
+16.125	CD
 Canadian	JJ
 dollars	NN
 US	NNP
@@ -6721,6 +6816,7 @@ yesterday	NN
 Magna	NNP
 shares	NN
 closed	VB
+37.5	CD
 Canadian	JJ
 cents	NN
 to	IN
@@ -6827,6 +6923,7 @@ career	NN
 with	IN
 Magna	NNP
 as	IN
+one	CD
 of	IN
 clients	NN
 .	.
@@ -6862,6 +6959,7 @@ single	JJ
 handedly	JJ
 bought	VB
 up	VB
+two	CD
 new	JJ
 mortgage	NN
 securities	NN
@@ -6978,6 +7076,7 @@ bank	NN
 
 The	DT
 latest	JJ
+two	CD
 funds	NN
 were	VB
 assembled	VB
@@ -7003,6 +7102,7 @@ new	JJ
 seven-year	JJ
 funds	NN
 --	:
+one	CD
 offering	VB
 a	DT
 fixed-rate	JJ
@@ -7024,6 +7124,7 @@ offered	VB
 rate	NN
 --	:
 offer	VB
+two	CD
 key	JJ
 advantages	NN
 to	IN
@@ -7205,6 +7306,7 @@ expanding	VB
 the	DT
 board	NN
 to	IN
+14	CD
 members	NN
 .	.
 
@@ -7252,6 +7354,7 @@ is	VB
 operating	VB
 under	IN
 Chapter	NN
+11	CD
 of	IN
 the	DT
 federal	JJ
@@ -7501,6 +7604,7 @@ country	NN
 
 fewer	JJ
 than	IN
+24	CD
 country	NN
 funds	NN
 have	VB
@@ -7665,6 +7769,7 @@ funds	NN
 ,	,
 of	IN
 these	DT
+one	CD
 country	NN
 portfolios	NN
 are	VB
@@ -7689,6 +7794,7 @@ The	DT
 surge	NN
 brings	VB
 to	IN
+50	CD
 the	DT
 number	NN
 of	IN
@@ -8337,6 +8443,7 @@ U.S.	NNP
 
 ,	,
 after	IN
+two	CD
 meetings	NN
 with	IN
 the	DT
@@ -9545,6 +9652,7 @@ for	IN
 each	DT
 of	IN
 the	DT
+five	CD
 previous	JJ
 months	NN
 .	.
@@ -9590,6 +9698,7 @@ provided	VB
 by	IN
 more	DT
 than	DT
+250	CD
 purchasing	NN
 executives	NN
 .	.
@@ -9704,6 +9813,7 @@ dozen	NN
 ,	,
 but	CC
 included	VB
+one	CD
 newcomer	NN
 :	:
 milk	NN
@@ -9834,6 +9944,7 @@ Chase	NNP
 "	.
 Kodansha	NNP
 ,	,
+320	CD
 pages	NN
 ,	,
 $	NN
@@ -10039,6 +10150,7 @@ disaffected	JJ
 drinking	VB
 ,	,
 -	:
+30	CD
 hero	NN
 sets	VB
 off	VB
@@ -10146,6 +10258,7 @@ Wood	NNP
 every	DT
 Japanese	NN
 under	IN
+40	CD
 seems	VB
 to	POS
 be	VB
@@ -10170,6 +10283,7 @@ in	IN
 
 But	CC
 is	VB
+one	CD
 of	IN
 several	DT
 youthful	JJ
@@ -10215,6 +10329,7 @@ Wa	,
 "	.
 Macmillan	NNP
 ,	,
+339	CD
 pages	NN
 ,	,
 $	NN
@@ -10421,6 +10536,7 @@ ballplayers	NN
 ,	,
 rationed	VB
 to	IN
+two	CD
 per	IN
 team	NN
 ,	,
@@ -10464,6 +10580,7 @@ Business	NNP
 "	.
 Soho	NNP
 ,	,
+228	CD
 pages	NN
 ,	,
 $	NN

@@ -1,5 +1,6 @@
 import sys
 import os
+import re
 
 os.chdir("..");
 
@@ -14,9 +15,16 @@ taggedFile = open(inputPath, "r+");
 taggedContent = taggedFile.read();
 taggedFile.close();
 
-taggedWords = taggedContent.split(" ");
+taggedLines = taggedContent.split("\n");
+taggedWords = []
+for line in taggedLines:
+  taggedWords += line.split(" ");
 outputFile = open(outputPath, "w+");
+i = 0
 for word_tag in taggedWords:
+  i += 1
+  print(word_tag)
   word_tagSplit = word_tag.split("_");
-  outputFile.write(word_tagSplit[0] + "\t" + word_tagSplit[1] + "\n");
+  if(len(word_tagSplit) == 2):
+    outputFile.write(word_tagSplit[0] + "\t" + word_tagSplit[1] + "\n");
 outputFile.close();

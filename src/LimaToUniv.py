@@ -14,63 +14,35 @@ if(len(sys.argv) < 3):
 inputPathTags = "data/POSTags_PTB_Universal_Linux.txt"
 inputPath1 = sys.argv[1];
 outputPath1 = sys.argv[2];
+print(inputPath1)
+print(outputPath1)
 
 inputFileTags = open(inputPathTags, "r+");
 contentTags = inputFileTags.read();
 inputFileTags.close();
 
+firstTag = []
+replacedTag = []
+contentsTagLine = contentTags.split("\n");
+for line in contentsTagLine:
+  lineSplit = line.split(" ");
+  firstTag.append(lineSplit[0])
+  replacedTag.append(lineSplit[-1]);
+
 inputFile1 = open(inputPath1, "r+");
 content1 = inputFile1.read();
 inputFile1.close();
 
-nltk.download('averaged_perceptron_tagger');
+wordsLines = content1.split("\n");
 
-contentSplitTags = contentTags.split();
-#print("After Split:",contentSplitTags);
-arrayTagsKeys=[];
-arrayTagsValues=[];
-for i in range(len(contentSplitTags)):
-  if(i%2==0):
-    arrayTagsKeys.append(contentSplitTags[i])
-  else:
-    arrayTagsValues.append(contentSplitTags[i])
 
-#print("arrayTagsKeys:",arrayTagsKeys);
-#print("\narrayTagsValues:",arrayTagsValues);
-
-contentSplitSpace1 = content1.split('\n');
-arrayContentKeys1=[];
-arrayContentValues1=[];
-for i in range(len(contentSplitSpace1)):
-  if(contentSplitSpace1[i] == ""):
-    arrayContentKeys1.append("\n")
-    arrayContentValues1.append("")
-  else:
-    contentSplitTab= contentSplitSpace1[i].split('\t');
-    for j in range(len(contentSplitTab)-1):
-      arrayContentKeys1.append(contentSplitTab[j])
-      arrayContentValues1.append(contentSplitTab[-1])
-#print("\nAfter Split:",contentSplit1);
-
-print("\n");
-writeTag = False;
-tagToWrite = "";
-#Creating output files:
-outFile1 = open(outputPath1, "w+");
-for j in range(len(arrayContentKeys1)):
-  for i in range(len(arrayTagsKeys)):
-    if(arrayContentValues1[j] == arrayTagsKeys[i]):
-      tagToWrite = arrayTagsValues[i]
-      #print("arrayContentValues1[i]="+arrayContentValues1[j]+" arrayTagsKeys[i]=" + arrayTagsKeys[i] + " tagToWrite=" + tagToWrite)
-      writeTag = True
-  if(writeTag):
-    outFile1.write(arrayContentKeys1[j] + "\t");
-    outFile1.write(tagToWrite + "\n");
-    writeTag = False;
-  else:
-    if(arrayContentKeys1[j] == "\n"):
-      outFile1.write("\n");
-outFile1.close();
-
-print("\nFIN");
-print("\n");
+outputFile = open(outputPath1, "w+");
+for wordTagged in wordsLines:
+  if(wordTagged != ""):
+    wordsTaggedSplit = wordTagged.split("\t");
+    if wordsTaggedSplit[1] in firstTag:
+      tag = replacedTag[firstTag.index(wordsTaggedSplit[1])];
+    else:
+      tag = wordsTaggedSplit[1];
+    outputFile.write(wordsTaggedSplit[0] + "\t" + tag + "\n")
+outputFile.close();

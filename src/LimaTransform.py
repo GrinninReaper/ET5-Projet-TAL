@@ -3,13 +3,8 @@ from nltk import pos_tag
 from nltk.tokenize import word_tokenize
 from nltk import RegexpParser
 
-inputPathTags = "data/POSTags_PTB_Universal_Linux.txt"
-inputPath1 = "data/pos_reference.txt.lima2"
-outputPath1 = "pos_reference.txt.univ";
-
-inputFileTags = open(inputPathTags, "r+");
-contentTags = inputFileTags.read();
-inputFileTags.close();
+inputPath1 = "data/pos_reference.txt.lima"
+outputPath1 = "data/pos_reference.txt.lima2";
 
 inputFile1 = open(inputPath1, "r+");
 content1 = inputFile1.read();
@@ -17,15 +12,8 @@ inputFile1.close();
 
 nltk.download('averaged_perceptron_tagger');
 
-contentSplitTags = contentTags.split();
-#print("After Split:",contentSplitTags);
-arrayTagsKeys=[];
-arrayTagsValues=[];
-for i in range(len(contentSplitTags)):
-  if(i%2==0):
-    arrayTagsKeys.append(contentSplitTags[i])
-  else:
-    arrayTagsValues.append(contentSplitTags[i])
+arrayTagsKeys=["SCONJ","SENT","COMMA", "COLON", "PROPN","AUX", "ADJ", "VERB", "DET", "ADP", "NOUN", "PART", "CONJ", "OQU", "QUOT"];
+arrayTagsValues=["CC",".",",",":", "NNP", "MD","JJ", "VB", "DT", "IN", "NN", "POS", "CC", ".", "."];
 
 #print("arrayTagsKeys:",arrayTagsKeys);
 #print("\narrayTagsValues:",arrayTagsValues);
@@ -42,13 +30,28 @@ for i in range(len(contentSplitSpace1)):
     for j in range(len(contentSplitTab)-1):
       arrayContentKeys1.append(contentSplitTab[j])
       arrayContentValues1.append(contentSplitTab[-1])
-#print("\nAfter Split:",contentSplit1);
+
+# for word in contentSplitSpace1:  
+#   if(word == ""):
+    # print("---",word);
+#print("\narrayContentKeys1[0] = :",arrayContentKeys1[0]);
+#print("\arrayContentKeys1 = :",arrayContentKeys1);
+#print("\arrayContentValues1 = :",arrayContentValues1);
 
 print("\n");
 writeTag = False;
 tagToWrite = "";
-#Creating output files:
-outFile1 = open(outputPath1, "w+");
+
+#print("taille arrContentKeys = " + str(len(arrayContentKeys1)));
+#print("taille arrayContentValues = " + str(len(arrayContentValues1)));
+#print("taille arrayTagsKeys = " + str(len(arrayTagsKeys)));
+#print("taille arrayTagsValues = " + str(len(arrayTagsValues)));
+
+# print("\n");
+# writeTag = False;
+# tagToWrite = "";
+# #Creating output files:
+outFile1 = open(outputPath1, "w");
 for j in range(len(arrayContentKeys1)):
   for i in range(len(arrayTagsKeys)):
     if(arrayContentValues1[j] == arrayTagsKeys[i]):
@@ -64,5 +67,17 @@ for j in range(len(arrayContentKeys1)):
       outFile1.write("\n");
 outFile1.close();
 
-print("\nFIN");
-print("\n");
+# contentOutputFile = content1;
+
+
+# for i in range(len(arrayTagsKeys)):
+#   contentOutputFile.replace("DET", "DT");
+# print(contentOutputFile.replace("DET", "DT"));  
+
+# outFile1.write(contentOutputFile);
+# outFile1.close();
+
+# string = "geeks for geeks geeks geeks geeks" 
+   
+# # Prints the string by replacing geeks by Geeks  
+# print(string.replace("geeks", "Geeks"))  

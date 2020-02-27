@@ -1,24 +1,30 @@
+#LimaTransform: transformation des tags LIMA en tags PTB
 import nltk
 from nltk import pos_tag
 from nltk.tokenize import word_tokenize
 from nltk import RegexpParser
- 
 
+#noms des fichiers d'entrées et de sorties
 inputPath1 = "data/pos_reference.txt.lima"
 outputPath1 = "data/pos_reference.txt.lima2";
 
+#lecture du fichier d'entrée et récupération du contenu
 inputFile1 = open(inputPath1, "r+");
 content1 = inputFile1.read();
 inputFile1.close();
 
 nltk.download('averaged_perceptron_tagger');
 
+#initialisation des tags LIMA à transformer en PTB
 arrayTagsKeys=["SCONJ","SENT","COMMA", "COLON", "PROPN","AUX", "ADJ", "VERB", "DET", "ADP", "NOUN", "PART", "CONJ", "OQU", "QUOT"];
 arrayTagsValues=["CC",".",",",":", "NNP", "MD","JJ", "VB", "DT", "IN", "NN", "POS", "CC", ".", "."];
 
-#print("arrayTagsKeys:",arrayTagsKeys);
-#print("\narrayTagsValues:",arrayTagsValues);
-
+#séparation du contenu du fichier d'entrée par saut de ligne
+#puis séparation de chaque ligne en tabulation
+#ainsi que correction des noms propres en une ligne vers plusieurs lignes
+# ex: Pierre Vinken NNP devient
+# Pierre  NNP
+# Vinken  NNP
 contentSplitSpace1 = content1.split('\n');
 arrayContentKeys1=[];
 arrayContentValues1=[];
@@ -35,35 +41,17 @@ for i in range(len(contentSplitSpace1)):
         arrayContentKeys1.append(wordsInContent[k])
         arrayContentValues1.append(tagToAdd)
 
-# for word in contentSplitSpace1:  
-#   if(word == ""):
-    # print("---",word);
-#print("\narrayContentKeys1[0] = :",arrayContentKeys1[0]);
-#print("\arrayContentKeys1 = :",arrayContentKeys1);
-#print("\arrayContentValues1 = :",arrayContentValues1);
-
 print("\n");
 writeTag = False;
 tagToWrite = "";
 
-#print("taille arrContentKeys = " + str(len(arrayContentKeys1)));
-#print("taille arrayContentValues = " + str(len(arrayContentValues1)));
-#print("taille arrayTagsKeys = " + str(len(arrayTagsKeys)));
-#print("taille arrayTagsValues = " + str(len(arrayTagsValues)));
-
-chaine = ""
-
-
-# print("\n");
-# writeTag = False;
-# tagToWrite = "";
-# #Creating output files:
+#Création du fichier de sortie
+#transformation des tags Lima en PTB
 outFile1 = open(outputPath1, "w");
 for j in range(len(arrayContentKeys1)):
   for i in range(len(arrayTagsKeys)):
     if(arrayContentValues1[j] == arrayTagsKeys[i]):
       tagToWrite = arrayTagsValues[i]
-      #print("arrayContentValues1[i]="+arrayContentValues1[j]+" arrayTagsKeys[i]=" + arrayTagsKeys[i] + " tagToWrite=" + tagToWrite)
       writeTag = True
   if(writeTag):
     outFile1.write(arrayContentKeys1[j] + "\t");
@@ -74,17 +62,3 @@ for j in range(len(arrayContentKeys1)):
       outFile1.write("\n");
 outFile1.close();
 
-# contentOutputFile = content1;
-
-
-# for i in range(len(arrayTagsKeys)):
-#   contentOutputFile.replace("DET", "DT");
-# print(contentOutputFile.replace("DET", "DT"));  
-
-# outFile1.write(contentOutputFile);
-# outFile1.close();
-
-# string = "geeks for geeks geeks geeks geeks" 
-   
-# # Prints the string by replacing geeks by Geeks  
-# print(string.replace("geeks", "Geeks"))  

@@ -4,7 +4,7 @@ from nltk.tokenize import word_tokenize
 from nltk import RegexpParser
 
 inputPath = "../data/pos_test.txt"
-outputPath = "../data/post_test.txt.pos.nltk";
+outputPath = "../data/pos_test.txt.pos.nltk.unrendered";
 
 inputFile = open(inputPath, "r+");
 content = inputFile.read();

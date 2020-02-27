@@ -3,12 +3,17 @@ from nltk import pos_tag
 from nltk.tokenize import word_tokenize
 from nltk import RegexpParser
 import os
+import sys
 
 os.chdir("..");
+#Recuperation des arguments
+if(len(sys.argv) < 3):
+  print("Not enough arguments. GetTextFromTagged.py take two arguments");
+  print("Try with: python3 GetTextFromTagged.py <inputFile> <outputFile>");
 
 inputPathTags = "data/POSTags_PTB_Universal_Linux.txt"
-inputPath1 = "data/pos_reference.txt.lima2"
-outputPath1 = "data/pos_reference.txt.univ";
+inputPath1 = sys.argv[1];
+outputPath1 = sys.argv[2];
 
 inputFileTags = open(inputPathTags, "r+");
 contentTags = inputFileTags.read();

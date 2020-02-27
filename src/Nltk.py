@@ -3,13 +3,14 @@ from nltk import pos_tag
 from nltk.tokenize import word_tokenize
 from nltk import RegexpParser
 
-inputPath = "pos_test.txt"
-outputPath = "post_test.txt.pos.nltk";
+inputPath = "../data/pos_test.txt"
+outputPath = "../data/post_test.txt.pos.nltk";
 
 inputFile = open(inputPath, "r+");
 content = inputFile.read();
 inputFile.close();
 
+nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger');
 
 contentSplit = word_tokenize(content);

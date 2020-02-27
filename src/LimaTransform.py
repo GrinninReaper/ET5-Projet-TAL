@@ -1,26 +1,38 @@
 #LimaTransform: transformation des tags LIMA en tags PTB
+import sys
 import nltk
+import os
 from nltk import pos_tag
 from nltk.tokenize import word_tokenize
 from nltk import RegexpParser
 
-#noms des fichiers d'entrées et de sorties
-inputPath1 = "data/pos_reference.txt.lima"
-outputPath1 = "data/pos_reference.txt.lima2";
+os.chdir("..");
 
-#lecture du fichier d'entrée et récupération du contenu
+#Recuperation des arguments
+if(len(sys.argv) < 3):
+  print("Not enough arguments. GetTextFromTagged.py take two arguments");
+  print("Try with: python3 GetTextFromTagged.py <inputFile> <outputFile>");
+#Stockage des chemins d'entree et de sortie
+inputPath = sys.argv[1];
+outputPath = sys.argv[2];
+
+#noms des fichiers d'entrees et de sorties
+inputPath1 = sys.argv[1];
+outputPath1 = sys.argv[2];
+
+#lecture du fichier d'entree et recuperation du contenu
 inputFile1 = open(inputPath1, "r+");
 content1 = inputFile1.read();
 inputFile1.close();
 
 nltk.download('averaged_perceptron_tagger');
 
-#initialisation des tags LIMA à transformer en PTB
+#initialisation des tags LIMA  transformer en PTB
 arrayTagsKeys=["SCONJ","SENT","COMMA", "COLON", "PROPN","AUX", "ADJ", "VERB", "DET", "ADP", "NOUN", "PART", "CONJ", "OQU", "QUOT"];
 arrayTagsValues=["CC",".",",",":", "NNP", "MD","JJ", "VB", "DT", "IN", "NN", "POS", "CC", ".", "."];
 
-#séparation du contenu du fichier d'entrée par saut de ligne
-#puis séparation de chaque ligne en tabulation
+#separation du contenu du fichier d'entree par saut de ligne
+#puis separation de chaque ligne en tabulation
 #ainsi que correction des noms propres en une ligne vers plusieurs lignes
 # ex: Pierre Vinken NNP devient
 # Pierre  NNP
@@ -45,7 +57,7 @@ print("\n");
 writeTag = False;
 tagToWrite = "";
 
-#Création du fichier de sortie
+#Creation du fichier de sortie
 #transformation des tags Lima en PTB
 outFile1 = open(outputPath1, "w");
 for j in range(len(arrayContentKeys1)):

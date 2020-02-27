@@ -45,4 +45,6 @@ for wordTagged in wordsLines:
     else:
       tag = wordsTaggedSplit[1];
     outputFile.write(wordsTaggedSplit[0] + "\t" + tag + "\n")
+  else:
+    outputFile.write("\n")
 outputFile.close();

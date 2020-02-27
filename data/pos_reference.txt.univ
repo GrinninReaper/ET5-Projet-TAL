@@ -326,6 +326,8 @@ From	ADP
 to	ADP
 1955	NOUN
 ,	.
+9.8	NUM
+billion	NUM
 Kent	NOUN
 cigarettes	NOUN
 with	ADP
@@ -340,25 +342,30 @@ said	VERB
 .	.
 
 Among	ADP
+33	NUM
 men	NOUN
 worked	VERB
 with	ADP
 the	DET
 substance	NOUN
 ,	.
+28	NUM
 have	VERB
 died	VERB
 --	.
 more	DET
 than	DET
+three	NUM
 times	NOUN
 the	DET
 expected	VERB
 number	NOUN
 .	.
 
+Four	NUM
 of	ADP
 the	DET
+five	NUM
 surviving	VERB
 workers	NOUN
 have	VERB
@@ -367,6 +374,7 @@ related	VERB
 diseases	NOUN
 ,	.
 including	VERB
+three	NUM
 with	ADP
 diagnosed	VERB
 cancer	NOUN
@@ -375,6 +383,7 @@ cancer	NOUN
 The	DET
 total	NOUN
 of	ADP
+18	NUM
 deaths	NOUN
 from	ADP
 malignant	ADJ
@@ -519,6 +528,7 @@ said	VERB
 The	DET
 U.S.	NOUN
 is	VERB
+one	NUM
 of	ADP
 the	DET
 few	ADJ
@@ -620,6 +630,7 @@ outlawed	VERB
 .	.
 
 About	ADP
+160	NUM
 workers	NOUN
 at	ADP
 a	DET
@@ -637,6 +648,7 @@ to	ADP
 asbestos	NOUN
 in	ADP
 the	DET
+1950s	NUM
 .	.
 
 Areas	NOUN
@@ -795,6 +807,7 @@ compound	NOUN
 yield	NOUN
 of	ADP
 the	DET
+400	NUM
 taxable	ADJ
 funds	NOUN
 tracked	VERB
@@ -1013,6 +1026,7 @@ funds	NOUN
 Assets	NOUN
 of	ADP
 the	DET
+400	NUM
 taxable	ADJ
 funds	NOUN
 grew	VERB
@@ -1116,6 +1130,7 @@ simple	ADJ
 yield	NOUN
 of	ADP
 the	DET
+400	NUM
 funds	NOUN
 was	VERB
 8.12	NOUN
@@ -1202,9 +1217,11 @@ resigned	VERB
 W.R.	NOUN
 Grace	NOUN
 holds	VERB
+three	NUM
 of	ADP
 Grace	NOUN
 Energy's	NOUN
+seven	NUM
 board	NOUN
 seats	NOUN
 .	.
@@ -1317,6 +1334,7 @@ systems	NOUN
 .	.
 
 employs	VERB
+2,700	NUM
 people	NOUN
 and	CONJ
 has	VERB
@@ -1607,6 +1625,7 @@ idea	NOUN
 to	PRT
 prove	VERB
 to	ADP
+125	NUM
 corporate	ADJ
 decision	NOUN
 makers	NOUN
@@ -1775,6 +1794,7 @@ the	DET
 speedway	NOUN
 hauled	VERB
 out	VERB
+four	NUM
 drivers	NOUN
 ,	.
 crews	NOUN
@@ -1782,9 +1802,11 @@ and	CONJ
 the	DET
 official	ADJ
 Indianapolis	NOUN
+500	NUM
 announcer	NOUN
 for	ADP
 a	DET
+10	NUM
 -	.
 lap	NOUN
 exhibition	NOUN
@@ -1796,6 +1818,7 @@ the	DET
 race	NOUN
 ,	.
 Fortune	NOUN
+500	NUM
 executives	NOUN
 drooled	VERB
 like	ADP
@@ -1823,6 +1846,7 @@ another	DET
 sponsor's	NOUN
 name	NOUN
 or	CONJ
+two	NUM
 .	.
 
 downtown	NOUN
@@ -1868,6 +1892,7 @@ Indiana	NOUN
 Roof	NOUN
 ballroom	NOUN
 ,	.
+nine	NUM
 of	ADP
 the	DET
 hottest	ADJ
@@ -1902,6 +1927,7 @@ free	ADJ
 --	.
 meal	NOUN
 eat	VERB
+one	NUM
 ,	.
 the	DET
 executives	NOUN
@@ -2272,6 +2298,7 @@ January	NOUN
 A	DET
 full	ADJ
 ,	.
+four	NUM
 color	ADJ
 page	NOUN
 in	ADP
@@ -2421,6 +2448,7 @@ Newsweek's	NOUN
 ad	NOUN
 pages	NOUN
 totaled	VERB
+1,620	NUM
 ,	.
 a	DET
 drop	NOUN
@@ -2495,6 +2523,7 @@ none	NOUN
 of	ADP
 the	DET
 big	ADJ
+three	NUM
 weeklies	NOUN
 recorded	VERB
 circulation	NOUN
@@ -2517,6 +2546,7 @@ had	VERB
 average	ADJ
 circulation	NOUN
 of	ADP
+4,393,237	NUM
 ,	.
 a	DET
 decrease	NOUN
@@ -2535,6 +2565,7 @@ months	NOUN
 of	ADP
 1989	NOUN
 was	VERB
+3,288,453	NUM
 ,	.
 flat	ADJ
 from	ADP
@@ -2553,6 +2584,7 @@ the	DET
 same	ADJ
 time	NOUN
 was	VERB
+2,303,328	NUM
 ,	.
 2.6	NOUN
 %	NOUN
@@ -2623,6 +2655,7 @@ reorganization	NOUN
 plan	NOUN
 in	ADP
 Chapter	NOUN
+11	NUM
 bankruptcy	NOUN
 proceedings	NOUN
 under	ADP
@@ -2858,6 +2891,7 @@ attention	NOUN
 
 was	VERB
 another	DET
+one	NUM
 of	ADP
 the	DET
 risk	NOUN
@@ -2934,6 +2968,7 @@ proposed	VERB
 by	ADP
 the	DET
 other	ADJ
+two	NUM
 outside	ADJ
 bidders	NOUN
 --	.
@@ -3066,6 +3101,7 @@ Frederick	NOUN
 Deane	NOUN
 Jr.	NOUN
 ,	.
+63	NUM
 ,	.
 chairman	NOUN
 of	ADP
@@ -3109,6 +3145,7 @@ undersecretary	NOUN
 ,	.
 on	ADP
 the	DET
+12	NUM
 -	.
 member	NOUN
 board	NOUN
@@ -3204,6 +3241,8 @@ April	NOUN
 1986	NOUN
 ,	.
 including	VERB
+two	NUM
+million	NUM
 customers	NOUN
 have	VERB
 moved	VERB
@@ -3364,6 +3403,8 @@ changed	VERB
 during	ADP
 the	DET
 past	ADJ
+3	NUM
+1/2	NUM
 years	NOUN
 would	VERB
 be	VERB
@@ -3399,6 +3440,7 @@ $	NOUN
 2.5	NOUN
 billion	NOUN
 Byron	NOUN
+1	NUM
 plant	NOUN
 near	ADP
 Rockford	NOUN
@@ -3603,6 +3645,7 @@ that	CONJ
 Judge	NOUN
 Curry's	NOUN
 Byron	NOUN
+1	NUM
 order	NOUN
 may	VERB
 set	VERB
@@ -3618,6 +3661,7 @@ involving	VERB
 Commonwealth	NOUN
 Edison's	NOUN
 Braidwood	NOUN
+2	NUM
 plant	NOUN
 .	.
 
@@ -3635,6 +3679,7 @@ to	PRT
 pay	VERB
 for	ADP
 Braidwood	NOUN
+2	NUM
 .	.
 
 The	DET
@@ -3646,6 +3691,7 @@ rule	VERB
 on	ADP
 the	DET
 Braidwood	NOUN
+2	NUM
 case	NOUN
 by	ADP
 year	NOUN
@@ -3691,6 +3737,7 @@ a	DET
 year	NOUN
 earlier	ADJ
 to	ADP
+500,004	NUM
 units	NOUN
 ,	.
 a	DET
@@ -3766,6 +3813,7 @@ a	DET
 year	NOUN
 earlier	ADJ
 to	ADP
+361,376	NUM
 units	NOUN
 .	.
 
@@ -3790,8 +3838,10 @@ tax	NOUN
 than	ADP
 doubled	VERB
 to	ADP
+30,841	NUM
 units	NOUN
 from	ADP
+13,056	NUM
 in	ADP
 October	NOUN
 1988	NOUN
@@ -3831,6 +3881,7 @@ plant	NOUN
 located	VERB
 in	ADP
 Chinchon	NOUN
+60	NUM
 miles	NOUN
 from	ADP
 Seoul	NOUN
@@ -3992,6 +4043,7 @@ years	NOUN
 the	DET
 Cray	NOUN
 -	.
+3	NUM
 machine	NOUN
 is	VERB
 another	DET
@@ -4013,6 +4065,7 @@ for	ADP
 the	DET
 Cray	NOUN
 -	.
+3	NUM
 ,	.
 though	ADP
 the	DET
@@ -4096,6 +4149,7 @@ of	ADP
 the	DET
 Cray	NOUN
 -	.
+3	NUM
 ,	.
 and	CONJ
 without	ADP
@@ -4279,6 +4333,7 @@ include	VERB
 the	DET
 Cray	NOUN
 -	.
+3's	NUM
 tricky	ADJ
 ,	.
 unproven	ADJ
@@ -4316,8 +4371,10 @@ equipment	NOUN
 the	DET
 Cray	NOUN
 -	.
+3	NUM
 will	VERB
 contain	VERB
+16	NUM
 processors	NOUN
 --	.
 the	DET
@@ -4354,6 +4411,7 @@ roll	VERB
 out	VERB
 the	DET
 -	.
+90	NUM
 machine	NOUN
 ,	.
 a	DET
@@ -4363,6 +4421,7 @@ with	ADP
 the	DET
 Cray	NOUN
 -	.
+3	NUM
 ,	.
 in	ADP
 1991	NOUN
@@ -4380,6 +4439,7 @@ Corp.	NOUN
 and	CONJ
 Japan's	NOUN
 Big	ADJ
+Three	NUM
 --	.
 Hitachi	NOUN
 Ltd.	NOUN
@@ -4397,6 +4457,7 @@ believes	VERB
 are	VERB
 fewer	ADJ
 than	ADP
+100	NUM
 potential	ADJ
 customers	NOUN
 for	ADP
@@ -4414,6 +4475,7 @@ million	NOUN
 the	DET
 Cray	NOUN
 -	.
+3	NUM
 price	NOUN
 range	NOUN
 .	.
@@ -4430,11 +4492,13 @@ stockholders	NOUN
 are	VERB
 to	PRT
 receive	VERB
+one	NUM
 Cray	NOUN
 Computer	NOUN
 share	NOUN
 for	ADP
 every	DET
+two	NUM
 Cray	NOUN
 Research	NOUN
 shares	NOUN
@@ -4517,6 +4581,7 @@ to	ADP
 the	DET
 Cray	NOUN
 -	.
+3	NUM
 development	NOUN
 ,	.
 has	VERB
@@ -4544,6 +4609,7 @@ Without	ADP
 the	DET
 Cray	NOUN
 -	.
+3	NUM
 research	NOUN
 and	CONJ
 development	NOUN
@@ -4684,6 +4750,7 @@ includes	VERB
 Neil	NOUN
 Davenport	NOUN
 ,	.
+47	NUM
 ,	.
 president	NOUN
 and	CONJ
@@ -4695,6 +4762,7 @@ Joseph	NOUN
 M.	NOUN
 Blanchard	NOUN
 ,	.
+37	NUM
 ,	.
 vice	NOUN
 president	NOUN
@@ -4705,6 +4773,7 @@ Malcolm	NOUN
 A.	NOUN
 Hammerton	NOUN
 ,	.
+40	NUM
 ,	.
 vice	NOUN
 president	NOUN
@@ -4716,6 +4785,7 @@ Douglas	NOUN
 R.	NOUN
 Wheeland	NOUN
 ,	.
+45	NUM
 ,	.
 vice	NOUN
 president	NOUN
@@ -4733,6 +4803,7 @@ Cray	NOUN
 Computer	NOUN
 ,	.
 employs	VERB
+241	NUM
 people	NOUN
 ,	.
 said	VERB
@@ -4741,6 +4812,7 @@ a	DET
 work	NOUN
 force	NOUN
 of	ADP
+450	NUM
 by	ADP
 the	DET
 end	NOUN
@@ -4805,6 +4877,7 @@ Arthur	NOUN
 A.	NOUN
 Hatch	NOUN
 ,	.
+59	NUM
 ,	.
 was	VERB
 named	VERB
@@ -4831,6 +4904,7 @@ John	NOUN
 D.	NOUN
 Carney	NOUN
 ,	.
+45	NUM
 ,	.
 was	VERB
 named	VERB
@@ -4856,6 +4930,7 @@ Robert	NOUN
 P.	NOUN
 Tassinari	NOUN
 ,	.
+63	NUM
 ,	.
 was	VERB
 named	VERB
@@ -4913,6 +4988,7 @@ rights	NOUN
 .	.
 
 ,	.
+five	NUM
 other	ADJ
 countries	NOUN
 --	.
@@ -4988,6 +5064,7 @@ said	VERB
 many	ADJ
 of	ADP
 the	DET
+25	NUM
 countries	NOUN
 that	CONJ
 placed	VERB
@@ -5215,6 +5292,7 @@ said	VERB
 .	.
 
 These	DET
+three	NUM
 countries	NOUN
 are	VERB
 n't	PRT
@@ -5233,6 +5311,7 @@ priority	NOUN
 list	NOUN
 that	CONJ
 includes	VERB
+17	NUM
 other	ADJ
 countries	NOUN
 .	.
@@ -5348,6 +5427,7 @@ said	VERB
 Mexico	NOUN
 could	VERB
 be	VERB
+one	NUM
 of	ADP
 the	DET
 next	ADJ
@@ -5460,6 +5540,7 @@ under	ADP
 the	DET
 so-called	ADJ
 special	ADJ
+301	NUM
 provision	NOUN
 of	ADP
 the	DET
@@ -5670,6 +5751,7 @@ business	NOUN
 history	NOUN
 .	.
 
+THREE	NUM
 COMPUTERS	NOUN
 that	CONJ
 CHANGED	VERB
@@ -5830,6 +5912,7 @@ keyboards	NOUN
 and	CONJ
 could	VERB
 store	VERB
+two	NUM
 pages	NOUN
 of	ADP
 data	NOUN
@@ -5842,12 +5925,14 @@ PCs	NOUN
 are	VERB
 more	DET
 than	DET
+50	NUM
 times	NOUN
 faster	ADJ
 and	CONJ
 have	VERB
 memory	NOUN
 capacity	NOUN
+500	NUM
 times	NOUN
 greater	ADJ
 than	ADP
@@ -5889,6 +5974,7 @@ years	NOUN
 after	ADP
 IBM	NOUN
 adapted	VERB
+one	NUM
 of	ADP
 these	DET
 versions	NOUN
@@ -5923,6 +6009,7 @@ and	CONJ
 Dale	NOUN
 Heatherington	NOUN
 ,	.
+two	NUM
 Atlanta	NOUN
 engineers	NOUN
 ,	.
@@ -6081,10 +6168,12 @@ will	VERB
 be	VERB
 raised	VERB
 by	ADP
+11,000	NUM
 barrels	NOUN
 a	DET
 day	NOUN
 to	ADP
+321,000	NUM
 barrels	NOUN
 with	ADP
 the	DET
@@ -6097,6 +6186,7 @@ field	NOUN
 the	DET
 first	ADJ
 of	ADP
+five	NUM
 small	ADJ
 fields	NOUN
 scheduled	VERB
@@ -6157,6 +6247,7 @@ be	VERB
 increased	VERB
 until	ADP
 reaches	VERB
+11,000	NUM
 barrels	NOUN
 a	DET
 day	NOUN
@@ -6175,6 +6266,7 @@ barrels	NOUN
 Reserves	NOUN
 for	ADP
 the	DET
+five	NUM
 new	ADJ
 fields	NOUN
 total	VERB
@@ -6411,6 +6503,7 @@ watches	NOUN
 ,	.
 covered	VERB
 by	ADP
+58	NUM
 different	ADJ
 U.S.	NOUN
 tariff	NOUN
@@ -6430,6 +6523,7 @@ duty	NOUN
 free	ADJ
 status	NOUN
 for	ADP
+18	NUM
 categories	NOUN
 ,	.
 but	CONJ
@@ -6704,6 +6798,7 @@ below	ADP
 52-week	ADJ
 high	NOUN
 of	ADP
+16.125	NUM
 Canadian	ADJ
 dollars	NOUN
 US	NOUN
@@ -6721,6 +6816,7 @@ yesterday	NOUN
 Magna	NOUN
 shares	NOUN
 closed	VERB
+37.5	NUM
 Canadian	ADJ
 cents	NOUN
 to	ADP
@@ -6827,6 +6923,7 @@ career	NOUN
 with	ADP
 Magna	NOUN
 as	ADP
+one	NUM
 of	ADP
 clients	NOUN
 .	.
@@ -6862,6 +6959,7 @@ single	ADJ
 handedly	ADJ
 bought	VERB
 up	VERB
+two	NUM
 new	ADJ
 mortgage	NOUN
 securities	NOUN
@@ -6978,6 +7076,7 @@ bank	NOUN
 
 The	DET
 latest	ADJ
+two	NUM
 funds	NOUN
 were	VERB
 assembled	VERB
@@ -7003,6 +7102,7 @@ new	ADJ
 seven-year	ADJ
 funds	NOUN
 --	.
+one	NUM
 offering	VERB
 a	DET
 fixed-rate	ADJ
@@ -7024,6 +7124,7 @@ offered	VERB
 rate	NOUN
 --	.
 offer	VERB
+two	NUM
 key	ADJ
 advantages	NOUN
 to	ADP
@@ -7205,6 +7306,7 @@ expanding	VERB
 the	DET
 board	NOUN
 to	ADP
+14	NUM
 members	NOUN
 .	.
 
@@ -7252,6 +7354,7 @@ is	VERB
 operating	VERB
 under	ADP
 Chapter	NOUN
+11	NUM
 of	ADP
 the	DET
 federal	ADJ
@@ -7501,6 +7604,7 @@ country	NOUN
 
 fewer	ADJ
 than	ADP
+24	NUM
 country	NOUN
 funds	NOUN
 have	VERB
@@ -7665,6 +7769,7 @@ funds	NOUN
 ,	.
 of	ADP
 these	DET
+one	NUM
 country	NOUN
 portfolios	NOUN
 are	VERB
@@ -7689,6 +7794,7 @@ The	DET
 surge	NOUN
 brings	VERB
 to	ADP
+50	NUM
 the	DET
 number	NOUN
 of	ADP
@@ -8337,6 +8443,7 @@ U.S.	NOUN
 
 ,	.
 after	ADP
+two	NUM
 meetings	NOUN
 with	ADP
 the	DET
@@ -9545,6 +9652,7 @@ for	ADP
 each	DET
 of	ADP
 the	DET
+five	NUM
 previous	ADJ
 months	NOUN
 .	.
@@ -9590,6 +9698,7 @@ provided	VERB
 by	ADP
 more	DET
 than	DET
+250	NUM
 purchasing	NOUN
 executives	NOUN
 .	.
@@ -9704,6 +9813,7 @@ dozen	NOUN
 ,	.
 but	CONJ
 included	VERB
+one	NUM
 newcomer	NOUN
 :	.
 milk	NOUN
@@ -9834,6 +9944,7 @@ Chase	NOUN
 "	.
 Kodansha	NOUN
 ,	.
+320	NUM
 pages	NOUN
 ,	.
 $	NOUN
@@ -10039,6 +10150,7 @@ disaffected	ADJ
 drinking	VERB
 ,	.
 -	.
+30	NUM
 hero	NOUN
 sets	VERB
 off	VERB
@@ -10146,6 +10258,7 @@ Wood	NOUN
 every	DET
 Japanese	NOUN
 under	ADP
+40	NUM
 seems	VERB
 to	PRT
 be	VERB
@@ -10170,6 +10283,7 @@ in	ADP
 
 But	CONJ
 is	VERB
+one	NUM
 of	ADP
 several	DET
 youthful	ADJ
@@ -10215,6 +10329,7 @@ Wa	.
 "	.
 Macmillan	NOUN
 ,	.
+339	NUM
 pages	NOUN
 ,	.
 $	NOUN
@@ -10421,6 +10536,7 @@ ballplayers	NOUN
 ,	.
 rationed	VERB
 to	ADP
+two	NUM
 per	ADP
 team	NOUN
 ,	.
@@ -10464,6 +10580,7 @@ Business	NOUN
 "	.
 Soho	NOUN
 ,	.
+228	NUM
 pages	NOUN
 ,	.
 $	NOUN

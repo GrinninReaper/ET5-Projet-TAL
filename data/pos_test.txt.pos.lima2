@@ -16,7 +16,7 @@ director	NN
 Nov.	NNP
 29	NNP
 .	.
-
+	
 Mr.	NNP
 Vinken	NNP
 is	VB
@@ -30,7 +30,7 @@ Dutch	JJ
 publishing	NN
 group	NN
 .	.
-
+	
 Rudolph	NNP
 Agnew	NNP
 ,	,
@@ -57,7 +57,7 @@ British	JJ
 industrial	JJ
 conglomerate	NN
 .	.
-
+	
 A	NN
 form	NN
 of	IN
@@ -83,6 +83,7 @@ of	IN
 workers	NN
 exposed	VB
 to	IN
+more	ADV
 than	IN
 30	CD
 years	NN
@@ -90,7 +91,7 @@ years	NN
 researchers	NN
 reported	VB
 .	.
-
+	
 The	DT
 asbestos	NN
 fiber	NN
@@ -99,6 +100,7 @@ crocidolite	NN
 ,	,
 is	VB
 resilient	JJ
+once	ADV
 enters	VB
 the	DT
 lungs	NN
@@ -111,13 +113,14 @@ causing	VB
 symptoms	NN
 that	CC
 show	NN
+up	ADV
 decades	NN
 later	JJ
 ,	,
 researchers	NN
 said	VB
 .	.
-
+	
 Lorillard	NN
 Inc.	NNP
 ,	,
@@ -145,12 +148,13 @@ filters	NN
 in	IN
 1956	CD
 .	.
-
+	
 Although	IN
 preliminary	JJ
 findings	NN
 were	VB
 reported	VB
+more	ADV
 than	IN
 a	DT
 year	NN
@@ -178,7 +182,7 @@ to	IN
 the	DT
 problem	NN
 .	.
-
+	
 A	NN
 Lorillard	NN
 spokewoman	NN
@@ -190,10 +194,11 @@ an	DT
 old	JJ
 story	NN
 .	.
-
+	
 '	.
 re	NN
 talking	VB
+about	ADV
 years	NN
 before	IN
 heard	VB
@@ -204,14 +209,14 @@ any	DT
 questionable	JJ
 properties	NN
 .	.
-
+	
 is	VB
 no	DT
 asbestos	NN
 in	IN
 products	NN
 .	.
-
+	
 "	.
 Neither	DT
 Lorillard	NN
@@ -233,7 +238,7 @@ the	DT
 Kent	VB
 cigarettes	NN
 .	.
-
+	
 ``	.
 have	VB
 on	IN
@@ -258,7 +263,7 @@ Farber	NNP
 Cancer	NN
 Institute	NN
 .	.
-
+	
 Dr.	NNP
 Talcott	NNP
 led	VB
@@ -282,7 +287,7 @@ and	CC
 Boston	NNP
 University	NN
 .	.
-
+	
 The	DT
 Lorillard	NN
 spokeswoman	NN
@@ -316,7 +321,7 @@ filter	NN
 in	IN
 1956	CD
 .	.
-
+	
 From	IN
 1953	CD
 to	IN
@@ -336,7 +341,7 @@ the	DT
 company	NN
 said	VB
 .	.
-
+	
 Among	IN
 33	CD
 men	NN
@@ -349,6 +354,7 @@ substance	NN
 have	VB
 died	VB
 --	:
+more	ADV
 than	IN
 three	CD
 times	NN
@@ -356,7 +362,7 @@ the	DT
 expected	VB
 number	NN
 .	.
-
+	
 Four	CD
 of	IN
 the	DT
@@ -374,7 +380,7 @@ with	IN
 diagnosed	VB
 cancer	NN
 .	.
-
+	
 The	DT
 total	NN
 of	IN
@@ -397,7 +403,7 @@ the	DT
 researchers	NN
 said	VB
 .	.
-
+	
 ``	.
 The	DT
 morbidity	NN
@@ -419,7 +425,7 @@ said	VB
 Dr.	NNP
 Talcott	NNP
 .	.
-
+	
 The	DT
 percentage	NN
 of	IN
@@ -436,7 +442,7 @@ Groton	NNP
 ,	,
 Mass	NN
 .	.
-
+	
 ,	,
 paper	NN
 factory	NN
@@ -457,7 +463,7 @@ countries	NN
 ,	,
 said	VB
 .	.
-
+	
 The	DT
 plant	NN
 ,	,
@@ -480,7 +486,7 @@ the	DT
 cigarette	NN
 filters	NN
 .	.
-
+	
 The	DT
 finding	NN
 will	MD
@@ -509,6 +515,7 @@ chrysotile	NN
 ,	,
 found	VB
 in	IN
+most	ADV
 schools	NN
 and	CC
 other	JJ
@@ -518,7 +525,7 @@ Dr.	NNP
 Talcott	NNP
 said	VB
 .	.
-
+	
 The	DT
 U.S.	JJ
 is	VB
@@ -572,7 +579,7 @@ College	NN
 of	IN
 Medicine	NN
 .	.
-
+	
 common	JJ
 chrysotile	NN
 fibers	NN
@@ -589,7 +596,7 @@ Dr.	NNP
 Mossman	NNP
 explained	VB
 .	.
-
+	
 In	IN
 July	NNP
 ,	,
@@ -607,7 +614,7 @@ uses	NN
 of	IN
 asbestos	NN
 .	.
-
+	
 By	IN
 1997	CD
 ,	,
@@ -622,7 +629,7 @@ will	MD
 be	VB
 outlawed	VB
 .	.
-
+	
 About	IN
 160	CD
 workers	NN
@@ -644,7 +651,7 @@ in	IN
 the	DT
 1950s	CD
 .	.
-
+	
 Areas	NN
 of	IN
 the	DT
@@ -656,7 +663,7 @@ crocidolite	NN
 was	VB
 used	VB
 .	.
-
+	
 Workers	NN
 dumped	VB
 large	JJ
@@ -690,7 +697,7 @@ to	IN
 make	VB
 filters	NN
 .	.
-
+	
 Workers	NN
 described	VB
 ``	.
@@ -715,7 +722,7 @@ ventilated	VB
 the	DT
 area	NN
 .	.
-
+	
 ``	.
 is	VB
 no	DT
@@ -747,7 +754,7 @@ Hollingsworth	NNP
 &	CC
 Vose	NNP
 .	.
-
+	
 ``	.
 But	IN
 have	VB
@@ -761,7 +768,7 @@ place	NN
 35	CD
 years	NN
 .	.
-
+	
 has	VB
 no	DT
 bearing	NN
@@ -770,7 +777,7 @@ work	NN
 force	NN
 today	NN
 .	.
-
+	
 Yields	NN
 on	IN
 money	NN
@@ -787,12 +794,13 @@ that	CC
 portfolio	NN
 managers	NN
 expect	VB
+further	ADV
 declines	NN
 in	IN
 interest	NN
 rates	NN
 .	.
-
+	
 The	DT
 average	NN
 seven-day	JJ
@@ -818,15 +826,17 @@ percentage	NN
 point	NN
 to	IN
 8.45	CD
+%	SYM
 from	IN
 8.47	CD
+%	SYM
 for	IN
 the	DT
 week	NN
 ended	VB
 Tuesday	NNP
 .	.
-
+	
 Compound	NN
 yields	NN
 assume	VB
@@ -843,7 +853,7 @@ for	IN
 a	DT
 year	NN
 .	.
-
+	
 Average	NN
 maturity	NN
 of	IN
@@ -868,7 +878,7 @@ according	IN
 to	IN
 Donoghue	NNP
 .	.
-
+	
 Longer	JJ
 maturities	NN
 are	VB
@@ -891,7 +901,7 @@ a	DT
 longer	NN
 period	NN
 .	.
-
+	
 Shorter	JJ
 maturities	NN
 are	VB
@@ -909,7 +919,7 @@ capture	VB
 higher	JJ
 rates	NN
 .	.
-
+	
 The	DT
 average	NN
 maturity	NN
@@ -945,7 +955,7 @@ year	NN
 33	CD
 days	NN
 .	.
-
+	
 ,	,
 said	VB
 Brenda	NNP
@@ -962,6 +972,7 @@ yields	NN
 ``	.
 may	MD
 blip	NN
+up	ADV
 before	IN
 blip	NN
 down	IN
@@ -975,7 +986,7 @@ short-term	JJ
 interest	NN
 rates	NN
 .	.
-
+	
 The	DT
 yield	NN
 on	IN
@@ -991,6 +1002,7 @@ auction	NN
 rose	VB
 to	IN
 8.04	CD
+%	SYM
 from	IN
 7.90	CD
 %	,
@@ -1010,7 +1022,7 @@ into	IN
 money	NN
 funds	NN
 .	.
-
+	
 Assets	NN
 of	IN
 the	DT
@@ -1019,6 +1031,7 @@ taxable	JJ
 funds	NN
 grew	VB
 by	IN
+$	CUR
 1.5	CD
 billion	NN
 during	IN
@@ -1027,10 +1040,11 @@ latest	JJ
 week	NN
 ,	,
 to	IN
+$	CUR
 352.7	CD
 billion	NN
 .	.
-
+	
 ,	,
 money	NN
 fund	NN
@@ -1052,7 +1066,7 @@ the	DT
 highest	JJ
 rates	NN
 .	.
-
+	
 The	DT
 top	NN
 money	NN
@@ -1079,6 +1093,7 @@ compound	NN
 yield	NN
 of	IN
 9.37	CD
+%	SYM
 during	IN
 the	DT
 latest	JJ
@@ -1086,11 +1101,12 @@ week	NN
 ,	,
 from	IN
 9.45	CD
+%	SYM
 a	DT
 week	NN
 earlier	JJ
 .	.
-
+	
 invests	VB
 in	IN
 dollar	NN
@@ -1105,7 +1121,7 @@ fees	NN
 boosts	NN
 yield	NN
 .	.
-
+	
 The	DT
 average	NN
 seven-day	JJ
@@ -1117,6 +1133,7 @@ the	DT
 funds	NN
 was	VB
 8.12	CD
+%	SYM
 ,	,
 from	IN
 8.14	CD
@@ -1132,10 +1149,12 @@ to	IN
 an	DT
 average	NN
 8.19	CD
+%	SYM
 from	IN
 8.22	CD
+%	SYM
 ;	:
-
+	
 the	DT
 30	CD
 day	NN
@@ -1146,6 +1165,7 @@ to	IN
 an	DT
 average	NN
 8.53	CD
+%	SYM
 from	IN
 8.56	CD
 %	,
@@ -1161,11 +1181,12 @@ Grace	NN
 &	CC
 Co	NN
 .	.
-
+	
 ,	,
 holds	VB
 a	DT
 83.4	CD
+%	SYM
 interest	NN
 in	IN
 this	DT
@@ -1178,7 +1199,7 @@ elected	VB
 a	DT
 director	NN
 .	.
-
+	
 succeeds	VB
 Terrence	NNP
 D.	NNP
@@ -1192,7 +1213,7 @@ chairman	NN
 ,	,
 resigned	VB
 .	.
-
+	
 W.R.	NNP
 Grace	NN
 holds	VB
@@ -1204,7 +1225,7 @@ seven	CD
 board	NN
 seats	NN
 .	.
-
+	
 Pacific	JJ
 First	JJ
 Financial	JJ
@@ -1218,19 +1239,21 @@ Royal	NN
 Trustco	NNP
 Ltd	NNP
 .	.
-
+	
 of	IN
 Toronto	NNP
 for	IN
+$	CUR
 27	CD
 a	DT
 share	NN
 ,	,
 or	CC
+$	CUR
 212	CD
 million	NN
 .	.
-
+	
 The	DT
 thrift	NN
 holding	NN
@@ -1249,7 +1272,7 @@ by	IN
 year	NN
 end	NN
 .	.
-
+	
 McDermott	NN
 International	NN
 Inc.	NNP
@@ -1269,13 +1292,14 @@ to	IN
 Finmeccanica	NNP
 S.p	NNP
 .	.
-
+	
 A.	NNP
 for	IN
+$	CUR
 295	CD
 million	NN
 .	.
-
+	
 Finmeccanica	NNP
 is	VB
 an	DT
@@ -1292,7 +1316,7 @@ mechanical	JJ
 engineering	NN
 industry	NN
 .	.
-
+	
 Bailey	NNP
 Controls	NN
 ,	,
@@ -1308,7 +1332,7 @@ industrial	JJ
 controls	NN
 systems	NN
 .	.
-
+	
 employs	VB
 2,700	CD
 people	NN
@@ -1317,10 +1341,11 @@ has	VB
 annual	JJ
 revenue	NN
 of	IN
+$	CUR
 370	CD
 million	NN
 .	.
-
+	
 The	DT
 federal	JJ
 government	NN
@@ -1341,7 +1366,7 @@ on	IN
 government	NN
 debt	NN
 .	.
-
+	
 Until	IN
 Congress	NNP
 acts	NN
@@ -1365,7 +1390,7 @@ the	DT
 Treasury	NNP
 said	VB
 .	.
-
+	
 The	DT
 government	NN
 borrowing	NN
@@ -1375,13 +1400,15 @@ at	IN
 midnight	NN
 Tuesday	NNP
 to	IN
+$	CUR
 2.80	CD
 trillion	NN
 from	IN
+$	CUR
 2.87	CD
 trillion	NN
 .	.
-
+	
 Legislation	NN
 to	IN
 lift	VB
@@ -1399,7 +1426,7 @@ capital	NN
 gains	NN
 taxes	NN
 .	.
-
+	
 The	DT
 House	NN
 has	VB
@@ -1409,6 +1436,7 @@ raise	NN
 the	DT
 ceiling	NN
 to	IN
+$	CUR
 3.1	CD
 trillion	NN
 ,	,
@@ -1427,7 +1455,7 @@ at	IN
 the	DT
 earliest	JJ
 .	.
-
+	
 The	DT
 Treasury	NNP
 said	VB
@@ -1445,7 +1473,7 @@ does	VB
 n't	POS
 act	NN
 .	.
-
+	
 Clark	NNP
 J.	NNP
 Vitulli	NNP
@@ -1472,7 +1500,7 @@ Mazda	NNP
 Motor	NNP
 Corp	NNP
 .	.
-
+	
 In	IN
 the	DT
 new	JJ
@@ -1490,7 +1518,7 @@ and	CC
 marketing	NN
 operations	NN
 .	.
-
+	
 ,	,
 Mr.	NNP
 Vitulli	NNP
@@ -1505,10 +1533,11 @@ marketing	NN
 manager	NN
 of	IN
 Chrysler	NNP
+Corp.'s	SYM
 Chrysler	NNP
 division	NN
 .	.
-
+	
 had	VB
 been	VB
 a	DT
@@ -1522,7 +1551,7 @@ for	IN
 20	CD
 years	NN
 .	.
-
+	
 is	VB
 time	NN
 for	IN
@@ -1549,11 +1578,11 @@ and	CC
 Hot	NNP
 Springs	NNP
 .	.
-
+	
 this	DT
 year	NN
 .	.
-
+	
 The	DT
 National	NN
 Association	NN
@@ -1571,7 +1600,7 @@ fall	NN
 board	NN
 meeting	NN
 .	.
-
+	
 And	CC
 the	DT
 city	NN
@@ -1579,6 +1608,7 @@ decided	VB
 to	IN
 treat	VB
 guests	NN
+more	ADV
 like	IN
 royalty	NN
 or	CC
@@ -1588,12 +1618,12 @@ than	IN
 factory	NN
 owners	NN
 .	.
-
+	
 The	DT
 idea	NN
 ,	,
 :	:
-
+	
 to	IN
 prove	VB
 to	IN
@@ -1625,7 +1655,7 @@ company	NN
 to	IN
 expand	VB
 .	.
-
+	
 On	IN
 the	DT
 receiving	VB
@@ -1657,7 +1687,7 @@ Queen	NN
 Cheese	NN
 Factory	NN
 .	.
-
+	
 For	IN
 starters	NN
 ,	,
@@ -1685,13 +1715,13 @@ comedian	NN
 Victor	NN
 Borge	NNP
 .	.
-
+	
 Champagne	NN
 and	CC
 dessert	NN
 followed	VB
 .	.
-
+	
 The	DT
 next	JJ
 morning	NN
@@ -1720,13 +1750,14 @@ or	CC
 red	NN
 lights	NN
 .	.
-
+	
 The	DT
 governor	NN
 could	MD
 n't	POS
 make	VB
 ,	,
+so	ADV
 the	DT
 lieutenant	NN
 governor	NN
@@ -1735,7 +1766,7 @@ the	DT
 special	JJ
 guests	NN
 .	.
-
+	
 A	NN
 buffet	NN
 breakfast	NN
@@ -1754,7 +1785,7 @@ to	IN
 everyday	JJ
 visitors	NN
 .	.
-
+	
 ,	,
 in	IN
 the	DT
@@ -1783,7 +1814,7 @@ lap	NN
 exhibition	NN
 race	NN
 .	.
-
+	
 After	IN
 the	DT
 race	NN
@@ -1800,7 +1831,7 @@ cars	NN
 and	CC
 drivers	NN
 .	.
-
+	
 No	DT
 dummies	NN
 ,	,
@@ -1819,7 +1850,7 @@ name	NN
 or	CC
 two	CD
 .	.
-
+	
 downtown	NN
 ,	,
 the	DT
@@ -1837,7 +1868,7 @@ boarding	VB
 the	DT
 buses	NN
 .	.
-
+	
 This	DT
 time	NN
 ,	,
@@ -1850,7 +1881,7 @@ dancing	NN
 a	DT
 block	NN
 .	.
-
+	
 Under	IN
 the	DT
 stars	NN
@@ -1888,7 +1919,7 @@ a	DT
 raspberry	NN
 sauce	NN
 .	.
-
+	
 Knowing	VB
 a	DT
 tasty	JJ
@@ -1909,7 +1940,8 @@ a	DT
 standing	NN
 ovation	NN
 .	.
-
+	
+More	ADV
 than	IN
 a	DT
 few	JJ
@@ -1930,7 +1962,7 @@ for	IN
 future	NN
 meetings	NN
 .	.
-
+	
 But	IN
 for	IN
 ,	,
@@ -1945,7 +1977,7 @@ Boca	NNP
 in	IN
 February	NNP
 .	.
-
+	
 South	NN
 Korea	NNP
 registered	VB
@@ -1953,6 +1985,7 @@ a	DT
 trade	NN
 deficit	NN
 of	IN
+$	CUR
 101	CD
 million	NN
 in	IN
@@ -1971,7 +2004,7 @@ figures	NN
 released	VB
 Wednesday	NNP
 .	.
-
+	
 Preliminary	JJ
 tallies	NN
 by	IN
@@ -1989,6 +2022,7 @@ October	NNP
 ,	,
 the	DT
 fifth	NN
+monthly	ADV
 setback	NN
 this	DT
 year	NN
@@ -2003,18 +2037,20 @@ export	NN
 oriented	VB
 economy	NN
 .	.
-
+	
 Exports	NN
 in	IN
 October	NNP
 stood	VB
 at	IN
+$	CUR
 5.29	CD
 billion	NN
 ,	,
 a	DT
 mere	JJ
 0.7	CD
+%	SYM
 increase	NN
 from	IN
 a	DT
@@ -2025,15 +2061,17 @@ while	IN
 imports	NN
 increased	VB
 to	IN
+$	CUR
 5.39	CD
 billion	NN
 ,	,
 20	CD
+%	SYM
 from	IN
 last	JJ
 October	NNP
 .	.
-
+	
 South	NN
 Korea	NNP
 economic	JJ
@@ -2058,7 +2096,7 @@ and	CC
 sluggish	JJ
 exports	NN
 .	.
-
+	
 Government	NN
 officials	NN
 said	VB
@@ -2076,10 +2114,11 @@ a	DT
 government	NN
 target	NN
 of	IN
+$	CUR
 68	CD
 billion	NN
 .	.
-
+	
 Despite	IN
 the	DT
 gloomy	JJ
@@ -2093,12 +2132,15 @@ a	DT
 trade	NN
 surplus	NN
 of	IN
+$	CUR
 71	CD
 million	NN
+so	ADV
+far	ADV
 this	DT
 year	NN
 .	.
-
+	
 From	IN
 January	NNP
 to	IN
@@ -2110,6 +2152,7 @@ accumulated	VB
 exports	NN
 increased	VB
 4	CD
+%	SYM
 from	IN
 the	DT
 same	JJ
@@ -2117,13 +2160,15 @@ period	NN
 last	JJ
 year	NN
 to	IN
+$	CUR
 50.45	NN
 billion	NN
 .	.
-
+	
 Imports	NN
 were	VB
 at	IN
+$	CUR
 50.38	NN
 billion	NN
 ,	,
@@ -2158,7 +2203,7 @@ plan	NN
 for	IN
 advertisers	NN
 .	.
-
+	
 The	DT
 new	JJ
 ad	NN
@@ -2188,7 +2233,7 @@ in	IN
 three	CD
 years	NN
 .	.
-
+	
 Plans	NN
 that	CC
 give	VB
@@ -2218,6 +2263,7 @@ Newsweek	NNP
 ,	,
 Time	NN
 Warner	NNP
+Inc.'s	SYM
 Time	NN
 Magazine	NN
 ,	,
@@ -2231,7 +2277,7 @@ News	NN
 World	NN
 Report	NN
 .	.
-
+	
 Alan	NNP
 Spoon	NN
 ,	,
@@ -2246,10 +2292,11 @@ rates	NN
 would	MD
 increase	NN
 5	CD
+%	SYM
 in	IN
 January	NNP
 .	.
-
+	
 A	NN
 full	JJ
 ,	,
@@ -2260,9 +2307,10 @@ in	IN
 Newsweek	NNP
 will	MD
 cost	NN
+$	CUR
 100,980	CD
 .	.
-
+	
 In	IN
 mid-October	NN
 ,	,
@@ -2282,7 +2330,7 @@ ad	NN
 page	NN
 rates	NN
 ;	:
-
+	
 with	IN
 a	DT
 lower	JJ
@@ -2295,20 +2343,22 @@ rate	NN
 will	MD
 be	VB
 7.5	CD
+%	SYM
 higher	JJ
 per	IN
 subscriber	NN
 ;	:
-
+	
 a	DT
 full	JJ
 page	NN
 in	IN
 Time	NNP
 costs	NN
+$	CUR
 120,000	CD
 .	.
-
+	
 U.S.	JJ
 News	NN
 has	VB
@@ -2318,7 +2368,7 @@ announce	VB
 ad	NN
 rates	NN
 .	.
-
+	
 Newsweek	NNP
 said	VB
 will	MD
@@ -2338,7 +2388,7 @@ on	IN
 renewal	NN
 advertising	NN
 .	.
-
+	
 "	.
 The	DT
 magazine	NN
@@ -2362,15 +2412,17 @@ as	CC
 long	CC
 as	CC
 spent	VB
+$	CUR
 325,000	CD
 in	IN
 1989	CD
 and	CC
+$	CUR
 340,000	CD
 in	IN
 1990	CD
 .	.
-
+	
 Mr.	NNP
 Spoon	NN
 said	VB
@@ -2382,6 +2434,7 @@ an	DT
 attempt	NN
 to	IN
 shore	NN
+up	ADV
 a	DT
 decline	NN
 in	IN
@@ -2395,7 +2448,7 @@ months	NN
 of	IN
 1989	CD
 ;	:
-
+	
 Newsweek's	NNP
 ad	NN
 pages	NN
@@ -2406,6 +2459,7 @@ a	DT
 drop	NN
 of	IN
 3.2	CD
+%	SYM
 from	IN
 last	JJ
 year	NN
@@ -2416,7 +2470,7 @@ Publishers	NN
 Information	NN
 Bureau	NN
 .	.
-
+	
 ``	.
 matters	NN
 is	VB
@@ -2440,7 +2494,7 @@ said	VB
 Mr.	NNP
 Spoon	NN
 .	.
-
+	
 Both	DT
 Newsweek	NNP
 and	CC
@@ -2468,7 +2522,7 @@ telephones	NN
 or	CC
 watches	NN
 .	.
-
+	
 ,	,
 none	NN
 of	IN
@@ -2480,7 +2534,7 @@ recorded	VB
 circulation	NN
 gains	NN
 .	.
-
+	
 According	IN
 to	IN
 Audit	NN
@@ -2525,7 +2579,7 @@ period	NN
 last	JJ
 year	NN
 .	.
-
+	
 U.S.	JJ
 News'	NNP
 circulation	NN
@@ -2575,7 +2629,7 @@ a	DT
 higher	JJ
 offer	NN
 .	.
-
+	
 The	DT
 move	NN
 leaves	VB
@@ -2615,7 +2669,7 @@ an	DT
 independent	JJ
 company	NN
 .	.
-
+	
 New	JJ
 England	NNP
 Electric	JJ
@@ -2626,10 +2680,11 @@ Westborough	NNP
 ,	,
 Mass	NN
 .	.
-
+	
 ,	,
 had	VB
 offered	VB
+$	CUR
 2	CD
 billion	NN
 to	IN
@@ -2641,6 +2696,7 @@ Hampshire	NNP
 ,	,
 below	IN
 the	DT
+$	CUR
 2.29	CD
 billion	NN
 value	NN
@@ -2651,6 +2707,7 @@ on	IN
 bid	NN
 and	CC
 the	DT
+$	CUR
 2.25	CD
 billion	NN
 Northeast	NN
@@ -2659,7 +2716,7 @@ bid	NN
 is	VB
 worth	NN
 .	.
-
+	
 United	VB
 Illuminating	VB
 is	VB
@@ -2670,7 +2727,7 @@ Haven	NNP
 ,	,
 Conn	NN
 .	.
-
+	
 ,	,
 and	CC
 Northeast	NN
@@ -2681,7 +2738,7 @@ Hartford	NNP
 ,	,
 Conn	NN
 .	.
-
+	
 PS	JJ
 of	IN
 New	JJ
@@ -2696,10 +2753,11 @@ internal	JJ
 reorganization	NN
 plan	NN
 at	IN
+$	CUR
 2.2	CD
 billion	NN
 .	.
-
+	
 John	NNP
 Rowe	NNP
 ,	,
@@ -2751,7 +2809,7 @@ n't	POS
 come	VB
 true	JJ
 .	.
-
+	
 ``	.
 evaluated	VB
 raising	NN
@@ -2774,10 +2832,11 @@ the	DT
 rewards	NN
 seemed	VB
 a	DT
+long	ADV
 way	NN
 out	IN
 .	.
-
+	
 got	VB
 to	IN
 take	VB
@@ -2785,7 +2844,7 @@ take	VB
 "	.
 added	VB
 .	.
-
+	
 Mr.	NNP
 Rowe	NNP
 noted	VB
@@ -2797,7 +2856,7 @@ New	JJ
 England	NNP
 Electric	JJ
 .	.
-
+	
 No	DT
 matter	NN
 owns	VB
@@ -2823,12 +2882,12 @@ nation	NN
 ,	,
 said	VB
 .	.
-
+	
 ``	.
 attracts	VB
 attention	NN
 .	.
-
+	
 .	.
 was	VB
 another	DT
@@ -2852,12 +2911,12 @@ bidding	NN
 ,	,
 added	VB
 .	.
-
+	
 Wilbur	NNP
 Ross	NNP
 Jr	NNP
 .	.
-
+	
 of	IN
 Rothschild	NNP
 Inc.	NNP
@@ -2881,11 +2940,12 @@ England	NNP
 Electric	JJ
 might	MD
 speed	NN
+up	ADV
 the	DT
 reorganization	NN
 process	NN
 .	.
-
+	
 The	DT
 fact	NN
 that	CC
@@ -2897,12 +2957,14 @@ rate	NN
 increases	NN
 --	:
 4.8	CD
+%	SYM
 over	IN
 seven	CD
 years	NN
 against	IN
 around	IN
 5.5	CD
+%	SYM
 boosts	NN
 proposed	VB
 by	IN
@@ -2922,7 +2984,7 @@ Mr.	NNP
 Ross	NNP
 asserted	VB
 .	.
-
+	
 ``	.
 the	DT
 field	NN
@@ -2932,7 +2994,7 @@ cluttered	VB
 "	.
 added	VB
 .	.
-
+	
 ,	,
 the	DT
 Federal	JJ
@@ -2957,7 +3019,7 @@ of	IN
 New	JJ
 Hampshire	NNP
 .	.
-
+	
 Northeast	NN
 said	VB
 would	MD
@@ -2992,7 +3054,7 @@ the	DT
 bankruptcy	NN
 court	NN
 .	.
-
+	
 PS	JJ
 of	IN
 New	JJ
@@ -3001,6 +3063,7 @@ shares	NN
 closed	VB
 yesterday	NN
 at	IN
+$	CUR
 3.75	CD
 ,	,
 off	IN
@@ -3015,7 +3078,7 @@ Exchange	NNP
 composite	NN
 trading	NN
 .	.
-
+	
 Norman	NNP
 Ricken	NNP
 ,	,
@@ -3032,7 +3095,9 @@ officer	NN
 of	IN
 Toys	NN
 ``	.
+R	SYM
 "	.
+Us	PRON
 Inc.	NNP
 ,	,
 and	CC
@@ -3040,7 +3105,7 @@ Frederick	NNP
 Deane	NNP
 Jr	NNP
 .	.
-
+	
 ,	,
 63	CD
 ,	,
@@ -3062,9 +3127,10 @@ appliances	NN
 retailing	NN
 chain	NN
 .	.
-
+	
 succeed	VB
 Daniel	NNP
+M.	SYM
 Rexinger	NNP
 ,	,
 retired	VB
@@ -3090,7 +3156,7 @@ the	DT
 member	NN
 board	NN
 .	.
-
+	
 Commonwealth	NNP
 Edison	NNP
 Co.	NN
@@ -3098,6 +3164,7 @@ was	VB
 ordered	VB
 to	IN
 refund	NN
+$	CUR
 250	CD
 million	NN
 to	IN
@@ -3118,12 +3185,14 @@ nuclear	JJ
 power	NN
 plant	NN
 .	.
-
+	
 The	DT
 refund	NN
 was	VB
+$	CUR
 55	CD
 million	NN
+more	ADV
 than	IN
 ordered	VB
 by	IN
@@ -3147,7 +3216,7 @@ or	CC
 local	JJ
 utility	NN
 .	.
-
+	
 State	NN
 court	NN
 Judge	NN
@@ -3160,8 +3229,10 @@ make	VB
 average	NN
 refunds	NN
 of	IN
+$	CUR
 45	CD
 to	IN
+$	CUR
 50	CD
 each	DT
 to	IN
@@ -3185,7 +3256,7 @@ during	IN
 that	CC
 period	NN
 .	.
-
+	
 Judge	NN
 Curry	NN
 ordered	VB
@@ -3214,13 +3285,13 @@ by	IN
 Commonwealth	NN
 Edison	NNP
 .	.
-
+	
 ``	.
 The	DT
 refund	NN
 pool	NN
 .	.
-
+	
 .	.
 may	MD
 not	POS
@@ -3238,7 +3309,7 @@ Judge	NN
 Curry	NN
 said	VB
 .	.
-
+	
 Commonwealth	NN
 Edison	NNP
 said	VB
@@ -3256,7 +3327,7 @@ Judge	NN
 Curry's	NNP
 order	NN
 .	.
-
+	
 The	DT
 exact	JJ
 amount	NN
@@ -3281,7 +3352,7 @@ of	IN
 this	DT
 year	NN
 .	.
-
+	
 Commonwealth	NN
 Edison	NNP
 said	VB
@@ -3294,11 +3365,12 @@ slash	VB
 1989	CD
 earnings	NN
 by	IN
+$	CUR
 1.55	CD
 a	DT
 share	NN
 .	.
-
+	
 For	IN
 1988	CD
 ,	,
@@ -3307,15 +3379,17 @@ Edison	NNP
 reported	VB
 earnings	NN
 of	IN
+$	CUR
 737.5	CD
 million	NN
 ,	,
 or	CC
+$	CUR
 3.01	CD
 a	DT
 share	NN
 .	.
-
+	
 A	NN
 Commonwealth	NN
 Edison	NNP
@@ -3344,7 +3418,7 @@ an	DT
 administrative	JJ
 nightmare	NN
 .	.
-
+	
 "	.
 In	IN
 New	NNP
@@ -3359,13 +3433,15 @@ Commonwealth	NN
 Edison	NNP
 closed	VB
 at	IN
+$	CUR
 38.375	NN
 ,	,
 12.5	CD
 cents	NN
 .	.
-
+	
 The	DT
+$	CUR
 2.5	CD
 billion	NN
 Byron	NNP
@@ -3376,14 +3452,14 @@ Rockford	NNP
 ,	,
 Ill	NNP
 .	.
-
+	
 ,	,
 was	VB
 completed	VB
 in	IN
 1985	CD
 .	.
-
+	
 In	IN
 a	DT
 disputed	VB
@@ -3401,6 +3477,7 @@ raise	NN
 electricity	NN
 rates	NN
 by	IN
+$	CUR
 49	CD
 million	NN
 to	IN
@@ -3409,7 +3486,7 @@ for	IN
 the	DT
 plant	NN
 .	.
-
+	
 But	IN
 state	NN
 courts	NN
@@ -3430,7 +3507,7 @@ the	DT
 rates	NN
 illegal	JJ
 .	.
-
+	
 The	DT
 Illinois	NNP
 Supreme	NN
@@ -3450,7 +3527,7 @@ any	DT
 unreasonable	JJ
 expenses	NN
 .	.
-
+	
 The	DT
 utility	NN
 has	VB
@@ -3472,7 +3549,7 @@ refund	NN
 since	IN
 1986	CD
 .	.
-
+	
 In	IN
 August	NNP
 ,	,
@@ -3481,9 +3558,11 @@ commission	NN
 ruled	VB
 that	CC
 between	IN
+$	CUR
 190	CD
 million	NN
 and	CC
+$	CUR
 195	CD
 million	NN
 of	IN
@@ -3501,7 +3580,7 @@ refunded	VB
 plus	CC
 interest	NN
 .	.
-
+	
 In	IN
 ruling	NN
 ,	,
@@ -3510,6 +3589,7 @@ Curry	NN
 added	VB
 an	DT
 additional	JJ
+$	CUR
 55	CD
 million	NN
 to	IN
@@ -3517,7 +3597,7 @@ the	DT
 commission	NN
 calculations	NN
 .	.
-
+	
 Last	JJ
 month	NN
 ,	,
@@ -3558,10 +3638,11 @@ Court	NN
 has	VB
 estimated	VB
 at	IN
+$	CUR
 140	CD
 million	NN
 .	.
-
+	
 And	CC
 consumer	NN
 groups	NN
@@ -3589,11 +3670,12 @@ Braidwood	NNP
 2	CD
 plant	NN
 .	.
-
+	
 Commonwealth	NN
 Edison	NNP
 is	VB
 seeking	VB
+$	CUR
 245	CD
 million	NN
 in	IN
@@ -3605,7 +3687,7 @@ for	IN
 Braidwood	NNP
 2	CD
 .	.
-
+	
 The	DT
 commission	NN
 is	VB
@@ -3621,7 +3703,7 @@ by	IN
 year	NN
 end	NN
 .	.
-
+	
 Last	JJ
 year	NN
 Commonwealth	NN
@@ -3629,6 +3711,7 @@ Edison	NNP
 had	VB
 to	IN
 refund	NN
+$	CUR
 72.7	CD
 million	NN
 for	IN
@@ -3636,10 +3719,11 @@ poor	NN
 performance	NN
 of	IN
 LaSalle	NNP
+I	PRON
 nuclear	JJ
 plant	NN
 .	.
-
+	
 Japan's	NNP
 domestic	JJ
 sales	NN
@@ -3653,6 +3737,7 @@ in	IN
 October	NNP
 rose	VB
 18	CD
+%	SYM
 from	IN
 a	DT
 year	NN
@@ -3674,7 +3759,7 @@ Dealers	NNP
 Association	NNP
 said	VB
 .	.
-
+	
 The	DT
 strong	JJ
 growth	NN
@@ -3685,15 +3770,18 @@ year	NN
 increases	NN
 of	IN
 21	CD
+%	SYM
 in	IN
 August	NNP
 and	CC
 12	CD
+%	SYM
 in	IN
 September	NNP
 .	.
-
+	
 The	DT
+monthly	ADV
 sales	NN
 have	VB
 been	VB
@@ -3704,7 +3792,7 @@ month	NN
 since	IN
 March	NNP
 .	.
-
+	
 October	NNP
 sales	NN
 ,	,
@@ -3724,6 +3812,7 @@ passenger	NN
 cars	NN
 grew	VB
 22	CD
+%	SYM
 from	IN
 a	DT
 year	NN
@@ -3732,7 +3821,7 @@ to	IN
 361,376	CD
 units	NN
 .	.
-
+	
 Sales	NN
 of	IN
 medium	NN
@@ -3762,13 +3851,13 @@ in	IN
 October	NNP
 1988	CD
 .	.
-
+	
 Texas	NNP
 Instruments	NNP
 Japan	NNP
 Ltd	NNP
 .	.
-
+	
 ,	,
 a	DT
 unit	NN
@@ -3789,7 +3878,7 @@ manufacture	VB
 control	NN
 devices	NN
 .	.
-
+	
 The	DT
 new	JJ
 plant	NN
@@ -3820,7 +3909,7 @@ the	DT
 company	NN
 said	VB
 .	.
-
+	
 The	DT
 plant	NN
 will	MD
@@ -3835,7 +3924,7 @@ and	CC
 household	NN
 appliances	NN
 .	.
-
+	
 The	DT
 survival	NN
 of	IN
@@ -3869,7 +3958,7 @@ designer	NN
 Seymour	NNP
 Cray	NNP
 .	.
-
+	
 is	VB
 development	NN
 of	IN
@@ -3887,7 +3976,7 @@ is	VB
 balance	NN
 sheet	NN
 .	.
-
+	
 Documents	NN
 filed	VB
 with	IN
@@ -3908,6 +3997,7 @@ Inc.	NNP
 will	MD
 withdraw	VB
 the	DT
+$	CUR
 100	CD
 million	NN
 in	IN
@@ -3931,7 +4021,7 @@ heads	NN
 is	VB
 scrapped	VB
 .	.
-
+	
 The	DT
 documents	NN
 said	VB
@@ -3950,6 +4040,7 @@ on	IN
 the	DT
 project	NN
 for	IN
+more	ADV
 than	IN
 six	CD
 years	NN
@@ -3962,12 +4053,13 @@ machine	NN
 is	VB
 another	DT
 year	NN
+away	ADV
 from	IN
 a	DT
 operational	JJ
 prototype	NN
 .	.
-
+	
 Moreover	JJ
 ,	,
 have	VB
@@ -3990,7 +4082,7 @@ with	IN
 several	DT
 prospects	NN
 .	.
-
+	
 While	IN
 many	JJ
 of	IN
@@ -4023,7 +4115,7 @@ public	NN
 until	IN
 yesterday	NN
 .	.
-
+	
 ``	.
 did	VB
 n't	POS
@@ -4047,7 +4139,7 @@ in	IN
 an	DT
 interview	NN
 .	.
-
+	
 ``	.
 The	DT
 theory	NN
@@ -4071,7 +4163,7 @@ not	POS
 be	VB
 completed	VB
 .	.
-
+	
 Cray	NNP
 Research	NN
 did	VB
@@ -4087,7 +4179,7 @@ not	POS
 include	VB
 Seymour	NNP
 .	.
-
+	
 "	.
 The	DT
 documents	NN
@@ -4098,6 +4190,7 @@ Computer	NN
 anticipates	VB
 needing	VB
 another	DT
+$	CUR
 120	CD
 million	NN
 in	IN
@@ -4106,7 +4199,7 @@ beginning	NN
 next	JJ
 September	NNP
 .	.
-
+	
 But	IN
 Mr.	NNP
 Barnum	NNP
@@ -4118,7 +4211,7 @@ case	NN
 "	.
 scenario	NN
 .	.
-
+	
 The	DT
 filing	NN
 on	IN
@@ -4133,11 +4226,13 @@ Research	NN
 stock	NN
 to	IN
 jump	VB
+$	CUR
 2.875	CD
 yesterday	NN
 to	IN
 close	NN
 at	IN
+$	CUR
 38	CD
 in	IN
 New	NNP
@@ -4147,7 +4242,7 @@ Exchange	NNP
 composite	NN
 trading	NN
 .	.
-
+	
 Analysts	NN
 noted	VB
 yesterday	NN
@@ -4157,6 +4252,7 @@ Research	NN
 decision	NN
 to	IN
 link	NN
+$	CUR
 98.3	CD
 million	NN
 promissory	JJ
@@ -4174,7 +4270,7 @@ the	DT
 new	JJ
 company	NN
 .	.
-
+	
 ``	.
 has	VB
 to	IN
@@ -4191,6 +4287,7 @@ investor	NN
 "	.
 said	VB
 Gary	NNP
+P.	SYM
 Smaby	NNP
 of	IN
 Smaby	NNP
@@ -4199,7 +4296,7 @@ Inc.	NNP
 ,	,
 Minneapolis	NNP
 .	.
-
+	
 ``	.
 Cray	NNP
 Computer	NN
@@ -4212,7 +4309,7 @@ stock	NN
 "	.
 said	VB
 .	.
-
+	
 ``	.
 believe	VB
 Seymour	NNP
@@ -4222,7 +4319,7 @@ or	CC
 do	VB
 n't	POS
 .	.
-
+	
 "	.
 Besides	IN
 the	DT
@@ -4248,7 +4345,7 @@ unproven	JJ
 chip	NN
 technology	NN
 .	.
-
+	
 The	DT
 SEC	NN
 documents	NN
@@ -4274,7 +4371,7 @@ robotic	JJ
 handling	NN
 equipment	NN
 .	.
-
+	
 ,	,
 the	DT
 Cray	NNP
@@ -4290,7 +4387,7 @@ largest	JJ
 current	NN
 supercomputer	NN
 .	.
-
+	
 Cray	NNP
 Computer	NN
 will	MD
@@ -4305,6 +4402,7 @@ Research	NN
 ,	,
 has	VB
 60	CD
+%	SYM
 of	IN
 the	DT
 world-wide	JJ
@@ -4333,7 +4431,7 @@ Cray	NNP
 in	IN
 1991	CD
 .	.
-
+	
 The	DT
 spinoff	NN
 will	MD
@@ -4349,11 +4447,13 @@ Big	JJ
 Three	CD
 --	:
 Hitachi	NNP
+Ltd.	NONE
 ,	,
 NEC	NNP
 Corp.	NNP
 and	CC
 Fujitsu	NNP
+Ltd.	NONE
 The	DT
 new	JJ
 company	NN
@@ -4369,9 +4469,11 @@ for	IN
 supercomputers	NN
 priced	VB
 between	IN
+$	CUR
 15	CD
 million	NN
 and	CC
+$	CUR
 30	CD
 million	NN
 --	:
@@ -4382,7 +4484,7 @@ Cray	NNP
 price	NN
 range	NN
 .	.
-
+	
 Under	IN
 terms	NN
 of	IN
@@ -4416,7 +4518,7 @@ in	IN
 two	CD
 weeks	NN
 .	.
-
+	
 No	DT
 price	NN
 for	IN
@@ -4427,7 +4529,7 @@ has	VB
 been	VB
 set	NN
 .	.
-
+	
 ,	,
 the	DT
 companies	NN
@@ -4438,7 +4540,7 @@ marketplace	NN
 to	IN
 decide	VB
 .	.
-
+	
 Cray	NNP
 Computer	NN
 has	VB
@@ -4448,7 +4550,7 @@ trade	NN
 on	IN
 Nasdaq	NNP
 .	.
-
+	
 Analysts	NN
 calculate	VB
 Cray	NNP
@@ -4457,11 +4559,12 @@ initial	JJ
 book	NN
 value	NN
 at	IN
+$	CUR
 4.75	CD
 a	DT
 share	NN
 .	.
-
+	
 Along	IN
 with	IN
 the	DT
@@ -4471,6 +4574,7 @@ Cray	NNP
 Research	NN
 is	VB
 transferring	VB
+$	CUR
 53	CD
 million	NN
 in	IN
@@ -4494,7 +4598,7 @@ Cray	NNP
 Research	NN
 earnings	NN
 .	.
-
+	
 Pro-forma	JJ
 balance	NN
 sheets	NN
@@ -4505,7 +4609,7 @@ favored	VB
 the	DT
 spinoff	NN
 .	.
-
+	
 Without	IN
 the	DT
 Cray	NNP
@@ -4527,6 +4631,7 @@ report	NN
 a	DT
 profit	NN
 of	IN
+$	CUR
 19.3	CD
 million	NN
 for	IN
@@ -4538,11 +4643,12 @@ of	IN
 rather	CC
 than	CC
 the	DT
+$	CUR
 5.9	CD
 million	NN
 posted	VB
 .	.
-
+	
 On	IN
 the	DT
 other	JJ
@@ -4557,11 +4663,12 @@ would	MD
 have	VB
 incurred	VB
 a	DT
+$	CUR
 20.5	CD
 million	NN
 loss	NN
 .	.
-
+	
 Mr.	NNP
 Cray	NNP
 ,	,
@@ -4582,7 +4689,7 @@ Springs	NN
 ,	,
 Colo	NNP
 .	.
-
+	
 ,	,
 company	NN
 as	IN
@@ -4597,7 +4704,7 @@ with	IN
 Cray	NNP
 Research	NN
 .	.
-
+	
 Regarded	VB
 as	IN
 the	DT
@@ -4610,6 +4717,7 @@ Mr.	NNP
 Cray	NNP
 was	VB
 paid	VB
+$	CUR
 600,000	CD
 at	IN
 Cray	NNP
@@ -4617,7 +4725,7 @@ Research	NN
 last	JJ
 year	NN
 .	.
-
+	
 At	IN
 Cray	NNP
 Computer	NN
@@ -4625,9 +4733,10 @@ Computer	NN
 will	MD
 be	VB
 paid	VB
+$	CUR
 240,000	CD
 .	.
-
+	
 Besides	IN
 Messrs	NNP
 .	NNP
@@ -4653,8 +4762,9 @@ chief	NN
 executive	NN
 officer	NN
 ;	:
-
+	
 Joseph	NNP
+M.	SYM
 Blanchard	NNP
 ,	,
 37	CD
@@ -4664,7 +4774,7 @@ president	NN
 ,	,
 engineering	NN
 ;	:
-
+	
 Malcolm	NNP
 A.	NNP
 Hammerton	NNP
@@ -4676,9 +4786,10 @@ president	NN
 ,	,
 software	NN
 ;	:
-
+	
 and	CC
 Douglas	NNP
+R.	SYM
 Wheeland	NNP
 ,	,
 45	CD
@@ -4688,13 +4799,13 @@ president	NN
 ,	,
 hardware	NN
 .	.
-
+	
 came	VB
 from	IN
 Cray	NNP
 Research	NNP
 .	.
-
+	
 Cray	NNP
 Computer	NN
 ,	,
@@ -4715,8 +4826,9 @@ end	NN
 of	IN
 1990	CD
 .	.
-
+	
 John	NNP
+R.	SYM
 Stevens	NNP
 ,	,
 49	CD
@@ -4738,7 +4850,7 @@ both	DT
 new	JJ
 positions	NN
 .	.
-
+	
 will	MD
 continue	VB
 to	IN
@@ -4753,7 +4865,7 @@ chief	NN
 executive	NN
 officer	NN
 .	.
-
+	
 Mr.	NNP
 Stevens	NNP
 was	VB
@@ -4767,7 +4879,7 @@ utility	NN
 holding	NN
 company	NN
 .	.
-
+	
 Arthur	NNP
 A.	NNP
 Hatch	NN
@@ -4783,7 +4895,7 @@ of	IN
 the	DT
 company	NN
 .	.
-
+	
 was	VB
 president	NN
 of	IN
@@ -4794,7 +4906,7 @@ Edison	NNP
 Co.	NN
 unit	NN
 .	.
-
+	
 John	NNP
 D.	NNP
 Carney	NNP
@@ -4813,15 +4925,16 @@ of	IN
 Eastern	JJ
 Edison	NNP
 .	.
-
+	
 was	VB
 president	NN
 of	IN
 Eastern	JJ
 Edison	NNP
 .	.
-
+	
 Robert	NNP
+P.	SYM
 Tassinari	NNP
 ,	,
 63	CD
@@ -4835,12 +4948,12 @@ of	IN
 Eastern	JJ
 Utilities	NN
 .	.
-
+	
 was	VB
 vice	NN
 president	NN
 .	.
-
+	
 The	DT
 U.S.	JJ
 ,	,
@@ -4880,7 +4993,7 @@ intellectual	JJ
 property	NN
 rights	NN
 .	.
-
+	
 ,	,
 five	CD
 other	JJ
@@ -4919,7 +5032,7 @@ Carla	NNP
 Hills	NN
 announced	VB
 .	.
-
+	
 Under	IN
 the	DT
 new	JJ
@@ -4951,7 +5064,7 @@ by	IN
 next	JJ
 spring	NN
 .	.
-
+	
 Mrs.	NNP
 Hills	NN
 said	VB
@@ -4978,7 +5091,7 @@ this	DT
 touchy	JJ
 issue	NN
 .	.
-
+	
 said	VB
 is	VB
 ``	.
@@ -5012,7 +5125,7 @@ country	NN
 own	VB
 citizens	NN
 .	.
-
+	
 "	.
 U.S.	JJ
 trade	NN
@@ -5050,7 +5163,7 @@ marketing	NN
 best	JJ
 products	NN
 .	.
-
+	
 Mrs.	NNP
 Hills	NN
 lauded	VB
@@ -5080,7 +5193,7 @@ and	CC
 book	NN
 pirates	NN
 .	.
-
+	
 Seoul	NNP
 has	VB
 instituted	VB
@@ -5096,7 +5209,7 @@ teams	NN
 ,	,
 said	VB
 .	.
-
+	
 Taiwan	NNP
 has	VB
 improved	VB
@@ -5128,7 +5241,7 @@ showings	NN
 of	IN
 films	NN
 .	.
-
+	
 That	IN
 measure	NN
 could	MD
@@ -5149,7 +5262,7 @@ for	IN
 showing	NN
 films	NN
 .	.
-
+	
 Saudi	JJ
 Arabia	NNP
 ,	,
@@ -5184,7 +5297,7 @@ Mrs.	NNP
 Hills	NN
 said	VB
 .	.
-
+	
 These	DT
 three	CD
 countries	NN
@@ -5208,7 +5321,7 @@ includes	VB
 other	JJ
 countries	NN
 .	.
-
+	
 Those	DT
 countries	NN
 --	:
@@ -5252,7 +5365,7 @@ priority	NN
 "	.
 list	NN
 .	.
-
+	
 Gary	NNP
 Hoffman	NNP
 ,	,
@@ -5301,7 +5414,7 @@ and	CC
 Saudi	JJ
 Arabia	NNP
 .	.
-
+	
 ``	.
 tells	VB
 is	VB
@@ -5315,7 +5428,7 @@ working	NN
 "	.
 said	VB
 .	.
-
+	
 said	VB
 Mexico	NNP
 could	MD
@@ -5342,7 +5455,7 @@ new	JJ
 patent	NN
 law	NN
 .	.
-
+	
 Mrs.	NNP
 Hills	NN
 said	VB
@@ -5351,6 +5464,7 @@ the	DT
 U.S.	JJ
 is	VB
 concerned	VB
+about	ADV
 ``	.
 disturbing	JJ
 developments	NN
@@ -5358,11 +5472,12 @@ in	IN
 Turkey	NNP
 and	CC
 continuing	VB
+slow	ADV
 progress	NN
 in	IN
 Malaysia	NNP
 .	.
-
+	
 "	.
 did	VB
 n't	POS
@@ -5389,7 +5504,7 @@ patents	NN
 in	IN
 Turkey	NNP
 .	.
-
+	
 The	DT
 1988	CD
 trade	NN
@@ -5411,7 +5526,8 @@ by	IN
 April	NNP
 30	CD
 .	.
-
+	
+So	ADV
 ,	,
 Mrs.	NNP
 Hills	NN
@@ -5436,7 +5552,7 @@ of	IN
 the	DT
 act	NN
 .	.
-
+	
 Argentina	NNP
 said	VB
 will	MD
@@ -5448,6 +5564,7 @@ halve	VB
 foreign	JJ
 debt	NN
 of	IN
+$	CUR
 64	CD
 billion	NN
 --	:
@@ -5459,7 +5576,7 @@ the	DT
 developing	VB
 world	NN
 .	.
-
+	
 The	DT
 declaration	NN
 by	IN
@@ -5489,7 +5606,7 @@ of	IN
 such	DT
 stature	NN
 .	.
-
+	
 The	DT
 Latin	JJ
 American	NN
@@ -5499,10 +5616,11 @@ paid	VB
 on	IN
 debt	NN
 since	IN
+early	ADV
 last	JJ
 year	NN
 .	.
-
+	
 ``	.
 Argentina	NNP
 aspires	VB
@@ -5512,6 +5630,7 @@ a	DT
 reduction	NN
 of	IN
 50	CD
+%	SYM
 in	IN
 the	DT
 value	NN
@@ -5529,7 +5648,7 @@ spokesman	NN
 Miguel	NNP
 Alurralde	NNP
 .	.
-
+	
 Mr.	NNP
 Rapanelli	NNP
 met	VB
@@ -5543,7 +5662,7 @@ Secretary	NN
 David	NNP
 Mulford	NNP
 .	.
-
+	
 Argentine	JJ
 negotiator	NN
 Carlos	NNP
@@ -5561,7 +5680,7 @@ meet	VB
 with	IN
 banks	NN
 .	.
-
+	
 Mr.	NNP
 Rapanelli	NNP
 has	VB
@@ -5589,6 +5708,7 @@ and	CC
 interest	NN
 is	VB
 the	DT
+only	ADV
 way	NN
 the	DT
 debt	NN
@@ -5597,7 +5717,7 @@ may	MD
 be	VB
 solved	VB
 .	.
-
+	
 But	IN
 has	VB
 not	POS
@@ -5612,7 +5732,7 @@ the	DT
 debt	NN
 forgiven	VB
 .	.
-
+	
 During	IN
 centennial	NN
 year	NN
@@ -5637,7 +5757,7 @@ American	NN
 business	NN
 history	NN
 .	.
-
+	
 THREE	CD
 COMPUTERS	NN
 that	CC
@@ -5652,7 +5772,7 @@ launched	VB
 in	IN
 1977	CD
 .	.
-
+	
 That	IN
 year	NN
 the	DT
@@ -5670,7 +5790,7 @@ came	VB
 to	IN
 market	NN
 .	.
-
+	
 The	DT
 computers	NN
 were	VB
@@ -5679,7 +5799,7 @@ by	IN
 today	NN
 standards	NN
 .	.
-
+	
 Apple	NNP
 II	NNP
 owners	NN
@@ -5698,7 +5818,7 @@ data	NN
 on	IN
 audiocassettes	NN
 .	.
-
+	
 But	IN
 Apple	NNP
 II	NNP
@@ -5708,6 +5828,7 @@ major	JJ
 advance	NN
 from	IN
 Apple	NNP
+I	PRON
 ,	,
 was	VB
 built	VB
@@ -5729,7 +5850,7 @@ Homebrew	NNP
 Computer	NN
 Club	NN
 .	.
-
+	
 ,	,
 the	DT
 Apple	NNP
@@ -5737,14 +5858,16 @@ II	NNP
 was	VB
 an	DT
 affordable	JJ
+$	CUR
 1,298	CD
 .	.
-
+	
 Crude	JJ
 as	IN
 were	VB
 ,	,
 these	DT
+early	ADV
 PCs	NN
 triggered	VB
 explosive	JJ
@@ -5759,7 +5882,7 @@ home	NN
 and	CC
 office	NN
 .	.
-
+	
 Big	JJ
 mainframe	NN
 computers	NN
@@ -5771,7 +5894,7 @@ around	IN
 for	IN
 years	NN
 .	.
-
+	
 But	IN
 the	DT
 new	JJ
@@ -5805,10 +5928,11 @@ data	NN
 in	IN
 memories	NN
 .	.
-
+	
 Current	JJ
 PCs	NN
 are	VB
+more	ADV
 than	IN
 50	CD
 times	NN
@@ -5824,14 +5948,14 @@ than	IN
 1977	CD
 counterparts	NN
 .	.
-
+	
 were	VB
 many	JJ
 pioneer	NN
 PC	NN
 contributors	NN
 .	.
-
+	
 William	NNP
 Gates	NN
 and	CC
@@ -5841,6 +5965,7 @@ in	IN
 1975	CD
 developed	VB
 an	DT
+early	ADV
 language	NN
 housekeeper	NN
 system	NN
@@ -5865,8 +5990,9 @@ versions	NN
 in	IN
 1981	CD
 .	.
-
+	
 Alan	NNP
+F.	SYM
 Shugart	NNP
 ,	,
 chairman	NN
@@ -5885,7 +6011,7 @@ drives	NN
 for	IN
 PCs	NN
 .	.
-
+	
 Dennis	NNP
 Hayes	NNP
 and	CC
@@ -5913,7 +6039,7 @@ via	IN
 the	DT
 telephone	NN
 .	.
-
+	
 IBM	NNP
 ,	,
 the	DT
@@ -5930,30 +6056,33 @@ PC	NN
 until	IN
 August	NNP
 1981	CD
+as	ADV
+many	ADV
 other	JJ
 companies	NN
 entered	VB
 the	DT
 market	NN
 .	.
-
+	
 Today	NN
 ,	,
 PC	NN
 shipments	NN
 total	NN
 some	DT
+$	CUR
 38.3	CD
 billion	NN
 world-wide	JJ
 .	.
-
+	
 F.H.	NNP
 Faulding	NNP
 &	CC
 Co	NN
 .	.
-
+	
 ,	,
 an	DT
 Australian	JJ
@@ -5968,10 +6097,11 @@ acquired	VB
 Kalipharma	NNP
 Inc.	NNP
 for	IN
+$	CUR
 23	CD
 million	NN
 .	.
-
+	
 Kalipharma	NNP
 is	VB
 a	DT
@@ -5989,11 +6119,12 @@ the	DT
 Purepac	NNP
 label	NN
 .	.
-
+	
 Faulding	NNP
 said	VB
 owns	VB
 33	CD
+%	SYM
 of	IN
 Moleculon	NNP
 voting	NN
@@ -6027,12 +6158,13 @@ increase	NN
 interest	NN
 to	IN
 70	CD
+%	SYM
 of	IN
 Moleculon	NNP
 voting	NN
 stock	NN
 .	.
-
+	
 Oil	NN
 production	NN
 from	IN
@@ -6077,12 +6209,12 @@ end	NN
 of	IN
 1990	CD
 .	.
-
+	
 Esso	NN
 Australia	NNP
 Ltd	NNP
 .	.
-
+	
 ,	,
 a	DT
 unit	NN
@@ -6099,7 +6231,7 @@ Broken	VB
 Hill	NN
 Pty	NNP
 .	.
-
+	
 operate	VB
 the	DT
 fields	NN
@@ -6108,7 +6240,7 @@ a	DT
 joint	NN
 venture	NN
 .	.
-
+	
 Esso	NN
 said	VB
 the	DT
@@ -6118,7 +6250,7 @@ started	VB
 production	NN
 Tuesday	NNP
 .	.
-
+	
 Output	NN
 will	MD
 be	VB
@@ -6130,7 +6262,7 @@ barrels	NN
 a	DT
 day	NN
 .	.
-
+	
 The	DT
 field	NN
 has	VB
@@ -6140,7 +6272,7 @@ of	IN
 million	NN
 barrels	NN
 .	.
-
+	
 Reserves	NN
 for	IN
 the	DT
@@ -6152,7 +6284,7 @@ total	NN
 million	NN
 barrels	NN
 .	.
-
+	
 The	DT
 Perch	NN
 and	CC
@@ -6163,6 +6295,7 @@ expected	VB
 to	IN
 start	NN
 producing	VB
+early	ADV
 next	JJ
 year	NN
 ,	,
@@ -6176,7 +6309,7 @@ later	JJ
 next	JJ
 year	NN
 .	.
-
+	
 Esso	NN
 said	VB
 the	DT
@@ -6205,13 +6338,14 @@ of	IN
 excise	VB
 tax	NN
 .	.
-
+	
 R.P.	NNP
 Scherer	NNP
 Corp.	NNP
 said	VB
 completed	VB
 the	DT
+$	CUR
 10.2	CD
 million	NN
 sale	NN
@@ -6229,13 +6363,14 @@ unit	NN
 president	NN
 ,	,
 Thomas	NNP
+R.	SYM
 Sloan	NNP
 ,	,
 and	CC
 other	JJ
 managers	NN
 .	.
-
+	
 Following	VB
 the	DT
 acquisition	NN
@@ -6271,7 +6406,7 @@ non	NN
 encapsulating	VB
 businesses	NN
 .	.
-
+	
 The	DT
 sale	NN
 of	IN
@@ -6284,7 +6419,7 @@ of	IN
 the	DT
 program	NN
 .	.
-
+	
 The	DT
 White	NN
 House	NN
@@ -6324,7 +6459,7 @@ other	JJ
 U.S.	JJ
 possessions	NN
 .	.
-
+	
 The	DT
 action	NN
 came	VB
@@ -6352,7 +6487,7 @@ from	IN
 developing	VB
 nations	NN
 .	.
-
+	
 ,	,
 watch	NN
 imports	NN
@@ -6363,7 +6498,7 @@ duty	NN
 free	JJ
 treatment	NN
 .	.
-
+	
 Timex	NNP
 had	VB
 requested	VB
@@ -6384,7 +6519,7 @@ U.S.	JJ
 tariff	NN
 classifications	NN
 .	.
-
+	
 The	DT
 White	NN
 House	NN
@@ -6431,7 +6566,7 @@ the	DT
 Virgin	NNP
 Islands	NN
 .	.
-
+	
 "	.
 Timex	NNP
 is	VB
@@ -6465,7 +6600,7 @@ U.S.	JJ
 tariff	NN
 preferences	NN
 .	.
-
+	
 U.S.	JJ
 trade	NN
 officials	NN
@@ -6484,7 +6619,7 @@ the	DT
 president	NN
 action	NN
 .	.
-
+	
 Imports	NN
 of	IN
 the	DT
@@ -6500,6 +6635,7 @@ duty	NN
 free	JJ
 treatment	NN
 totaled	VB
+$	CUR
 37.3	CD
 million	NN
 in	IN
@@ -6510,6 +6646,7 @@ small	JJ
 share	NN
 of	IN
 the	DT
+$	CUR
 1.5	CD
 billion	NN
 in	IN
@@ -6530,9 +6667,10 @@ Representative	JJ
 Carla	NNP
 Hills	NN
 .	.
-
+	
 Magna	NNP
 International	NN
+Inc.'s	SYM
 chief	NN
 financial	JJ
 officer	NN
@@ -6563,7 +6701,7 @@ the	DT
 company	NN
 said	VB
 .	.
-
+	
 Mr.	NNP
 Stronach	NNP
 will	MD
@@ -6593,7 +6731,7 @@ maintained	VB
 Magna	NNP
 said	VB
 .	.
-
+	
 Stephen	NNP
 Akerfeldt	NNP
 ,	,
@@ -6606,7 +6744,7 @@ succeed	VB
 Mr.	NNP
 McAlpine	NNP
 .	.
-
+	
 An	DT
 ambitious	JJ
 expansion	NN
@@ -6629,7 +6767,7 @@ enters	VB
 a	DT
 downturn	NN
 .	.
-
+	
 The	DT
 company	NN
 has	VB
@@ -6651,9 +6789,10 @@ steady	JJ
 sales	NN
 growth	NN
 .	.
-
+	
 Magna	NNP
 cut	NN
+quarterly	ADV
 dividend	NN
 in	IN
 half	DT
@@ -6673,9 +6812,11 @@ of	IN
 16.125	NN
 Canadian	JJ
 dollars	NN
+US	PRON
+$	CUR
 13.73	NN
 .	.
-
+	
 On	IN
 the	DT
 Toronto	NNP
@@ -6690,9 +6831,10 @@ closed	VB
 Canadian	JJ
 cents	NN
 to	IN
+$	CUR
 9.625	CD
 .	.
-
+	
 Mr.	NNP
 Stronach	NNP
 ,	,
@@ -6720,7 +6862,7 @@ in	IN
 Canada	NNP
 Parliament	NNP
 .	.
-
+	
 Analysts	NN
 said	VB
 Mr.	NNP
@@ -6736,7 +6878,7 @@ running	VB
 the	DT
 company	NN
 .	.
-
+	
 expect	VB
 to	IN
 cut	NN
@@ -6745,7 +6887,7 @@ throughout	IN
 the	DT
 organization	NN
 .	.
-
+	
 The	DT
 company	NN
 said	VB
@@ -6766,7 +6908,7 @@ and	CC
 chief	NN
 executive	NN
 .	.
-
+	
 Neither	DT
 nor	CC
 Mr.	NNP
@@ -6777,7 +6919,7 @@ reached	VB
 for	IN
 comment	NN
 .	.
-
+	
 Magna	NNP
 said	VB
 Mr.	NNP
@@ -6796,7 +6938,7 @@ one	NN
 of	IN
 clients	NN
 .	.
-
+	
 Lord	NN
 Chilver	NNP
 ,	,
@@ -6821,12 +6963,13 @@ British	JJ
 chemical	NN
 company	NN
 .	.
-
+	
 Japanese	JJ
 investors	NN
 single	JJ
 handedly	JJ
 bought	VB
+up	ADV
 two	CD
 new	JJ
 mortgage	NN
@@ -6835,6 +6978,7 @@ based	VB
 mutual	JJ
 funds	NN
 totaling	VB
+$	CUR
 701	CD
 million	NN
 ,	,
@@ -6846,7 +6990,7 @@ Mortgage	NNP
 Association	NNP
 said	VB
 .	.
-
+	
 The	DT
 purchases	NN
 show	NN
@@ -6867,6 +7011,7 @@ Mae	NNP
 chairman	NN
 ,	,
 David	NNP
+O.	SYM
 Maxwell	NNP
 ,	,
 said	VB
@@ -6875,10 +7020,12 @@ a	DT
 news	NN
 conference	NN
 .	.
-
+	
 said	VB
+more	ADV
 than	IN
 90	CD
+%	SYM
 of	IN
 the	DT
 funds	NN
@@ -6889,7 +7036,7 @@ Japanese	JJ
 institutional	JJ
 investors	NN
 .	.
-
+	
 The	DT
 rest	NN
 went	VB
@@ -6901,16 +7048,19 @@ and	CC
 Hong	NN
 Kong	NNP
 .	.
-
+	
+Earlier	ADV
 this	DT
 year	NN
 ,	,
 Japanese	JJ
 investors	NN
 snapped	VB
+up	ADV
 a	DT
 similar	JJ
 ,	,
+$	CUR
 570	CD
 million	NN
 mortgage-backed	JJ
@@ -6918,11 +7068,12 @@ securities	NN
 mutual	JJ
 fund	NN
 .	.
-
+	
 That	IN
 fund	NN
 was	VB
 put	NN
+together	ADV
 by	IN
 Blackstone	NNP
 Group	NN
@@ -6933,7 +7084,7 @@ York	NNP
 investment	NN
 bank	NN
 .	.
-
+	
 The	DT
 latest	JJ
 two	CD
@@ -6955,7 +7106,7 @@ Daiwa	NNP
 Securities	NNP
 Co	NN
 .	.
-
+	
 The	DT
 new	JJ
 ,	,
@@ -6991,7 +7142,7 @@ to	IN
 Japanese	JJ
 investors	NN
 .	.
-
+	
 First	JJ
 ,	,
 are	VB
@@ -7025,10 +7176,11 @@ at	IN
 lower	JJ
 rates	NN
 .	.
-
+	
 Second	JJ
 ,	,
 channel	VB
+monthly	ADV
 mortgage	NN
 payments	NN
 into	IN
@@ -7042,7 +7194,7 @@ burden	NN
 on	IN
 investors	NN
 .	.
-
+	
 By	IN
 addressing	VB
 those	DT
@@ -7068,7 +7220,7 @@ outside	NN
 the	DT
 U.S.	JJ
 .	.
-
+	
 "	.
 Such	JJ
 devices	NN
@@ -7080,10 +7232,13 @@ in	IN
 mortgage-backed	JJ
 securities	NN
 to	IN
+more	ADV
 than	IN
 1	CD
+%	SYM
 of	IN
 the	DT
+$	CUR
 900	CD
 billion	NN
 in	IN
@@ -7100,7 +7255,7 @@ a	DT
 rapid	JJ
 rate	NN
 .	.
-
+	
 have	VB
 become	VB
 large	JJ
@@ -7112,6 +7267,7 @@ corporate	JJ
 debt	NN
 ,	,
 buying	NN
+$	CUR
 2.4	CD
 billion	NN
 in	IN
@@ -7136,8 +7292,9 @@ total	NN
 amount	NN
 issued	VB
 .	.
-
+	
 James	NNP
+L.	SYM
 Pate	NN
 ,	,
 54	CD
@@ -7163,7 +7320,7 @@ to	IN
 14	CD
 members	NN
 .	.
-
+	
 LTV	NNP
 Corp.	NNP
 said	VB
@@ -7202,7 +7359,7 @@ a	DT
 reorganization	NN
 plan	NN
 .	.
-
+	
 The	DT
 company	NN
 is	VB
@@ -7233,7 +7390,7 @@ to	IN
 pay	NN
 debts	NN
 .	.
-
+	
 Italian	JJ
 chemical	NN
 giant	NN
@@ -7248,6 +7405,7 @@ indirect	JJ
 unit	NN
 ,	,
 began	VB
+$	CUR
 37	CD
 -	:
 a	DT
@@ -7273,7 +7431,7 @@ in	IN
 the	DT
 Netherlands	NNP
 .	.
-
+	
 The	DT
 offer	NN
 ,	,
@@ -7297,17 +7455,18 @@ end	NN
 of	IN
 November	NNP
 .	.
-
+	
 Montedison	NN
 owns	VB
 72	CD
+%	SYM
 of	IN
 Erbamont	NNP
 common	JJ
 shares	NN
 outstanding	JJ
 .	.
-
+	
 The	DT
 offer	NN
 is	VB
@@ -7322,7 +7481,7 @@ between	IN
 the	DT
 companies	NN
 .	.
-
+	
 Japan's	NNP
 reserves	NN
 of	IN
@@ -7340,11 +7499,13 @@ fell	VB
 by	IN
 a	DT
 hefty	JJ
+$	CUR
 1.82	CD
 billion	NN
 in	IN
 October	NNP
 to	IN
+$	CUR
 84.29	NN
 billion	NN
 ,	,
@@ -7353,16 +7514,17 @@ Finance	NN
 Ministry	NN
 said	VB
 .	.
-
+	
 The	DT
 total	NN
 marks	NN
 the	DT
 sixth	JJ
 consecutive	JJ
+monthly	ADV
 decline	NN
 .	.
-
+	
 The	DT
 protracted	JJ
 downturn	NN
@@ -7389,12 +7551,13 @@ the	DT
 yen	NN
 level	NN
 .	.
-
+	
 The	DT
 announcement	NN
 follows	VB
 a	DT
 sharper	JJ
+$	CUR
 2.2	CD
 billion	NN
 decline	NN
@@ -7406,10 +7569,11 @@ reserves	NN
 in	IN
 September	NNP
 to	IN
+$	CUR
 86.12	NN
 billion	NN
 .	.
-
+	
 Pick	NN
 a	DT
 country	NN
@@ -7417,7 +7581,7 @@ country	NN
 any	DT
 country	NN
 .	.
-
+	
 is	VB
 the	DT
 latest	JJ
@@ -7427,7 +7591,7 @@ sweeping	VB
 Wall	NN
 Street	NN
 :	:
-
+	
 a	DT
 rash	NN
 of	IN
@@ -7450,7 +7614,7 @@ single	VB
 foreign	JJ
 country	NN
 .	.
-
+	
 fewer	JJ
 than	IN
 24	CD
@@ -7476,11 +7640,12 @@ of	IN
 according	IN
 to	IN
 Charles	NNP
+E.	SYM
 Simon	NNP
 &	NNP
 Co	NNP
 .	.
-
+	
 ,	,
 a	DT
 Washington	NNP
@@ -7489,7 +7654,7 @@ based	VB
 research	NN
 firm	NN
 .	.
-
+	
 The	DT
 turf	NN
 has	VB
@@ -7501,7 +7666,7 @@ Austria	NNP
 to	IN
 Portugal	NNP
 .	.
-
+	
 Next	JJ
 week	NN
 ,	,
@@ -7538,12 +7703,12 @@ the	DT
 Big	JJ
 Board	NN
 .	.
-
+	
 The	DT
 next	JJ
 province	NN
 ?	.
-
+	
 ``	.
 Anything	NN
 is	VB
@@ -7554,7 +7719,7 @@ New	JJ
 Guinea	NN
 Fund	NN
 ?	.
-
+	
 "	.
 quips	VB
 George	NNP
@@ -7572,7 +7737,7 @@ Northampton	NNP
 ,	,
 Mass	NN
 .	.
-
+	
 The	DT
 recent	JJ
 explosion	NN
@@ -7600,7 +7765,7 @@ funds	NN
 grew	VB
 popular	JJ
 .	.
-
+	
 fell	VB
 into	IN
 oblivion	NN
@@ -7609,7 +7774,7 @@ the	DT
 1929	CD
 crash	NN
 .	.
-
+	
 Unlike	IN
 traditional	JJ
 open	VB
@@ -7639,7 +7804,7 @@ shares	NN
 that	CC
 trade	NN
 .	.
-
+	
 The	DT
 surge	NN
 brings	VB
@@ -7662,7 +7827,7 @@ York	NNP
 or	CC
 London	JJ
 .	.
-
+	
 These	DT
 funds	NN
 account	VB
@@ -7674,7 +7839,7 @@ dollars	NN
 in	IN
 assets	NN
 .	.
-
+	
 ``	.
 People	NN
 are	VB
@@ -7706,12 +7871,12 @@ Upham	NNP
 &	CC
 Co	NN
 .	.
-
+	
 ,	,
 New	NNP
 York	NNP
 .	.
-
+	
 Behind	IN
 all	DT
 the	DT
@@ -7722,7 +7887,7 @@ heavy	JJ
 duty	NN
 competition	NN
 .	.
-
+	
 As	IN
 individual	NN
 investors	NN
@@ -7751,7 +7916,7 @@ easy	JJ
 to	IN
 sell	NN
 .	.
-
+	
 And	CC
 the	DT
 firms	NN
@@ -7762,7 +7927,7 @@ and	CC
 to	IN
 do	VB
 .	.
-
+	
 Financial	JJ
 planners	NN
 urge	VB
@@ -7778,7 +7943,7 @@ of	IN
 international	JJ
 securities	NN
 .	.
-
+	
 And	CC
 many	JJ
 emerging	VB
@@ -7795,7 +7960,7 @@ U.S.	JJ
 and	CC
 Japan	NNP
 .	.
-
+	
 Country	NN
 funds	NN
 offer	NN
@@ -7811,6 +7976,7 @@ foreign	JJ
 stocks	NN
 without	IN
 the	DT
+hard	ADV
 research	NN
 of	IN
 seeking	VB
@@ -7818,16 +7984,17 @@ out	IN
 individual	NN
 companies	NN
 .	.
-
+	
 But	IN
 does	VB
 n't	POS
 take	VB
+much	ADV
 to	IN
 get	VB
 burned	VB
 .	.
-
+	
 Political	JJ
 and	CC
 currency	NN
@@ -7837,11 +8004,11 @@ whipsaw	VB
 the	DT
 funds	NN
 .	.
-
+	
 Another	DT
 concern	NN
 :	:
-
+	
 The	DT
 funds	NN
 share	NN
@@ -7854,12 +8021,13 @@ the	DT
 broader	JJ
 market	NN
 .	.
-
+	
 the	DT
 stock	NN
 market	NN
 dropped	VB
 7	CD
+%	SYM
 Oct	NNP
 .	.
 13	CD
@@ -7870,6 +8038,7 @@ Mexico	NNP
 Fund	NN
 plunged	VB
 18	CD
+%	SYM
 and	CC
 the	DT
 Spain	NNP
@@ -7879,20 +8048,23 @@ fell	VB
 %	,
 .	,
 And	CC
+most	ADV
 country	NN
 funds	NN
 were	VB
 clobbered	VB
 than	IN
+most	ADV
 stocks	NN
 after	IN
 the	DT
 1987	CD
 crash	NN
 .	.
-
+	
 is	VB
 wild	JJ
+about	ADV
 the	DT
 funds	NN
 frenzy	NN
@@ -7911,7 +8083,7 @@ of	IN
 underlying	VB
 portfolios	NN
 .	.
-
+	
 After	IN
 trading	NN
 at	IN
@@ -7919,8 +8091,10 @@ an	DT
 average	NN
 discount	NN
 of	IN
+more	ADV
 than	IN
 20	CD
+%	SYM
 in	IN
 late	JJ
 1987	CD
@@ -7944,7 +8118,7 @@ of	IN
 The	DT
 reason	NN
 :	:
-
+	
 Share	NN
 prices	NN
 of	IN
@@ -7962,7 +8136,7 @@ foreign	JJ
 stocks	NN
 hold	VB
 .	.
-
+	
 is	VB
 worth	NN
 paying	VB
@@ -7990,7 +8164,7 @@ some	DT
 specialists	NN
 say	VB
 .	.
-
+	
 But	IN
 some	DT
 European	JJ
@@ -7998,7 +8172,7 @@ funds	NN
 have	VB
 skyrocketed	VB
 ;	:
-
+	
 Spain	NNP
 Fund	NN
 has	VB
@@ -8007,9 +8181,10 @@ to	IN
 a	DT
 startling	JJ
 120	CD
+%	SYM
 premium	NN
 .	.
-
+	
 has	VB
 been	VB
 targeted	VB
@@ -8028,7 +8203,7 @@ European	JJ
 economic	JJ
 integration	NN
 .	.
-
+	
 And	CC
 several	DT
 new	JJ
@@ -8045,9 +8220,10 @@ at	IN
 big	JJ
 premiums	NN
 .	.
-
+	
 ``	.
 '	.
+m	SYM
 alarmed	VB
 to	IN
 see	VB
@@ -8062,7 +8238,7 @@ Barney	NNP
 Mr.	NNP
 Porter	NN
 .	.
-
+	
 The	DT
 fattened	VB
 premiums	NN
@@ -8079,7 +8255,7 @@ Mr.	NNP
 Porter	NN
 suggests	VB
 .	.
-
+	
 Unlike	IN
 many	JJ
 U.S.	JJ
@@ -8105,7 +8281,7 @@ for	IN
 country	NN
 funds	NN
 .	.
-
+	
 ``	.
 may	MD
 be	VB
@@ -8123,7 +8299,7 @@ Mr.	NNP
 Porter	NN
 says	VB
 .	.
-
+	
 ,	,
 plenty	NN
 of	IN
@@ -8144,7 +8320,7 @@ some	DT
 country	NN
 funds	NN
 .	.
-
+	
 argue	VB
 that	CC
 U.S.	JJ
@@ -8162,7 +8338,7 @@ in	IN
 many	JJ
 funds	NN
 ;	:
-
+	
 these	DT
 so-called	JJ
 ADRs	NN
@@ -8176,7 +8352,7 @@ in	IN
 the	DT
 U.S.	JJ
 .	.
-
+	
 That	IN
 way	NN
 investors	NN
@@ -8189,7 +8365,7 @@ paying	VB
 the	DT
 premium	NN
 .	.
-
+	
 For	IN
 people	NN
 insist	VB
@@ -8206,9 +8382,10 @@ Mr.	NNP
 Foot	NN
 says	VB
 :	:
-
+	
 ``	.
 The	DT
+only	ADV
 advice	NN
 have	VB
 for	IN
@@ -8227,7 +8404,7 @@ ready	JJ
 to	IN
 leave	VB
 .	.
-
+	
 The	DT
 U.S.	JJ
 and	CC
@@ -8237,11 +8414,13 @@ are	VB
 holding	NN
 technical	JJ
 talks	NN
+about	ADV
 possible	JJ
 repayment	NN
 by	IN
 Moscow	NNP
 of	IN
+$	CUR
 188	CD
 million	NN
 in	IN
@@ -8260,7 +8439,7 @@ State	NN
 Department	NN
 said	VB
 .	.
-
+	
 If	IN
 the	DT
 debts	NN
@@ -8281,7 +8460,7 @@ in	IN
 the	DT
 U.S.	JJ
 .	.
-
+	
 ,	,
 after	IN
 two	CD
@@ -8305,7 +8484,7 @@ whether	IN
 will	MD
 happen	VB
 .	.
-
+	
 Coincident	JJ
 with	IN
 the	DT
@@ -8327,7 +8506,7 @@ New	NNP
 York	NNP
 branch	NN
 .	.
-
+	
 The	DT
 branch	NN
 of	IN
@@ -8346,7 +8525,7 @@ opened	VB
 in	IN
 July	NNP
 .	.
-
+	
 But	IN
 a	DT
 Soviet	NNP
@@ -8362,6 +8541,7 @@ way	NN
 to	IN
 settle	VB
 the	DT
+$	CUR
 188	CD
 million	NN
 debt	NN
@@ -8383,7 +8563,7 @@ power	NN
 in	IN
 1917	CD
 .	.
-
+	
 Under	IN
 a	DT
 1934	CD
@@ -8425,7 +8605,7 @@ International	NN
 Monetary	JJ
 Fund	NN
 .	.
-
+	
 The	DT
 U.S.S.R.	NNP
 belongs	VB
@@ -8433,7 +8613,7 @@ to	IN
 neither	DT
 organization	NN
 .	.
-
+	
 Moscow	NNP
 has	VB
 settled	VB
@@ -8451,7 +8631,7 @@ at	IN
 face	NN
 value	NN
 .	.
-
+	
 The	DT
 State	NN
 Department	NN
@@ -8470,7 +8650,7 @@ the	DT
 Johnson	NNP
 Act	NNP
 .	.
-
+	
 But	IN
 the	DT
 Soviets	NN
@@ -8504,7 +8684,7 @@ lend	VB
 lease	NN
 program	NN
 .	.
-
+	
 In	IN
 another	DT
 reflection	NN
@@ -8536,7 +8716,7 @@ rise	NN
 in	IN
 September	NNP
 .	.
-
+	
 ,	,
 the	DT
 National	NN
@@ -8561,22 +8741,25 @@ sixth	JJ
 consecutive	JJ
 month	NN
 .	.
-
+	
 index	NN
 inched	VB
 47.6	CD
+%	SYM
 in	IN
 October	NNP
 from	IN
 46	CD
+%	SYM
 in	IN
 September	NNP
 .	.
-
+	
 Any	DT
 reading	NN
 below	IN
 50	CD
+%	SYM
 suggests	VB
 the	DT
 manufacturing	NN
@@ -8584,7 +8767,7 @@ sector	NN
 is	VB
 declining	VB
 .	.
-
+	
 The	DT
 purchasing	NN
 managers	NN
@@ -8602,9 +8785,10 @@ months	NN
 of	IN
 decline	NN
 .	.
-
+	
 Factories	NN
 booked	VB
+$	CUR
 236.74	NN
 billion	NN
 in	IN
@@ -8616,6 +8800,7 @@ the	DT
 same	JJ
 as	IN
 the	DT
+$	CUR
 236.79	NN
 billion	NN
 in	IN
@@ -8626,12 +8811,13 @@ Commerce	NN
 Department	NN
 said	VB
 .	.
-
+	
 If	IN
 not	POS
 for	IN
 a	DT
 59.6	CD
+%	SYM
 surge	NN
 in	IN
 orders	NN
@@ -8666,6 +8852,7 @@ an	DT
 annual	JJ
 rate	NN
 of	IN
+$	CUR
 415.6	CD
 billion	NN
 ,	,
@@ -8673,13 +8860,14 @@ not	POS
 different	JJ
 from	IN
 the	DT
+$	CUR
 415.8	CD
 billion	NN
 reported	VB
 for	IN
 August	NNP
 .	.
-
+	
 Private	JJ
 construction	NN
 spending	NN
@@ -8691,7 +8879,7 @@ building	NN
 activity	NN
 was	VB
 .	.
-
+	
 The	DT
 figures	NN
 in	IN
@@ -8715,7 +8903,7 @@ adjusted	VB
 for	IN
 inflation	NN
 .	.
-
+	
 Kenneth	NNP
 Mayland	NNP
 ,	,
@@ -8741,7 +8929,7 @@ to	IN
 taper	NN
 off	IN
 .	.
-
+	
 At	IN
 the	DT
 same	JJ
@@ -8764,29 +8952,31 @@ residential	JJ
 construction	NN
 industry	NN
 .	.
-
+	
 ``	.
 sector	NN
 is	VB
 stepping	VB
 to	IN
 pick	NN
+up	ADV
 the	DT
 slack	NN
 ?	.
-
+	
 "	.
 asked	VB
 .	.
-
+	
 ``	.
 draw	VB
 a	DT
 blank	NN
 .	.
-
+	
 "	.
 By	IN
+most	ADV
 measures	NN
 ,	,
 the	DT
@@ -8800,14 +8990,14 @@ if	IN
 at	IN
 all	DT
 .	.
-
+	
 Factory	NN
 payrolls	NN
 fell	VB
 in	IN
 September	NNP
 .	.
-
+	
 did	VB
 the	DT
 Federal	JJ
@@ -8817,7 +9007,7 @@ industrial	JJ
 production	NN
 index	NN
 .	.
-
+	
 Yet	CC
 many	JJ
 economists	NN
@@ -8833,7 +9023,7 @@ slip	VB
 into	IN
 recession	NN
 .	.
-
+	
 cite	VB
 a	DT
 lack	NN
@@ -8843,13 +9033,14 @@ imbalances	NN
 "	.
 that	CC
 provide	VB
+early	ADV
 warning	NN
 signals	NN
 of	IN
 a	DT
 downturn	NN
 .	.
-
+	
 Inventories	NN
 are	VB
 watched	VB
@@ -8876,7 +9067,7 @@ to	IN
 a	DT
 recession	NN
 .	.
-
+	
 But	IN
 yesterday	NN
 factory	NN
@@ -8889,12 +9080,13 @@ on	IN
 that	CC
 front	NN
 :	:
-
+	
 said	VB
 factory	NN
 inventories	NN
 fell	VB
 0.1	CD
+%	SYM
 in	IN
 September	NNP
 ,	,
@@ -8905,7 +9097,7 @@ since	IN
 February	NNP
 1987	CD
 .	.
-
+	
 ``	.
 conforms	VB
 to	IN
@@ -8932,7 +9124,7 @@ Jenrette	NNP
 Securities	NN
 Corp	NNP
 .	.
-
+	
 ``	.
 do	VB
 n't	POS
@@ -8944,7 +9136,7 @@ inventories	NN
 are	VB
 excessive	JJ
 .	.
-
+	
 "	.
 A	NN
 soft	JJ
@@ -8962,7 +9154,7 @@ to	IN
 a	DT
 recession	NN
 .	.
-
+	
 The	DT
 department	NN
 said	VB
@@ -8975,39 +9167,46 @@ those	DT
 intended	VB
 to	IN
 last	JJ
+more	ADV
 than	IN
 three	CD
 years	NN
 --	:
 fell	VB
 0.3	CD
+%	SYM
 in	IN
 September	NNP
 to	IN
+$	CUR
 109.73	NN
 billion	NN
 climbing	VB
 0.9	CD
+%	SYM
 the	DT
 month	NN
 .	.
-
+	
 Orders	NN
 for	IN
 durable	JJ
 goods	NN
 were	VB
 0.2	CD
+%	SYM
 to	IN
+$	CUR
 127.03	NN
 billion	NN
 after	IN
 rising	VB
 3.9	CD
+%	SYM
 the	DT
 month	NN
 .	.
-
+	
 The	DT
 department	NN
 estimated	VB
@@ -9017,24 +9216,28 @@ goods	NN
 orders	NN
 fell	VB
 0.1	CD
+%	SYM
 in	IN
 September	NNP
 .	.
-
+	
 Factory	NN
 shipments	NN
 fell	VB
 1.6	CD
+%	SYM
 to	IN
+$	CUR
 234.4	CD
 billion	NN
 after	IN
 rising	VB
 5.4	CD
+%	SYM
 in	IN
 August	NNP
 .	.
-
+	
 Shipments	NN
 have	VB
 been	VB
@@ -9047,7 +9250,7 @@ Commerce	NN
 Department	NN
 noted	VB
 .	.
-
+	
 Manufacturers	NN
 backlogs	NN
 of	IN
@@ -9055,9 +9258,11 @@ unfilled	JJ
 orders	NN
 rose	VB
 0.5	CD
+%	SYM
 in	IN
 September	NNP
 to	IN
+$	CUR
 497.34	NN
 billion	NN
 ,	,
@@ -9071,7 +9276,7 @@ capital	NN
 goods	NN
 sector	NN
 .	.
-
+	
 Excluding	VB
 these	DT
 orders	NN
@@ -9104,6 +9309,7 @@ spending	NN
 was	VB
 off	IN
 0.9	CD
+%	SYM
 in	IN
 September	NNP
 to	IN
@@ -9111,10 +9317,11 @@ an	DT
 annual	JJ
 rate	NN
 of	IN
+$	CUR
 191.9	CD
 billion	NN
 .	.
-
+	
 David	NNP
 Berson	NNP
 ,	,
@@ -9142,10 +9349,11 @@ homes	NN
 but	CC
 not	POS
 until	IN
+early	ADV
 next	JJ
 year	NN
 .	.
-
+	
 Spending	NN
 on	IN
 private	JJ
@@ -9155,11 +9363,13 @@ construction	NN
 was	VB
 off	IN
 2.6	CD
+%	SYM
 to	IN
 an	DT
 annual	JJ
 rate	NN
 of	IN
+$	CUR
 99.1	CD
 billion	NN
 with	IN
@@ -9168,17 +9378,19 @@ sector	NN
 showing	NN
 strength	NN
 .	.
-
+	
 Government	NN
 construction	NN
 spending	NN
 rose	VB
 4.3	CD
+%	SYM
 to	IN
+$	CUR
 88	CD
 billion	NN
 .	.
-
+	
 adjusting	VB
 for	IN
 inflation	NN
@@ -9195,7 +9407,7 @@ change	NN
 in	IN
 September	NNP
 .	.
-
+	
 For	IN
 the	DT
 first	JJ
@@ -9210,12 +9422,13 @@ construction	NN
 spending	NN
 ran	VB
 2	CD
+%	SYM
 above	IN
 last	JJ
 year	NN
 level	NN
 .	.
-
+	
 The	DT
 government	NN
 construction	NN
@@ -9232,15 +9445,17 @@ week	NN
 by	IN
 McGraw	NN
 Hill	NN
+Inc.'s	SYM
 F.W.	NNP
 Dodge	NN
 Group	NN
 .	.
-
+	
 Dodge	NN
 reported	VB
 an	DT
 8	CD
+%	SYM
 increase	NN
 in	IN
 construction	NN
@@ -9249,7 +9464,7 @@ awarded	VB
 in	IN
 September	NNP
 .	.
-
+	
 The	DT
 goverment	NN
 counts	NN
@@ -9258,14 +9473,14 @@ as	IN
 is	VB
 spent	VB
 ;	:
-
+	
 Dodge	NN
 counts	NN
 contracts	NN
 are	VB
 awarded	VB
 .	.
-
+	
 The	DT
 government	NN
 includes	VB
@@ -9275,12 +9490,12 @@ on	IN
 residential	JJ
 renovation	NN
 ;	:
-
+	
 Dodge	NN
 does	VB
 n't	POS
 .	.
-
+	
 Although	IN
 the	DT
 purchasing	NN
@@ -9324,7 +9539,7 @@ Stamford	NNP
 ,	,
 Conn	NN
 .	.
-
+	
 said	VB
 the	DT
 index	NN
@@ -9336,6 +9551,7 @@ in	IN
 the	DT
 low	JJ
 40	CD
+%	SYM
 range	NN
 for	IN
 several	DT
@@ -9348,7 +9564,7 @@ forecast	NN
 of	IN
 recession	NN
 .	.
-
+	
 The	DT
 report	NN
 offered	VB
@@ -9367,13 +9583,15 @@ may	MD
 be	VB
 slowing	NN
 .	.
-
+	
 19	CD
+%	SYM
 of	IN
 the	DT
 purchasing	NN
 managers	NN
 reported	VB
+better	ADV
 export	NN
 orders	NN
 in	IN
@@ -9381,12 +9599,14 @@ October	NNP
 ,	,
 from	IN
 27	CD
+%	SYM
 in	IN
 September	NNP
 .	.
-
+	
 And	CC
 8	CD
+%	SYM
 said	VB
 export	NN
 orders	NN
@@ -9397,10 +9617,11 @@ month	NN
 compared	VB
 with	IN
 6	CD
+%	SYM
 the	DT
 month	NN
 .	.
-
+	
 The	DT
 purhasing	NN
 managers	NN
@@ -9413,7 +9634,7 @@ is	VB
 under	IN
 control	NN
 .	.
-
+	
 For	IN
 the	DT
 fifth	NN
@@ -9430,7 +9651,7 @@ goods	NN
 purchased	VB
 fell	VB
 .	.
-
+	
 The	DT
 decline	NN
 was	VB
@@ -9439,7 +9660,7 @@ than	IN
 in	IN
 September	NNP
 .	.
-
+	
 said	VB
 that	CC
 vendors	NN
@@ -9458,7 +9679,7 @@ five	CD
 previous	JJ
 months	NN
 .	.
-
+	
 Economists	NN
 consider	VB
 a	DT
@@ -9469,7 +9690,7 @@ pressures	NN
 are	VB
 abating	VB
 .	.
-
+	
 demand	NN
 is	VB
 stronger	JJ
@@ -9487,7 +9708,7 @@ tend	VB
 to	IN
 rise	NN
 .	.
-
+	
 The	DT
 purchasing	NN
 managers	NN
@@ -9498,12 +9719,13 @@ on	IN
 data	NN
 provided	VB
 by	IN
+more	ADV
 than	IN
 250	CD
 purchasing	NN
 executives	NN
 .	.
-
+	
 Each	DT
 of	IN
 the	DT
@@ -9530,7 +9752,7 @@ reporting	NN
 a	DT
 worsening	NN
 .	.
-
+	
 For	IN
 the	DT
 first	JJ
@@ -9544,29 +9766,33 @@ members	NN
 on	IN
 imports	NN
 .	.
-
+	
 found	VB
 that	CC
 of	IN
 the	DT
 73	CD
+%	SYM
 import	NN
 ,	,
 10	CD
+%	SYM
 said	VB
 imported	VB
 in	IN
 October	NNP
 and	CC
 12	CD
+%	SYM
 said	VB
 imported	VB
+less	ADV
 than	IN
 the	DT
 previous	JJ
 month	NN
 .	.
-
+	
 While	IN
 acknowledging	VB
 one	CD
@@ -9595,13 +9821,14 @@ or	CC
 not	POS
 increasing	VB
 .	.
-
+	
 "	.
 Items	NN
 listed	VB
 as	IN
 being	VB
 in	IN
+short	ADV
 supply	NN
 numbered	VB
 a	DT
@@ -9612,13 +9839,13 @@ included	VB
 one	NN
 newcomer	NN
 :	:
-
+	
 milk	NN
 and	CC
 milk	NN
 powder	NN
 .	.
-
+	
 ``	.
 is	VB
 an	DT
@@ -9635,7 +9862,7 @@ Mr.	NNP
 Bretz	NNP
 noted	VB
 .	.
-
+	
 said	VB
 that	CC
 for	IN
@@ -9656,7 +9883,7 @@ nonfat	JJ
 dry	JJ
 milk	NN
 .	.
-
+	
 blamed	VB
 increased	VB
 demand	NN
@@ -9680,7 +9907,7 @@ low	JJ
 import	NN
 quotas	NN
 .	.
-
+	
 Pamela	NNP
 Sebastian	NNP
 in	IN
@@ -9691,7 +9918,7 @@ to	IN
 this	DT
 article	NN
 .	.
-
+	
 are	VB
 the	DT
 Commerce	NN
@@ -9709,7 +9936,7 @@ adjusted	VB
 annual	JJ
 rates	NN
 .	.
-
+	
 are	VB
 the	DT
 Commerce	NN
@@ -9725,7 +9952,7 @@ dollars	NN
 ,	,
 adjusted	VB
 .	.
-
+	
 Judging	VB
 from	IN
 the	DT
@@ -9744,6 +9971,7 @@ Kodansha	NNP
 320	CD
 pages	NN
 ,	,
+$	CUR
 18.95	NN
 ,	,
 baby	NN
@@ -9760,7 +9988,7 @@ lot	NN
 in	IN
 common	JJ
 .	.
-
+	
 Although	IN
 set	NN
 in	IN
@@ -9774,7 +10002,7 @@ Western	JJ
 ,	,
 American	NN
 .	.
-
+	
 Characters	NN
 drink	NN
 Salty	JJ
@@ -9792,18 +10020,20 @@ Bugs	NN
 Bunny	NN
 reruns	NN
 .	.
-
+	
 read	VB
 Mickey	NN
 Spillane	NNP
 and	CC
 talk	NN
+about	ADV
 Groucho	NNP
 and	CC
 Harpo	NNP
 .	.
-
+	
 worry	NN
+about	ADV
 careers	NN
 ,	,
 drink	NN
@@ -9816,11 +10046,11 @@ and	CC
 desultory	JJ
 affairs	NN
 .	.
-
+	
 is	VB
 Japan	NNP
 ?	.
-
+	
 For	IN
 an	DT
 American	NN
@@ -9850,7 +10080,7 @@ contemporary	JJ
 American	NN
 lore	NN
 .	.
-
+	
 is	VB
 refreshing	VB
 to	IN
@@ -9883,7 +10113,7 @@ unfathomable	JJ
 by	IN
 outsiders	NN
 .	.
-
+	
 If	IN
 ``	.
 A	NN
@@ -9906,10 +10136,11 @@ Japanese	JJ
 are	VB
 like	IN
 than	IN
+most	ADV
 of	IN
 think	VB
 .	.
-
+	
 is	VB
 not	POS
 to	IN
@@ -9930,13 +10161,13 @@ rooted	VB
 in	IN
 reality	NN
 .	.
-
+	
 is	VB
 imaginative	JJ
 and	CC
 funny	JJ
 .	.
-
+	
 A	NN
 disaffected	JJ
 ,	,
@@ -9960,6 +10191,7 @@ with	IN
 a	DT
 star	NN
 on	IN
+back	ADV
 at	IN
 the	DT
 behest	NN
@@ -9974,7 +10206,7 @@ a	DT
 Stanford	NNP
 degree	NN
 .	.
-
+	
 has	VB
 in	IN
 tow	NN
@@ -9991,7 +10223,7 @@ a	DT
 docile	JJ
 butterfly	NN
 .	.
-
+	
 Along	IN
 the	DT
 way	NN
@@ -10008,7 +10240,7 @@ God	NN
 phone	NN
 number	NN
 ;	:
-
+	
 and	CC
 the	DT
 Sheep	NN
@@ -10025,7 +10257,7 @@ wears	VB
 a	DT
 sheepskin	NN
 .	.
-
+	
 The	DT
 40	CD
 year	NN
@@ -10039,7 +10271,7 @@ sensation	NN
 in	IN
 Japan	NNP
 .	.
-
+	
 A	NN
 recent	JJ
 novel	NN
@@ -10062,6 +10294,7 @@ lyrics	NN
 ,	,
 has	VB
 sold	VB
+more	ADV
 than	IN
 four	CD
 million	NN
@@ -10072,7 +10305,7 @@ published	VB
 in	IN
 1987	CD
 .	.
-
+	
 But	IN
 is	VB
 one	NN
@@ -10094,7 +10327,7 @@ charts	NN
 in	IN
 Japan	NNP
 .	.
-
+	
 books	NN
 are	VB
 written	VB
@@ -10110,7 +10343,7 @@ dashes	NN
 of	IN
 Americana	NN
 .	.
-
+	
 In	IN
 Robert	NNP
 Whiting	NNP
@@ -10124,6 +10357,7 @@ Macmillan	NNP
 339	CD
 pages	NN
 ,	,
+$	CUR
 17.95	NN
 ,	,
 the	DT
@@ -10146,7 +10380,7 @@ a	DT
 ``	.
 game	NN
 .	.
-
+	
 "	.
 As	IN
 Mr.	NNP
@@ -10164,11 +10398,12 @@ Japan's	NNP
 fabled	JJ
 virtues	NN
 of	IN
+hard	ADV
 work	NN
 and	CC
 harmony	NN
 .	.
-
+	
 "	.
 ``	.
 Wa	NNP
@@ -10189,7 +10424,7 @@ and	CC
 miles	NN
 of	IN
 .	.
-
+	
 A	NN
 player	NN
 commitment	NN
@@ -10204,7 +10439,7 @@ as	IN
 batting	NN
 average	NN
 .	.
-
+	
 Polls	NN
 named	VB
 Tokyo	NNP
@@ -10230,7 +10465,7 @@ symbol	NN
 of	IN
 Japan	NNP
 .	.
-
+	
 But	IN
 other	IN
 than	IN
@@ -10250,7 +10485,7 @@ bat	NN
 is	VB
 unrecognizable	JJ
 :	:
-
+	
 Fans	NN
 return	NN
 foul	JJ
@@ -10259,7 +10494,7 @@ to	IN
 stadium	NN
 ushers	NN
 ;	:
-
+	
 the	DT
 strike	NN
 zone	NN
@@ -10272,11 +10507,12 @@ of	IN
 the	DT
 hitter	NN
 ;	:
-
+	
 ties	NN
 are	VB
 permitted	VB
 --	:
+even	ADV
 welcomed	VB
 --	:
 since	IN
@@ -10286,7 +10522,7 @@ shame	NN
 of	IN
 defeat	NN
 ;	:
-
+	
 players	NN
 must	MD
 abide	VB
@@ -10313,7 +10549,7 @@ on	IN
 the	DT
 road	NN
 .	.
-
+	
 ``	.
 Gotta	NNP
 Have	VB
@@ -10337,7 +10573,7 @@ fare	VB
 in	IN
 Japan	NNP
 .	.
-
+	
 Despite	IN
 the	DT
 enormous	JJ
@@ -10349,6 +10585,7 @@ re	NN
 paid	VB
 to	IN
 stand	NN
+up	ADV
 at	IN
 a	DT
 Japanese	JJ
@@ -10366,7 +10603,7 @@ run	NN
 for	IN
 home	NN
 .	.
-
+	
 ``	.
 Funny	JJ
 Business	NN
@@ -10376,6 +10613,7 @@ Soho	NNP
 228	CD
 pages	NN
 ,	,
+$	CUR
 17.95	NN
 by	IN
 Gary	NNP
@@ -10383,7 +10621,7 @@ Katzenstein	NNP
 is	VB
 anything	NN
 .	.
-
+	
 is	VB
 the	DT
 petulant	JJ
@@ -10413,7 +10651,7 @@ of	IN
 both	DT
 parties	NN
 .	.
-
+	
 In	IN
 amusing	JJ
 ,	,
@@ -10456,15 +10694,15 @@ austere	JJ
 company	NN
 dormitory	NN
 run	NN
-by	IN
 a	DT
 prying	JJ
 caretaker	NN
 .	.
-
+	
 Some	DT
 of	IN
 observations	NN
+about	ADV
 Japanese	JJ
 management	NN
 style	NN
@@ -10473,7 +10711,7 @@ on	IN
 the	DT
 mark	NN
 .	.
-
-
-
-
+	
+	
+	
+	

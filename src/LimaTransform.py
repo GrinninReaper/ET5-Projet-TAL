@@ -42,7 +42,7 @@ arrayContentKeys1=[];
 arrayContentValues1=[];
 for i in range(len(contentSplitSpace1)):
   if(contentSplitSpace1[i] == ""):
-    arrayContentKeys1.append("\n")
+    arrayContentKeys1.append("")
     arrayContentValues1.append("")
   else:
     contentSplitTab= contentSplitSpace1[i].split('\t');
@@ -50,6 +50,7 @@ for i in range(len(contentSplitSpace1)):
       wordsInContent = contentSplitTab[0].split(" ")
       tagToAdd = contentSplitTab[-1]
       for k in range (len(wordsInContent)):
+        print(wordsInContent[k])
         arrayContentKeys1.append(wordsInContent[k])
         arrayContentValues1.append(tagToAdd)
 
@@ -60,17 +61,23 @@ tagToWrite = "";
 #Creation du fichier de sortie
 #transformation des tags Lima en PTB
 outFile1 = open(outputPath1, "w");
-for j in range(len(arrayContentKeys1)):
-  for i in range(len(arrayTagsKeys)):
-    if(arrayContentValues1[j] == arrayTagsKeys[i]):
-      tagToWrite = arrayTagsValues[i]
-      writeTag = True
-  if(writeTag):
-    outFile1.write(arrayContentKeys1[j] + "\t");
-    outFile1.write(tagToWrite + "\n");
-    writeTag = False;
-  else:
-    if(arrayContentKeys1[j] == "\n"):
-      outFile1.write("\n");
+
+for i in range(len(arrayContentValues1)):
+  if arrayContentValues1[i] in arrayTagsKeys:
+    arrayContentValues1[i] = arrayTagsValues[arrayTagsKeys.index(arrayContentValues1[i])];
+  outFile1.write(arrayContentKeys1[i] + "\t" + arrayContentValues1[i] + "\n")
+
+# for j in range(len(arrayContentKeys1)):
+#   for i in range(len(arrayTagsKeys)):
+#     if(arrayContentValues1[j] == arrayTagsKeys[i]):
+#       tagToWrite = arrayTagsValues[i]
+#       writeTag = True
+#   if(writeTag):
+#     outFile1.write(arrayContentKeys1[j] + "\t");
+#     outFile1.write(tagToWrite + "\n");
+#     writeTag = False;
+#   else:
+#     if(arrayContentKeys1[j] == "\n"):
+#       outFile1.write("\n");
 outFile1.close();
 

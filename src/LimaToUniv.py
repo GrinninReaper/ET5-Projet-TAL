@@ -2,10 +2,13 @@ import nltk
 from nltk import pos_tag
 from nltk.tokenize import word_tokenize
 from nltk import RegexpParser
+import os
+
+os.chdir("..");
 
 inputPathTags = "data/POSTags_PTB_Universal_Linux.txt"
 inputPath1 = "data/pos_reference.txt.lima2"
-outputPath1 = "pos_reference.txt.univ";
+outputPath1 = "data/pos_reference.txt.univ";
 
 inputFileTags = open(inputPathTags, "r+");
 contentTags = inputFileTags.read();

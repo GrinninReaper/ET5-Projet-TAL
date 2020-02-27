@@ -2,6 +2,7 @@ import nltk
 from nltk import pos_tag
 from nltk.tokenize import word_tokenize
 from nltk import RegexpParser
+ 
 
 inputPath1 = "data/pos_reference.txt.lima"
 outputPath1 = "data/pos_reference.txt.lima2";
@@ -28,8 +29,11 @@ for i in range(len(contentSplitSpace1)):
   else:
     contentSplitTab= contentSplitSpace1[i].split('\t');
     for j in range(len(contentSplitTab)-1):
-      arrayContentKeys1.append(contentSplitTab[j])
-      arrayContentValues1.append(contentSplitTab[-1])
+      wordsInContent = contentSplitTab[0].split(" ")
+      tagToAdd = contentSplitTab[-1]
+      for k in range (len(wordsInContent)):
+        arrayContentKeys1.append(wordsInContent[k])
+        arrayContentValues1.append(tagToAdd)
 
 # for word in contentSplitSpace1:  
 #   if(word == ""):
@@ -46,6 +50,9 @@ tagToWrite = "";
 #print("taille arrayContentValues = " + str(len(arrayContentValues1)));
 #print("taille arrayTagsKeys = " + str(len(arrayTagsKeys)));
 #print("taille arrayTagsValues = " + str(len(arrayTagsValues)));
+
+chaine = ""
+
 
 # print("\n");
 # writeTag = False;

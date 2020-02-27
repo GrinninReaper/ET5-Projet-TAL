@@ -1,4 +1,7 @@
 import sys
+import os
+
+os.chdir("..");
 
 if(len(sys.argv) < 3):
   print("Not enough arguments. GetTextFromTagged.py take two arguments");

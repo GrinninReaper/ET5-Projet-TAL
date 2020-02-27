@@ -1,0 +1,3 @@
+language = "bash"
+  run = "src/LimaTransform.py"
+  

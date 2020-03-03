@@ -62,6 +62,8 @@ try:
           
         rsltStr += lineColumn[0] + "\t" + en + "\n";
         #print(rsltStr)
+    else :
+      rsltStr += "\n"
 except Exception as e:
     print(str(e))
 

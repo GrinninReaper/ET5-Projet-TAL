@@ -38,7 +38,7 @@ for sentence in tokens:
   words += nltk.word_tokenize(sentence)
   tagged = nltk.pos_tag(words)
   #Named Entity Recognition
-  namedEnt = nltk.ne_chunk(tagged, binary=True);
+  namedEnt = nltk.ne_chunk(tagged);
 
 print("-----------------NameEnt: ", namedEnt); #Testing
 

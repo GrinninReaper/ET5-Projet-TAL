@@ -9,20 +9,11 @@ def convEnToEtiq(entity):
     return "LOC"
   if(entity == "PERSON"):
     return "PERS"
-  if(entity == "NUMEX"):
-    return "NUMEX"
-  if(entity == "DATE"):
-    return "DATE"
-  if(entity == "GEO"):
-    return "GEO"
-  if(entity == "NUMBER"):
-    return "NUMBER"
-  if(entity == "UNIT"):
-    return "UNIT"
-  if(entity == "TIME"):
-    return "TIME"
+  if(entity == "O"):
+    return "O"
   else:
-    return entity
+    return "MISC"
+  
 
 
 #Recuperation des arguments

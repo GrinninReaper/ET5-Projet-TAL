@@ -1,7 +1,3 @@
-import nltk
-from nltk import pos_tag
-from nltk.tokenize import word_tokenize
-from nltk import RegexpParser
 import os
 import sys
 

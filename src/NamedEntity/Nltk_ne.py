@@ -11,10 +11,10 @@ if(len(sys.argv) < 3):
   print("Try with: python3 GetTextFromTagged.py <inputFile> <outputFile>");
 
 #Downloading packages
-'''nltk.download('punkt');
+nltk.download('punkt');
 nltk.download('averaged_perceptron_tagger');
 nltk.download('maxent_ne_chunker');
-nltk.download('words');'''
+nltk.download('words');
 
 #Settings
 inputPath = sys.argv[1];
@@ -40,7 +40,7 @@ for sentence in tokens:
   #Named Entity Recognition
   namedEnt = nltk.ne_chunk(tagged, binary=True);
 
-#print("NameEnt: ", namedEnt); #Testing
+print("-----------------NameEnt: ", namedEnt); #Testing
 
 #Creating output files
 outFile = open(outputPath, "w");

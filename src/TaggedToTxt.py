@@ -29,8 +29,6 @@ for word in wordsWithLB:
   else:
     rsltStr = rsltStr + word + " ";
 
-print(rsltStr);
-
 
 outputFile = open(outputPath, "w+");
 outputFile.write(rsltStr);

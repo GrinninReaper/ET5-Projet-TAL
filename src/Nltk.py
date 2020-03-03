@@ -2,9 +2,12 @@ import nltk
 from nltk import pos_tag
 from nltk.tokenize import word_tokenize
 from nltk import RegexpParser
+import os
 
-inputPath = "../data/pos_test.txt"
-outputPath = "../data/pos_test.txt.pos.nltk.unrendered";
+os.chdir("..");
+
+inputPath = "data/pos_test.txt"
+outputPath = "data/pos_test.txt.pos.nltk.unrendered";
 
 inputFile = open(inputPath, "r+");
 content = inputFile.read();

@@ -25,8 +25,6 @@ inputFile1 = open(inputPath1, "r+");
 content1 = inputFile1.read();
 inputFile1.close();
 
-nltk.download('averaged_perceptron_tagger');
-
 #initialisation des tags LIMA  transformer en PTB
 arrayTagsKeys=["SCONJ","SENT","COMMA", "COLON", "PROPN","AUX", "ADJ", "VERB", "DET", "ADP", "NOUN", "PART", "CONJ", "OQU", "QUOT", "NUM"];
 arrayTagsValues=["CC",".",",",":", "NNP", "MD","JJ", "VB", "DT", "IN", "NN", "POS", "CC", ".", ".", "CD"];
@@ -40,7 +38,7 @@ arrayTagsValues=["CC",".",",",":", "NNP", "MD","JJ", "VB", "DT", "IN", "NN", "PO
 contentSplitSpace1 = content1.split('\n');
 arrayContentKeys1=[];
 arrayContentValues1=[];
-for i in range(len(contentSplitSpace1)):
+for i in range(len(contentSplitSpace1)-1):
   if(contentSplitSpace1[i] == ""):
     arrayContentKeys1.append("")
     arrayContentValues1.append("")
@@ -50,7 +48,6 @@ for i in range(len(contentSplitSpace1)):
       wordsInContent = contentSplitTab[0].split(" ")
       tagToAdd = contentSplitTab[-1]
       for k in range (len(wordsInContent)):
-        print(wordsInContent[k])
         arrayContentKeys1.append(wordsInContent[k])
         arrayContentValues1.append(tagToAdd)
 

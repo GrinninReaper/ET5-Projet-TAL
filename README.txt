@@ -25,3 +25,8 @@ Pour obtenir les résultats:
  * utiliser les LimaToUniv.py, StfdToUniv.py et NltkToUniv.py
  * lancer evaluate.py sur les fichiers obtenus en résultat
  
+Exercice 2
+Les fichiers de données de l'exercice 2 sont ceux commençant par "ne_".
+Les scripts relatifs à cet exercice sont dans le dossier /src/NamedEntity. 
+Le principe d'exécution des scripts restent le même que pour l'exercice 1 et est aussi détaillé dans le rapport.
+ 

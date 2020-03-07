@@ -1,4 +1,4 @@
-### Projet de TAL
+# Projet de TAL
 Author: Anandou C.
 		Abdoulaye D. 
 		Justine Thanh N.H.T

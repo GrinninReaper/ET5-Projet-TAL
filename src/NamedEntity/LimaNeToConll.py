@@ -8,7 +8,7 @@ def convEnToEtiq(entity):
   if(entity == "LOCATION"):
     return "LOC"
   if(entity == "PERSON"):
-    return "PERS"
+    return "PER"
   if(entity == "O"):
     return "O"
   else:

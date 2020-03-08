@@ -26,7 +26,6 @@ new	O
 chief	O
 executive	O
 .	O
-
 Barra	PERSON
 ,	O
 51	NUMBER
@@ -46,7 +45,6 @@ American	ORGANIZATION
 auto	O
 industry	O
 .	O
-
 She	O
 has	O
 been	O
@@ -67,14 +65,12 @@ of	O
 product	O
 development	O
 .	O
-
 She	O
 said	O
 in	O
 a	O
 statement	O
 :	O
-
 ``	O
 With	O
 an	O
@@ -105,7 +101,6 @@ today	O
 s	O
 GM	O
 .	O
-
 I	O
 '	O
 m	O
@@ -127,7 +122,6 @@ at	O
 full	O
 speed	O
 .	O
-
 '	O
 '	O
 She	O
@@ -156,7 +150,6 @@ company	O
 s	O
 bankruptcy	O
 .	O
-
 Akerson	PERSON
 plans	O
 to	O
@@ -174,7 +167,6 @@ advanced	O
 cancer	O
 diagnosis	O
 .	O
-
 In	O
 a	O
 message	O
@@ -184,7 +176,6 @@ employees	O
 he	O
 said	O
 :	O
-
 ``	O
 I	O
 will	O
@@ -225,7 +216,6 @@ global	O
 auto	O
 industry	O
 .	O
-
 '	O
 '	O
 Akerson	PERSON
@@ -245,7 +235,6 @@ director	O
 Theodore	PERSON
 Solso	PERSON
 .	O
-
 The	O
 company	O
 also	O
@@ -260,7 +249,6 @@ its	O
 new	O
 president	O
 .	O
-
 The	O
 appointment	O
 comes	O
@@ -303,7 +291,6 @@ under	O
 public	O
 ownership	O
 .	O
-
 General	ORGANIZATION
 Motors	ORGANIZATION
 recovered	O
@@ -327,7 +314,6 @@ in	O
 November	DATE
 2010	DATE
 .	O
-
 It	O
 remains	O
 the	O
@@ -349,7 +335,6 @@ billion	O
 in	O
 2012	DATE
 .	O
-
 It	O
 currently	O
 produces	O
@@ -361,7 +346,6 @@ in	O
 37	NUMBER
 countries	O
 .	O
-
 Barra	PERSON
 holds	O
 a	O
@@ -396,7 +380,6 @@ in	O
 the	O
 world	O
 .	O
-
 US	LOCATION
 automaker	O
 bailout	O
@@ -450,7 +433,6 @@ a	O
 procedural	O
 vote	O
 .	O
-
 The	O
 bill	O
 was	O
@@ -502,7 +484,6 @@ the	O
 United	ORGANIZATION
 States	ORGANIZATION
 .	O
-
 The	O
 UAW	O
 refused	O
@@ -511,7 +492,6 @@ meet	O
 the	O
 demands	O
 .	O
-
 The	O
 final	O
 vote	O
@@ -533,7 +513,6 @@ needed	O
 to	O
 pass	O
 .	O
-
 Only	O
 ten	NUMBER
 Republicans	O
@@ -549,7 +528,6 @@ for	O
 the	O
 bill	O
 .	O
-
 Three	NUMBER
 Democrats	ORGANIZATION
 voted	O
@@ -559,7 +537,6 @@ Republicans	O
 against	O
 it	O
 .	O
-
 Senate	ORGANIZATION
 Majority	O
 leader	O
@@ -583,7 +560,6 @@ bill	O
 to	O
 pass	O
 .	O
-
 ``	O
 I	O
 dread	O
@@ -593,7 +569,6 @@ Wall	ORGANIZATION
 Street	ORGANIZATION
 tomorrow	O
 .	O
-
 It	O
 '	O
 s	O
@@ -610,7 +585,6 @@ sight	O
 Reid	PERSON
 said	O
 .	O
-
 ``	O
 Millions	O
 of	O
@@ -644,7 +618,6 @@ impacted	O
 and	O
 affected	O
 .	O
-
 '	O
 '	O
 Republican	O
@@ -658,7 +631,6 @@ about	O
 the	O
 rejection	O
 .	O
-
 ``	O
 We	O
 were	O
@@ -670,7 +642,6 @@ from	O
 a	O
 deal	O
 .	O
-
 We	O
 solved	O
 everything	O
@@ -691,7 +662,6 @@ conclusion	O
 he	O
 said	O
 .	O
-
 Some	O
 Democrats	ORGANIZATION
 now	O
@@ -721,7 +691,6 @@ flagging	O
 car	O
 industry	O
 .	O
-
 Stock	O
 markets	O
 worldwide	O
@@ -752,7 +721,6 @@ of	O
 8253.87	O
 points	O
 .	O
-
 Shares	O
 in	O
 the	O
@@ -773,7 +741,6 @@ than	O
 percent	NUMEX
 apiece	O
 .	O
-
 European	O
 stocks	O
 ,	O
@@ -810,7 +777,6 @@ of	O
 at	O
 midday	O
 .	O
-
 White	ORGANIZATION
 House	ORGANIZATION
 considering	O
@@ -869,7 +835,6 @@ out	O
 the	O
 automakers	O
 .	O
-
 The	O
 White	ORGANIZATION
 House	ORGANIZATION
@@ -891,7 +856,6 @@ destroy	O
 the	O
 economy	O
 .	O
-
 ``	O
 Under	O
 normal	O
@@ -910,7 +874,6 @@ of	O
 private	O
 firms	O
 .	O
-
 However	O
 ,	O
 given	O
@@ -963,7 +926,6 @@ House	ORGANIZATION
 Press	O
 Secretary	O
 .	O
-
 ``	O
 A	O
 precipitous	O
@@ -996,7 +958,6 @@ at	O
 this	O
 time	O
 .	O
-
 '	O
 '	O
 Earlier	O
@@ -1036,7 +997,6 @@ to	O
 prevent	O
 collapse	O
 .	O
-
 Although	O
 the	ORGANIZATION
 House	ORGANIZATION
@@ -1058,7 +1018,6 @@ of	O
 -	O
 35	NUMBER
 .	O
-
 Part	PERSON
 of	O
 the	O
@@ -1091,7 +1050,6 @@ of	O
 Japanese	O
 carmakers	O
 .	O
-
 General	ORGANIZATION
 Motors	ORGANIZATION
 stated	O
@@ -1143,7 +1101,6 @@ to	O
 their	O
 workforces	O
 .	O
-
 The	O
 automobile	O
 manufacturers	O
@@ -1169,7 +1126,6 @@ the	O
 U.S.	LOCATION
 government	O
 .	O
-
 Reports	O
 say	O
 that	O
@@ -1191,7 +1147,6 @@ new	O
 vehicle	O
 voucher	O
 .	O
-
 Chrysler	PERSON
 will	O
 offer	O
@@ -1210,7 +1165,6 @@ $	NUMEX
 75,000	NUMEX
 without	O
 .	O
-
 Both	O
 will	O
 offer	O
@@ -1241,7 +1195,6 @@ jobs	O
 by	O
 2012	DATE
 .	O
-
 The	O
 two	NUMBER
 companies	O
@@ -1281,7 +1234,6 @@ in return for	O
 the	O
 money	O
 .	O
-
 UAW	O
 workers	O
 in	O
@@ -1292,7 +1244,6 @@ $	NUMEX
 an	O
 hour	O
 ;	O
-
 their	O
 replacements	O
 will	O
@@ -1301,7 +1252,6 @@ about	O
 half	O
 that	O
 .	O
-
 The	O
 UAW	O
 '	O
@@ -1328,7 +1278,6 @@ at	O
 both	O
 companies	O
 .	O
-
 GM	O
 is	O
 also	O
@@ -1356,7 +1305,6 @@ $	NUMEX
 9.2	NUMEX
 billion	O
 .	O
-
 It	O
 is	O
 also	O
@@ -1381,7 +1329,6 @@ Automobile	ORGANIZATION
 vehicle	O
 brands	O
 .	O
-
 The	O
 entire	O
 motor	O
@@ -1414,7 +1361,6 @@ sought	O
 federal	O
 aid	O
 .	O
-
 GM	O
 and	O
 Chrysler	PERSON
@@ -1433,7 +1379,6 @@ the	O
 federal	O
 bailout	O
 .	O
-
 Automobile	O
 sales	O
 in	O
@@ -1476,7 +1421,6 @@ their	O
 January	DATE
 sales	O
 .	O
-
 Ford Motor	ORGANIZATION
 Company	ORGANIZATION
 sales	O
@@ -1490,7 +1434,6 @@ the	O
 previous	O
 year	O
 .	O
-
 General	ORGANIZATION
 Motors	ORGANIZATION
 reported	O
@@ -1499,7 +1442,6 @@ a	O
 %	NUMEX
 decline	O
 .	O
-
 Chrysler	PERSON
 was	O
 hardest	O
@@ -1528,7 +1470,6 @@ just	O
 US	LOCATION
 manufacturers	O
 .	O
-
 Japanese	O
 automaker	O
 Toyota	LOCATION
@@ -1578,7 +1519,6 @@ increase	O
 in	O
 sales	O
 .	O
-
 They	O
 posted	O
 gains	O
@@ -1588,7 +1528,6 @@ percent	NUMEX
 ,	O
 respectively	O
 .	O
-
 On	O
 an	O
 annual	O
@@ -1601,7 +1540,6 @@ also	O
 been	O
 plummeting	O
 .	O
-
 Industry-wide	O
 US	LOCATION
 car	O
@@ -1616,7 +1554,6 @@ to	O
 million	O
 automobiles	O
 .	O
-
 GM	O
 announced	O
 today	O
@@ -1641,7 +1578,6 @@ reduce	O
 its	O
 expenditures	O
 .	O
-
 Last	O
 month	O
 ,	O
@@ -1666,7 +1602,6 @@ of	O
 imminent	O
 bankruptcy	O
 .	O
-
 US	LOCATION
 automakers	O
 GM	O
@@ -1730,7 +1665,6 @@ three	NUMBER
 thousand	NUMBER
 employees	O
 .	O
-
 At	O
 the	O
 end	O
@@ -1761,7 +1695,6 @@ its	O
 total	O
 workforce	O
 .	O
-
 In addition	O
 ,	O
 Chrysler	PERSON
@@ -1779,7 +1712,6 @@ Durango	LOCATION
 from	O
 production	O
 .	O
-
 Another	O
 automaker	O
 ,	O
@@ -1814,7 +1746,6 @@ has	O
 already	O
 received	O
 .	O
-
 GM	O
 plans	O
 to	O
@@ -1827,7 +1758,6 @@ close	O
 five	NUMBER
 factories	O
 .	O
-
 GM	O
 says	O
 that	O
@@ -1854,7 +1784,6 @@ $	NUMEX
 18	NUMEX
 billion	O
 .	O
-
 The	O
 company	O
 has	O
@@ -1875,7 +1804,6 @@ was	O
 not	O
 given	O
 .	O
-
 Rick	PERSON
 Wagoner	PERSON
 ,	O
@@ -1950,7 +1878,6 @@ has	O
 to	O
 be	O
 .	O
-
 '	O
 '	O
 GM	O
@@ -1978,7 +1905,6 @@ loans	O
 by	O
 2017	DATE
 .	O
-
 A	O
 third	O
 US	LOCATION
@@ -2003,7 +1929,6 @@ any	O
 government	O
 aid	O
 .	O
-
 The	O
 US	LOCATION
 Treasury Department	O
@@ -2032,7 +1957,6 @@ extend	O
 the	O
 loans	O
 .	O
-
 That	O
 decision	O
 is	O
@@ -2044,7 +1968,6 @@ of	O
 next	O
 month	O
 .	O
-
 GM	O
 and	O
 Chrysler	PERSON
@@ -2098,7 +2021,6 @@ can	O
 reinvent	O
 themselves	O
 .	O
-
 ``	O
 This	O
 is	O
@@ -2113,7 +2035,6 @@ the	O
 Canadian	O
 economy	O
 .	O
-
 We	O
 are	O
 doing	O
@@ -2139,7 +2060,6 @@ catastrophic	O
 short-term	O
 collapse	O
 .	O
-
 '	O
 '	O
 said	O
@@ -2150,7 +2070,6 @@ Prime Minister	O
 of	O
 Canada	LOCATION
 .	O
-
 ``	O
 We	O
 can	O
@@ -2171,7 +2090,6 @@ industry	O
 simply	O
 vanish	O
 .	O
-
 This	O
 industry	O
 is	O
@@ -2187,7 +2105,6 @@ the	O
 American	ORGANIZATION
 spirit	O
 ;	O
-
 a	O
 once	O
 and	O
@@ -2211,7 +2128,6 @@ the	O
 United	ORGANIZATION
 States	ORGANIZATION
 .	O
-
 ``	O
 These	O
 companies	O
@@ -2234,7 +2150,6 @@ of	O
 the	O
 state	O
 .	O
-
 '	O
 '	O
 Chrysler	PERSON
@@ -2257,7 +2172,6 @@ $	NUMEX
 4	NUMEX
 billion	O
 .	O
-
 If	O
 Chrysler	PERSON
 succeeds	O
@@ -2282,7 +2196,6 @@ $	NUMEX
 billion	O
 loan	O
 .	O
-
 A	O
 part	O
 of	O
@@ -2306,7 +2219,6 @@ the	O
 US	LOCATION
 administration	O
 .	O
-
 Fiat	PERSON
 is	O
 a	O
@@ -2331,7 +2243,6 @@ the	O
 North American	O
 market	O
 .	O
-
 A	O
 Chrysler	PERSON
 court	O
@@ -2345,7 +2256,6 @@ being	O
 sold	O
 off	O
 .	O
-
 As	O
 a	O
 part	O
@@ -2404,7 +2314,6 @@ $	NUMEX
 per	O
 hour	O
 .	O
-
 As	O
 a	O
 result	O
@@ -2428,7 +2337,6 @@ March	DATE
 of	O
 2008	DATE
 .	O
-
 GM	O
 has	O
 until	O
@@ -2448,7 +2356,6 @@ $	NUMEX
 7.5	NUMEX
 billion	O
 .	O
-
 As	O
 part	O
 of	O
@@ -2477,7 +2384,6 @@ chief	O
 operating	O
 officer	O
 .	O
-
 Henderson	LOCATION
 spoke	O
 out	O
@@ -2509,7 +2415,6 @@ for	O
 financial	O
 aid	O
 .	O
-
 He	O
 is	O
 in	O
@@ -2538,7 +2443,6 @@ bondholders	O
 and	O
 others	O
 .	O
-
 GM	O
 recently	O
 brought	O
@@ -2572,7 +2476,6 @@ years	NUMEX
 from	O
 purchase	O
 .	O
-
 As	O
 a	O
 result	O
@@ -2607,7 +2510,6 @@ the	O
 previous	O
 month	O
 .	O
-
 GM	O
 must	O
 reduce	O
@@ -2626,7 +2528,6 @@ health	O
 care	O
 costs	O
 .	O
-
 A	O
 part	O
 of	O
@@ -2657,7 +2558,6 @@ fuel	O
 efficient	O
 vehicles	O
 .	O
-
 Tony Clement	LOCATION
 ,	O
 Canada	LOCATION
@@ -2683,7 +2583,6 @@ negotiate	O
 their	O
 agreement	O
 .	O
-
 Whereas	O
 a	O
 United	O
@@ -2714,7 +2613,6 @@ will	O
 give	O
 up	O
 .	O
-
 '	O
 '	O
 The	O
@@ -2742,7 +2640,6 @@ and	O
 emerge	O
 stronger	O
 .	O
-
 It	O
 will	O
 ]	O
@@ -2757,7 +2654,6 @@ weighing	O
 them	O
 down	O
 .	O
-
 What	O
 we	O
 are	O
@@ -2765,7 +2661,6 @@ asking	O
 is	O
 difficult	O
 .	O
-
 It	O
 will	O
 require	O
@@ -2774,7 +2669,6 @@ choices	O
 by	O
 companies	O
 .	O
-
 It	O
 will	O
 require	O
@@ -2792,7 +2686,6 @@ make	O
 even	O
 more	O
 .	O
-
 It	O
 will	O
 require	O
@@ -2813,13 +2706,11 @@ endless	O
 government	O
 bailouts	O
 .	O
-
 '	O
 '	O
 said	O
 Obama	PERSON
 .	O
-
 The	O
 auto	O
 parts	O
@@ -2840,7 +2731,6 @@ declining	O
 auto	O
 sales	O
 .	O
-
 GM	O
 and	O
 Chrysler	PERSON
@@ -2860,7 +2750,6 @@ vendors	O
 in	O
 India	LOCATION
 .	O
-
 As well	O
 these	O
 two	NUMBER
@@ -2878,7 +2767,6 @@ auto	O
 parts	O
 suppliers	O
 .	O
-
 ``	O
 We	O
 are	O
@@ -2896,7 +2784,6 @@ gauge	O
 the	O
 impact	O
 .	O
-
 The	O
 decline	O
 in	O
@@ -2924,7 +2811,6 @@ auto	O
 parts	O
 supplier	O
 .	O
-
 ``	O
 Going forward	O
 ,	O
@@ -2959,7 +2845,6 @@ Canadians	O
 said	O
 Clements	PERSON
 .	O
-
 Betty Sutton	LOCATION
 ,	O
 Ohio	LOCATION
@@ -2993,7 +2878,6 @@ fuel	O
 efficient	O
 car	O
 .	O
-
 ``	O
 It	O
 clearly	O
@@ -3015,7 +2899,6 @@ them	O
 buying	O
 again	O
 .	O
-
 But	O
 importantly	O
 --	O
@@ -3041,7 +2924,6 @@ in	O
 two	NUMBER
 respects	O
 .	O
-
 '	O
 '	O
 said	O
@@ -3050,7 +2932,6 @@ Clay	PERSON
 Ford	PERSON
 Jr	O
 .	O
-
 ,	O
 executive	O
 chairman	O
@@ -3059,7 +2940,6 @@ Ford	ORGANIZATION
 Motor	ORGANIZATION
 Co.	ORGANIZATION
 .	O
-
 Ford Motor	ORGANIZATION
 Company	ORGANIZATION
 has	O
@@ -3071,7 +2951,6 @@ requests	O
 for	O
 assistance	O
 .	O
-
 Since	O
 December	DATE
 GM	O
@@ -3086,7 +2965,6 @@ billion	O
 government	O
 loans	O
 .	O
-
 General	ORGANIZATION
 Motors	ORGANIZATION
 automobile	O
@@ -3123,7 +3001,6 @@ cars	O
 in	O
 March	DATE
 .	O
-
 Executives	O
 from	O
 several	O
@@ -3156,7 +3033,6 @@ week	O
 of	O
 March	DATE
 .	O
-
 ``	O
 The	O
 market	O
@@ -3190,7 +3066,6 @@ LLC	ORGANIZATION
 Jim	PERSON
 Press	PERSON
 .	O
-
 ``	O
 It	O
 '	O
@@ -3209,7 +3084,6 @@ signs	O
 of	O
 hope	O
 .	O
-
 '	O
 '	O
 Other	O
@@ -3222,7 +3096,6 @@ car	O
 sales	O
 slip	O
 :	O
-
 Chrysler	PERSON
 and	O
 the	O
@@ -3280,7 +3153,6 @@ number	O
 since	O
 1981	DATE
 .	O
-
 ``	O
 Auto	ORGANIZATION
 makers	O
@@ -3306,7 +3178,6 @@ Ford	O
 and	O
 GM	O
 .	O
-
 The	O
 typical	O
 incentive	O
@@ -3331,7 +3202,6 @@ analyst	O
 for	O
 Edmunds	PERSON
 .	O
-
 Ford	O
 shares	O
 gained	O
@@ -3369,7 +3239,6 @@ to	O
 $	NUMEX
 67	NUMEX
 .	O
-
 GM	O
 shares	O
 slipped	O
@@ -3380,7 +3249,6 @@ to	O
 $	NUMEX
 1.92	NUMEX
 .	O
-
 Chrysler	PERSON
 files	O
 for	O
@@ -3417,7 +3285,6 @@ Fiat	PERSON
 went	O
 through	O
 .	O
-
 The	O
 emerging	O
 Chrysler	PERSON
@@ -3456,7 +3323,6 @@ a	O
 percent	NUMEX
 share	O
 .	O
-
 Chrysler	PERSON
 Chief	O
 Executive	O
@@ -3472,7 +3338,6 @@ proceedings	O
 are	O
 finalized	O
 .	O
-
 Initially	O
 ,	O
 the	O
@@ -3503,7 +3368,6 @@ will	O
 appoint	O
 six	NUMBER
 .	O
-
 Fiat	PERSON
 can	O
 assume	O
@@ -3518,7 +3382,6 @@ of	O
 American	ORGANIZATION
 loans	O
 .	O
-
 Chrysler	PERSON
 administrators	O
 expect	O
@@ -3532,7 +3395,6 @@ couple	O
 of	O
 months	O
 .	O
-
 ``	O
 We	O
 expect	O
@@ -3591,7 +3453,6 @@ go	O
 on	O
 normally	O
 .	O
-
 '	O
 '	O
 The	O
@@ -3617,7 +3478,6 @@ $	NUMEX
 million	O
 each	O
 .	O
-
 Meanwhile	O
 ,	O
 the	O
@@ -3643,7 +3503,6 @@ market	O
 by	O
 2011	DATE
 .	O
-
 ``	O
 It	O
 '	O
@@ -3699,7 +3558,6 @@ of	O
 the	O
 industry	O
 .	O
-
 '	O
 '	O
 However	O
@@ -3711,7 +3569,6 @@ Merkle	PERSON
 has	O
 hesitations	O
 .	O
-
 ``	O
 History	ORGANIZATION
 would	O
@@ -3743,7 +3600,6 @@ look	O
 on	O
 paper	O
 .	O
-
 '	O
 '	O
 The	O
@@ -3768,7 +3624,6 @@ auto	O
 task	O
 force	O
 .	O
-
 Obama	PERSON
 has	O
 set	O
@@ -3777,7 +3632,6 @@ ultimatums	O
 before	O
 Fiat	PERSON
 .	O
-
 Fiat	PERSON
 should	O
 produce	O
@@ -3818,7 +3672,6 @@ them	O
 in	O
 Europe	LOCATION
 .	O
-
 US	LOCATION
 automaker	O
 GM	O
@@ -3859,7 +3712,6 @@ declines	O
 in	O
 revenues	O
 .	O
-
 Not	O
 including	O
 special	O
@@ -3884,7 +3736,6 @@ $	NUMEX
 per	O
 share	O
 .	O
-
 In	O
 the	O
 first	O
@@ -3909,7 +3760,6 @@ $	NUMEX
 per	O
 share	O
 .	O
-
 Most	O
 financial	O
 analysts	O
@@ -3933,7 +3783,6 @@ $	O
 per	O
 share	O
 .	O
-
 GM	O
 had	O
 also	O
@@ -3952,7 +3801,6 @@ to	O
 prevent	O
 bankruptcy	O
 .	O
-
 The	O
 manufacturer	O
 has	O
@@ -3969,7 +3817,6 @@ the	O
 federal	O
 government	O
 .	O
-
 The	O
 company	O
 has	O
@@ -3986,7 +3833,6 @@ a	O
 restructuring	O
 plan	O
 .	O
-
 If	O
 it	O
 does	O
@@ -4005,7 +3851,6 @@ for	O
 bankruptcy	O
 protection	O
 .	O
-
 ``	O
 We	O
 '	O
@@ -4052,7 +3897,6 @@ officer	O
 for	O
 GM	O
 .	O
-
 ``	O
 We	O
 continue	O
@@ -4069,7 +3913,6 @@ a	O
 GM	O
 bankruptcy	O
 .	O
-
 While	O
 the	O
 GM	O
@@ -4118,7 +3961,6 @@ Himanshu	PERSON
 Patel	PERSON
 said	O
 .	O
-
 U.S.	LOCATION
 automaker	O
 Chrysler	PERSON
@@ -4155,7 +3997,6 @@ by	O
 early	DATE
 June	DATE
 .	O
-
 In	O
 a	O
 bankruptcy	O
@@ -4180,7 +4021,6 @@ and	O
 is	O
 antiquated	O
 .	O
-
 A	O
 June	DATE
 3	DATE
@@ -4202,7 +4042,6 @@ should	O
 be	O
 approved	O
 .	O
-
 ``	O
 This	O
 is	O
@@ -4233,7 +4072,6 @@ Chairman	O
 of	O
 Chrysler	PERSON
 .	O
-
 Company	O
 executives	O
 said	O
@@ -4257,7 +4095,6 @@ the	O
 strongest	O
 sales	O
 .	O
-
 Over	O
 50	NUMEX
 %	NUMEX
@@ -4278,7 +4115,6 @@ automobiles	O
 per	O
 year	O
 .	O
-
 ``	O
 We	O
 recognize	O
@@ -4294,7 +4130,6 @@ loss	O
 of	O
 sales	O
 .	O
-
 But	O
 based	O
 on	O
@@ -4303,7 +4138,6 @@ long	O
 term	O
  	O
 ..	O
-
 the	O
 dealer	O
 network	O
@@ -4334,7 +4168,6 @@ viability	O
 said	O
 Press	PERSON
 .	O
-
 U.S.	LOCATION
 automaker	O
 GM	O
@@ -4375,7 +4208,6 @@ lower	O
 its	O
 expenditures	O
 .	O
-
 GM	O
 '	O
 s	O
@@ -4402,7 +4234,6 @@ it	O
 was	O
 closing	O
 .	O
-
 Unlike	O
 Chrylser	O
 ,	O
@@ -4420,7 +4251,6 @@ to	O
 shut	O
 down	O
 .	O
-
 Instead	O
 ,	O
 dealerships	O
@@ -4446,7 +4276,6 @@ of	O
 the	O
 decision	O
 .	O
-
 At	O
 the	O
 moment	O
@@ -4459,7 +4288,6 @@ in	O
 the	O
 U.S.	LOCATION
 .	O
-
 It	O
 intends	O
 to	O
@@ -4474,7 +4302,6 @@ end	O
 of	O
 2010	DATE
 .	O
-
 GM	O
 said	O
 the	O
@@ -4495,7 +4322,6 @@ volume	O
 U.S.	LOCATION
 dealers	O
 .	O
-
 '	O
 '	O
 ``	O
@@ -4542,7 +4368,6 @@ a	O
 telephone	O
 conference	O
 .	O
-
 ``	O
 It	O
 '	O
@@ -4572,7 +4397,6 @@ do	O
 it	O
 today	O
 .	O
-
 '	O
 '	O
 The	O
@@ -4604,7 +4428,6 @@ s	O
 2008	DATE
 revenue	O
 .	O
-
 Bankruptcy	O
 for	O
 U.S.	LOCATION
@@ -4660,7 +4483,6 @@ company	O
 s	O
 stock	O
 .	O
-
 The	O
 automaker	O
 ,	O
@@ -4689,7 +4511,6 @@ debt	O
 reduction	O
 measures	O
 .	O
-
 U.S.	LOCATION
 President	O
 Barack	PERSON
@@ -4730,7 +4551,6 @@ firm	O
 s	O
 costs	O
 .	O
-
 ``	O
 The	O
 principal	O
@@ -4762,23 +4582,19 @@ in	O
 a	O
 statement	O
 .	O
-
 ``	O
 They	O
 said	O
 no	O
 .	O
-
 That	O
 '	O
 s	O
 it	O
 .	O
-
 They	O
 tried	O
 .	O
-
 That	O
 '	O
 s	O
@@ -4810,7 +4626,6 @@ specializes	O
 in	O
 bankruptcy	O
 .	O
-
 U.S.	LOCATION
 manufacturer	O
 General	ORGANIZATION
@@ -4855,7 +4670,6 @@ federal	O
 bankruptcy	O
 court	O
 .	O
-
 This	O
 was	O
 the	O
@@ -4995,7 +4809,6 @@ U.S.	LOCATION
 manufacturing	O
 company	O
 .	O
-
 Describing	O
 the	O
 problem	O
@@ -5028,7 +4841,6 @@ for	O
 General	ORGANIZATION
 Motors	ORGANIZATION
 .	O
-
 He	O
 stated	O
 that	O
@@ -5070,7 +4882,6 @@ doing	O
 exactly	O
 that	O
 .	O
-
 His	O
 plan	O
 ,	O
@@ -5125,7 +4936,6 @@ shareholders	O
 in	O
 General Motors	GEO
 .	O
-
 The	O
 United	ORGANIZATION
 States	ORGANIZATION
@@ -5137,7 +4947,6 @@ a	O
 %	NUMEX
 stake	O
 .	O
-
 The	O
 government	O
 will	O
@@ -5160,7 +4969,6 @@ has	O
 already	O
 received	O
 .	O
-
 Of	O
 the	O
 government	O
@@ -5245,7 +5053,6 @@ company	O
 than	O
 Chrysler	PERSON
 .	O
-
 Responding	O
 to	O
 challenges	O
@@ -5307,7 +5114,6 @@ corporate	O
 shareholder	O
 for the most part	O
 .	O
-
 In	O
 particular	O
 ,	O
@@ -5336,7 +5142,6 @@ car	O
 to	O
 make	O
 .	O
-
 '	O
 '	O
 He	O
@@ -5393,7 +5198,6 @@ GM	O
 s	O
 brands	O
 .	O
-
 He	O
 said	O
 to	O
@@ -5413,7 +5217,6 @@ times	O
 are	O
 over	O
 .	O
-
 '	O
 '	O
 He	O
@@ -5534,7 +5337,6 @@ States	ORGANIZATION
 of	O
 America	LOCATION
 .	O
-
 '	O
 '	O
 CEO	O
@@ -5641,7 +5443,6 @@ of	O
 General	ORGANIZATION
 Motors	ORGANIZATION
 .	O
-
 Speaking	O
 to	O
 the	O
@@ -5679,7 +5480,6 @@ the	O
 bankruptcy	O
 process	O
 .	O
-
 Henderson	LOCATION
 stated	O
 that	O
@@ -5696,7 +5496,6 @@ and	O
 90	NUMEX
 days	NUMEX
 .	O
-
 He	O
 stressed	O
 several	O
@@ -5736,7 +5535,6 @@ of	O
 the	O
 process	O
 .	O
-
 He	O
 emphasized	O
 that	O
@@ -5780,7 +5578,6 @@ to	O
 allow	O
 this	O
 .	O
-
 Regarding	O
 the	O
 bankruptcy	O
@@ -5795,7 +5592,6 @@ do	O
 it	O
 right	O
 .	O
-
 And	O
 we	O
 will	O
@@ -5803,7 +5599,6 @@ do	O
 it	O
 once	O
 .	O
-
 '	O
 '	O
 He	O
@@ -5844,7 +5639,6 @@ bondholders	O
 of	O
 GM	O
 .	O
-
 He	O
 also	O
 mentioned	O
@@ -5864,7 +5658,6 @@ the	O
 German	O
 government	O
 .	O
-
 In response to	O
 questions	O
 about	O
@@ -5903,7 +5696,6 @@ and	O
 green	O
 vehicles	O
 ;	O
-
 he	O
 first	O
 observed	O
@@ -5940,7 +5732,6 @@ be	O
 his	O
 job	O
 .	O
-
 Of	O
 the	O
 specific	O
@@ -5999,7 +5790,6 @@ going	O
 to	O
 happen	O
 .	O
-
 '	O
 '	O
 Expanding	O
@@ -6061,7 +5851,6 @@ government	O
 would	O
 encourage	O
 .	O
-
 The	O
 ``	O
 New	O
@@ -6090,7 +5879,6 @@ to	O
 match	O
 that	O
 .	O
-
 He	O
 stated	O
 that	O
@@ -6123,7 +5911,6 @@ and	O
 gradual	O
 way	O
 .	O
-
 He	O
 stated	O
 that	O
@@ -6152,7 +5939,6 @@ and	O
 the	O
 Pacific	PERSON
 .	O
-
 Of	O
 GM	O
 '	O
@@ -6245,7 +6031,6 @@ shortened	O
 supply	O
 chains	O
 .	O
-
 He	O
 declined	O
 to	O
@@ -6276,7 +6061,6 @@ for	O
 the	O
 company	O
 .	O
-
 He	O
 also	O
 declined	O
@@ -6342,7 +6126,6 @@ return	O
 for	O
 taxpayers	O
 .	O
-
 '	O
 '	O
 Penske	PERSON
@@ -6391,7 +6174,6 @@ purchase	O
 Saturn	ORGANIZATION
 Corporation	ORGANIZATION
 .	O
-
 The	O
 transaction	O
 should	O
@@ -6400,7 +6182,6 @@ completed	O
 in	O
 October	DATE
 .	O
-
 The	O
 purchase	O
 includes	O
@@ -6419,7 +6200,6 @@ its	O
 dealership	O
 network	O
 .	O
-
 Two	NUMBER
 models	O
 would	O
@@ -6431,7 +6211,6 @@ Sky	O
 and	O
 Astra	ORGANIZATION
 .	O
-
 GM	O
 would	O
 continue	O
@@ -6454,7 +6233,6 @@ two	NUMBER
 more	O
 years	O
 .	O
-
 Saturn	LOCATION
 has	O
 350	NUMBER
@@ -6464,7 +6242,6 @@ the	O
 United	ORGANIZATION
 States	ORGANIZATION
 .	O
-
 The	O
 dealers	O
 employ	O
@@ -6479,7 +6256,6 @@ the	O
 Saturn	LOCATION
 autos	O
 .	O
-
 Canadian	O
 Saturn	LOCATION
 dealers	O
@@ -6490,7 +6266,6 @@ in	O
 the	O
 deal	O
 .	O
-
 According to	O
 Penske	PERSON
 future	O
@@ -6502,7 +6277,6 @@ fuel	O
 economy	O
 focused	O
 .	O
-
 An	O
 expert	O
 indicated	O
@@ -6522,7 +6296,6 @@ level	O
 car	O
 company	O
 .	O
-
 PAG	O
 is	O
 in	O
@@ -6537,7 +6310,6 @@ GM	O
 after	O
 2011	DATE
 .	O
-
 Automotive	O
 News	O
 reports	O
@@ -6553,7 +6325,6 @@ most	O
 likely	O
 candidate	O
 .	O
-
 Penske	PERSON
 wants	O
 Jill Lajdziak	LOCATION
@@ -6583,7 +6354,6 @@ independent	O
 of	O
 GM	O
 .	O
-
 Serra	LOCATION
 Automotive	O
 in	O
@@ -6611,7 +6381,6 @@ lead	O
 by	O
 Penske	PERSON
 .	O
-
 Automobile	O
 manufacturer	O
 Ford	O
@@ -6662,7 +6431,6 @@ profitable	O
 by	O
 2011	DATE
 .	O
-
 The	O
 reports	O
 surprised	O
@@ -6680,7 +6448,6 @@ would	O
 lose	O
 money	O
 .	O
-
 Ford	O
 '	O
 s	O
@@ -6711,7 +6478,6 @@ most	O
 economic	O
 analysts	O
 .	O
-
 ``	O
 Our	O
 third	O
@@ -6744,7 +6510,6 @@ officer	O
 Alan	PERSON
 Mulally	PERSON
 .	O
-
 ``	O
 While	O
 we	O
@@ -6768,7 +6533,6 @@ to	O
 grow	O
 stronger	O
 .	O
-
 '	O
 '	O
 Mulally	PERSON
@@ -6804,7 +6568,6 @@ an	O
 operating	O
 profit	O
 .	O
-
 Automaker	O
 GM	O
 to	O
@@ -6837,7 +6600,6 @@ division	O
 ,	O
 Opel	PERSON
 .	O
-
 According to	O
 the	O
 company	O
@@ -6869,7 +6631,6 @@ move	O
 on	O
 Wednesday	DATE
 .	O
-
 He	O
 did	O
 n't	O
@@ -6924,7 +6685,6 @@ automobile	O
 parts	O
 company	O
 .	O
-
 Politicians	O
 in	O
 Germany	LOCATION
@@ -6949,7 +6709,6 @@ government	O
 had	O
 favoured	O
 .	O
-
 ``	O
 GM	O
 '	O
@@ -6971,7 +6730,6 @@ minister	O
 Rainer	PERSON
 Bruederle	PERSON
 .	O
-
 The	O
 premier	O
 of	O
@@ -6997,13 +6755,11 @@ of	O
 turbo	O
 capitalism	O
 .	O
-
 That	O
 is	O
 completely	O
 unacceptable	O
 .	O
-
 '	O
 '	O
 The	O
@@ -7019,7 +6775,6 @@ firm	O
 s	O
 decision	O
 .	O
-
 ``	O
 It	O
 is	O
@@ -7047,7 +6802,6 @@ Unite	PERSON
 Tony	PERSON
 Woodley	PERSON
 .	O
-
 ``	O
 I	O
 am	O
@@ -7075,7 +6829,6 @@ told	O
 the	O
 BBC	ORGANIZATION
 .	O
-
 About	O
 54,000	NUMBER
 people	O
@@ -7091,7 +6844,6 @@ them	O
 in	O
 Germany	LOCATION
 .	O
-
 Ford	O
 Motors	O
 posts	O
@@ -7133,7 +6885,6 @@ for	O
 four	NUMEX
 years	NUMEX
 .	O
-
 The	O
 statistics	O
 are	O
@@ -7156,7 +6907,6 @@ $	NUMEX
 15	NUMEX
 billion	O
 .	O
-
 For	O
 the	O
 final	O
@@ -7184,7 +6934,6 @@ profitable	O
 this	O
 year	O
 .	O
-
 The	O
 company	O
 had	O
@@ -7206,7 +6955,6 @@ the	O
 year	O
 previous	O
 .	O
-
 Ford	O
 had	O
 a	O
@@ -7220,7 +6968,6 @@ end	O
 of	O
 2009	DATE
 .	O
-
 In	O
 the	O
 fourth	O
@@ -7256,7 +7003,6 @@ in	O
 the	O
 country	O
 .	O
-
 The	O
 firm	O
 '	O
@@ -7274,7 +7020,6 @@ on	O
 the	O
 profits	O
 .	O
-
 ``	O
 While	O
 we	O
@@ -7331,7 +7076,6 @@ but	O
 remain	O
 fragile	O
 .	O
-
 '	O
 '	O
 Ford	O
@@ -7380,7 +7124,6 @@ and	O
 General	ORGANIZATION
 Motors	ORGANIZATION
 .	O
-
 Ford	O
 said	O
 that	O
@@ -7399,7 +7142,6 @@ sold	O
 by	O
 GM	O
 .	O
-
 Additionally	O
 ,	O
 Ford	O
@@ -7426,7 +7168,6 @@ a	O
 year	O
 ago	O
 .	O
-
 The	O
 increase	O
 was	O
@@ -7457,7 +7198,6 @@ in	O
 the	O
 day	O
 .	O
-
 Ford	O
 '	O
 s	O
@@ -7476,7 +7216,6 @@ sales	O
 to	O
 businesses	O
 .	O
-
 Rental	O
 car	O
 agencies	O
@@ -7487,7 +7226,6 @@ around	O
 units	O
 sold	O
 .	O
-
 Sales	O
 to	O
 retail	O
@@ -7532,7 +7270,6 @@ trucks	O
 also	O
 increased	O
 .	O
-
 Both	O
 models	O
 were	O
@@ -7555,7 +7292,6 @@ driving	O
 the	O
 increases	O
 .	O
-
 Other	O
 companies	O
 also	O
@@ -7580,7 +7316,6 @@ those	O
 of	O
 Ford	O
 .	O
-
 Toyota	LOCATION
 was	O
 the	O
@@ -7622,7 +7357,6 @@ for	O
 some	O
 models	O
 .	O
-
 ``	O
 The	O
 strength	O
@@ -7632,7 +7366,6 @@ new	O
 products	O
  	O
 ..	O
-
 are	O
 resonating	O
 with	O
@@ -7654,7 +7387,6 @@ sales	O
 and	O
 marketing	O
 .	O
-
 However	O
 ,	O
 he	O
@@ -7678,7 +7410,6 @@ from	O
 the	O
 recalls	O
 .	O
-
 Fiat	PERSON
 plans	O
 to	O
@@ -7724,7 +7455,6 @@ stake	O
 in	O
 Chrysler	GEO
 .	O
-
 According to	O
 Fiat	PERSON
 '	O
@@ -7767,7 +7497,6 @@ by	O
 June	DATE
 10	DATE
 .	O
-
 If	O
 a	O
 price	O
@@ -7792,7 +7521,6 @@ two	NUMBER
 investment	O
 banks	O
 .	O
-
 In	O
 2009	DATE
 ,	O
@@ -7834,7 +7562,6 @@ of	O
 this	O
 year	O
 .	O
-
 According to	O
 analyst	O
 Maryann	PERSON
@@ -7872,7 +7599,6 @@ that	O
 they	O
 face	O
 .	O
-
 '	O
 '	O
 Analyst	O
@@ -7911,7 +7637,6 @@ with	O
 the	O
 bailout	O
 .	O
-
 '	O
 '	O
 Ford Motor	ORGANIZATION
@@ -7963,7 +7688,6 @@ in	O
 North American	GEO
 sales	O
 .	O
-
 The	O
 plan	O
 ,	O
@@ -7989,7 +7713,6 @@ Clay	PERSON
 Ford	PERSON
 Jr	O
 .	O
-
 ,	O
 is	O
 to	O
@@ -8002,7 +7725,6 @@ losses	O
 by	O
 2008	DATE
 .	O
-
 To	O
 accomplish	O
 this	O
@@ -8045,7 +7767,6 @@ capacity	O
 in line with	O
 demand	O
 .	O
-
 By	O
 the	O
 end	O
@@ -8063,7 +7784,6 @@ will	O
 be	O
 closed	O
 .	O
-
 Atlanta	LOCATION
 makes	O
 the	O
@@ -8077,7 +7797,6 @@ being	O
 phased	O
 out	O
 .	O
-
 The	O
 St.	LOCATION
 Louis	LOCATION
@@ -8103,7 +7822,6 @@ decline	O
 in	O
 2005	DATE
 .	O
-
 It	O
 will	O
 also	O
@@ -8146,7 +7864,6 @@ Auto	ORGANIZATION
 Workers	O
 union	O
 .	O
-
 The	O
 plant	O
 in	O
@@ -8162,7 +7879,6 @@ cut	O
 from	O
 it	O
 .	O
-
 The	O
 plant	O
 makes	O
@@ -8174,7 +7890,6 @@ Grand	O
 Marquis	O
 cars	O
 .	O
-
 On	O
 this	O
 cut	O
@@ -8213,7 +7928,6 @@ doubt	O
 about	O
 it	O
 .	O
-
 Any	O
 time	O
 a	O
@@ -8229,7 +7943,6 @@ them	O
 in	O
 limbo	O
 .	O
-
 This	O
 car	O
 has	O
@@ -8263,7 +7976,6 @@ our	O
 track	O
 record	O
 .	O
-
 '	O
 '	O
 Positive	O
@@ -8296,7 +8008,6 @@ cars	O
 manufactured	O
 there	O
 .	O
-
 On	O
 the	O
 contrary	O
@@ -8319,7 +8030,6 @@ likely	O
 to	O
 close	O
 .	O
-
 DesRoiser	O
 said	O
 ,	O
@@ -8345,7 +8055,6 @@ on	O
 that	O
 list	O
 .	O
-
 This	O
 may	O
 be	O
@@ -8367,7 +8076,6 @@ to	O
 three	NUMEX
 years	NUMEX
 .	O
-
 '	O
 '	O
 Two	NUMBER
@@ -8383,7 +8091,6 @@ two	NUMBER
 in	O
 2012	DATE
 .	O
-
 Two	NUMBER
 more	O
 plants	O
@@ -8398,7 +8105,6 @@ later	O
 this	O
 year	O
 .	O
-
 Also	O
 ,	O
 Ford	O
@@ -8412,7 +8118,6 @@ its	O
 executive	O
 officers	O
 .	O
-
 Due to	O
 the	O
 company	O
@@ -8450,7 +8155,6 @@ with	O
 the	O
 union	O
 .	O
-
 However	O
 ,	O
 the	O
@@ -8471,7 +8175,6 @@ eligible	O
 for	O
 overtime	O
 .	O
-
 The	O
 UAW	O
 President	O
@@ -8491,7 +8194,6 @@ is	O
 extremely	O
 disappointing	O
 .	O
-
 '	O
 '	O
 The	O
@@ -8526,7 +8228,6 @@ sliding	O
 market	O
 share	O
 .	O
-
 The	O
 announcement	O
 has	O
@@ -8557,7 +8258,6 @@ in	O
 the	O
 future	O
 .	O
-
 '	O
 '	O
 GM	O
@@ -8575,7 +8275,6 @@ General	ORGANIZATION
 Motors	ORGANIZATION
 logo	O
 .	O
-
 General Motors	ORGANIZATION
 Corporation	ORGANIZATION
 (	O
@@ -8590,7 +8289,6 @@ loss	O
 since	O
 1992	DATE
 .	O
-
 GM	O
 reported	O
 losing	O
@@ -8617,7 +8315,6 @@ the	O
 entire	O
 year	O
 .	O
-
 GM	O
 admitted	O
 Thursday	DATE
@@ -8641,7 +8338,6 @@ of	O
 former	O
 workers	O
 .	O
-
 GM	O
 warned	O
 that	O
@@ -8671,7 +8367,6 @@ commission	O
 in	O
 March	DATE
 .	O
-
 The	O
 loss	O
 was	O
@@ -8681,7 +8376,6 @@ than	O
 analysts	O
 predicted	O
 .	O
-
 Ford	O
 ,	O
 the	O
@@ -8701,7 +8395,6 @@ in	O
 the	O
 week	O
 .	O
-
 In	O
 contrast	O
 ,	O
@@ -8724,7 +8417,6 @@ $	NUMEX
 11	NUMEX
 billion	O
 .	O
-
 GM	O
 '	O
 s	O
@@ -8746,7 +8438,6 @@ in	O
 North	GEO
 America	GEO
 .	O
-
 This	O
 has	O
 been	O
@@ -8770,7 +8461,6 @@ Toyota	LOCATION
 and	O
 Nissan	PERSON
 .	O
-
 A	O
 further	O
 $	NUMEX
@@ -8782,7 +8472,6 @@ in	O
 restructuring	O
 charges	O
 .	O
-
 As	O
 part	O
 of	O
@@ -8802,7 +8491,6 @@ facilities	O
 by	O
 2008	DATE
 .	O
-
 An	O
 aide	O
 for	O
@@ -8840,7 +8528,6 @@ and	O
 sell	O
 Saab	PERSON
 .	O
-
 Australian	O
 government	O
 announces	O
@@ -8907,7 +8594,6 @@ Victorian	PERSON
 state	O
 government	O
 .	O
-
 According to	O
 Mr	O
 Howard	PERSON
@@ -8964,7 +8650,6 @@ built	O
 in	O
 Australia	LOCATION
 .	O
-
 Despite	O
 being	O
 given	O
@@ -8988,7 +8673,6 @@ back	O
 to	O
 1998	DATE
 .	O
-
 The	O
 current	O
 Falcon	PERSON
@@ -9008,7 +8692,6 @@ model	O
 is	O
 anticipated	O
 .	O
-
 In	O
 the	O
 meantime	O
@@ -9044,7 +8727,6 @@ of	O
 this	O
 year	O
 .	O
-
 The	O
 additional	O
 AU	O
@@ -9076,7 +8758,6 @@ around	O
 80	NUMBER
 countries	O
 .	O
-
 Mr	O
 Howard	PERSON
 said	O
@@ -9109,7 +8790,6 @@ in	O
 the	O
 region	O
 .	O
-
 Mr	O
 MacFarlane	PERSON
 said	O
@@ -9133,7 +8813,6 @@ in	O
 the	O
 spotlight	O
 .	O
-
 ``	O
 The	O
 funding	O
@@ -9171,7 +8850,6 @@ producers	O
 he	O
 said	O
 .	O
-
 ``	O
 The	O
 project	O
@@ -9236,14 +8914,12 @@ capabilities	O
 are	O
 concerned	O
 .	O
-
 '	O
 '	O
 Mr	O
 MacFarlane	PERSON
 said	O
 .	O
-
 Mr	O
 Howard	PERSON
 claims	O
@@ -9276,7 +8952,6 @@ Australia	LOCATION
 since	O
 1960	DATE
 .	O
-
 The	O
 financial	O
 package	O
@@ -9305,7 +8980,6 @@ the	O
 two	NUMBER
 projects	O
 .	O
-
 Ford	O
 announces	O
 deep	O
@@ -9352,7 +9026,6 @@ the	O
 fourth	O
 quarter	O
 .	O
-
 The	O
 measure	O
 comes	O
@@ -9380,7 +9053,6 @@ closed	O
 by	O
 2012	DATE
 .	O
-
 Ford	O
 is	O
 the	O
@@ -9398,7 +9070,6 @@ s	O
 second	O
 largest	O
 .	O
-
 However	O
 it	O
 has	O
@@ -9415,7 +9086,6 @@ shrinking	O
 market	O
 shares	O
 .	O
-
 In	O
 2005	DATE
 it	O
@@ -9451,7 +9121,6 @@ month	O
 of	O
 July	DATE
 .	O
-
 George	PERSON
 Pipas	PERSON
 ,	O
@@ -9498,7 +9167,6 @@ the	O
 latest	O
 initiative	O
 .	O
-
 So far	O
 the	O
 following	O
@@ -9509,7 +9177,6 @@ to	O
 be	O
 affected	O
 :	O
-
 *	O
 St.	O
 Thomas	PERSON
@@ -9600,7 +9267,6 @@ York	ORGANIZATION
 Stock	ORGANIZATION
 Exchange	ORGANIZATION
 .	O
-
 Ford	O
 Taurus	ORGANIZATION
 to	O
@@ -9654,7 +9320,6 @@ the	O
 outgoing	O
 model	O
 .	O
-
 Mulally	PERSON
 says	O
 that	O
@@ -9683,7 +9348,6 @@ names	O
 easily	O
 forgettable	O
 .	O
-
 As	O
 a	O
 result	O
@@ -9712,7 +9376,6 @@ in	O
 the	O
 future	O
 .	O
-
 The	O
 Ford	O
 Taurus	ORGANIZATION
@@ -9768,7 +9431,6 @@ the	O
 and	O
 80s	DATE
 .	O
-
 The	O
 Taurus	ORGANIZATION
 survived	O
@@ -9781,7 +9443,6 @@ over	O
 7,500,000	NUMBER
 units	O
 .	O
-
 The	O
 Taurus	ORGANIZATION
 was	O
@@ -9802,7 +9463,6 @@ for	O
 fleet	O
 customers	O
 .	O
-
 ``	O
 How	O
 can	O
@@ -9810,7 +9470,6 @@ it	O
 go	O
 away	O
 ?	O
-
 '	O
 '	O
 Alan	PERSON
@@ -9829,7 +9488,6 @@ car	O
 in	O
 America	LOCATION
 .	O
-
 '	O
 '	O
 While	O
@@ -9887,7 +9545,6 @@ around	O
 the	O
 country	O
 .	O
-
 DaimlerChrysler	ORGANIZATION
 plans	O
 to	O
@@ -9910,7 +9567,6 @@ in	O
 North	GEO
 America	GEO
 .	O
-
 It	O
 could	O
 part	O
@@ -9921,7 +9577,6 @@ loss	O
 making	O
 business	O
 .	O
-
 It	O
 also	O
 plans	O
@@ -9941,7 +9596,6 @@ profitable	O
 by	O
 2008	DATE
 .	O
-
 About	O
 9,000	NUMBER
 production	O
@@ -9964,7 +9618,6 @@ and	O
 salaried	O
 jobs	O
 .	O
-
 ``	O
 It	O
 '	O
@@ -9979,7 +9632,6 @@ s	O
 enough	O
  	O
 ..	O
-
 but	O
 the	O
 stock	O
@@ -10020,7 +9672,6 @@ Management	O
 Tim	PERSON
 Ghriskey	PERSON
 .	O
-
 Following	O
 some	O
 speculation	O
@@ -10054,7 +9705,6 @@ Zetsche	PERSON
 denied	O
 allegations	O
 .	O
-
 ``	O
 We	O
 do	O
@@ -10077,7 +9727,6 @@ Group	ORGANIZATION
 and	O
 DaimlerChrysler	ORGANIZATION
 .	O
-
 '	O
 '	O
 DaimlerChrysler	ORGANIZATION
@@ -10124,7 +9773,6 @@ $	NUMEX
 7.4	NUMEX
 billion	O
 .	O
-
 The	O
 companies	O
 '	O
@@ -10142,7 +9790,6 @@ Chrysler	ORGANIZATION
 Holding	ORGANIZATION
 LLC	ORGANIZATION
 .	O
-
 DaimlerChrysler	ORGANIZATION
 has	O
 sold	O
@@ -10169,7 +9816,6 @@ agreements	O
 and	O
 partnerships	O
 .	O
-
 Cerberus	O
 has	O
 agreed	O
@@ -10189,7 +9835,6 @@ costs	O
 at	O
 Chrysler	PERSON
 .	O
-
 Cerberus	O
 also	O
 led	O
@@ -10227,7 +9872,6 @@ parts	O
 giant	O
 Delphi	ORGANIZATION
 .	O
-
 Buzz	ORGANIZATION
 Hargrove	PERSON
 ,	O
@@ -10259,7 +9903,6 @@ not	O
 be	O
 eliminated	O
 .	O
-
 The	O
 name	O
 change	O
@@ -10285,7 +9928,6 @@ for	O
 fall	O
 2007	DATE
 .	O
-
 Ford	O
 offers	O
 US	LOCATION
@@ -10336,7 +9978,6 @@ official	O
 said	O
 Friday	DATE
 .	O
-
 ``	O
 The	O
 offer	O
@@ -10383,7 +10024,6 @@ s	O
 improved	O
 offer	O
 .	O
-
 Vladescu	O
 added	O
 that	O
@@ -10403,7 +10043,6 @@ show	O
 in	O
 Frankfurt	LOCATION
 .	O
-
 The	O
 Romanian	O
 government	O
@@ -10426,7 +10065,6 @@ $	NUMEX
 51	NUMEX
 million	O
 .	O
-
 As	O
 the	O
 Korean	O
@@ -10450,7 +10088,6 @@ from	O
 past	O
 loans	O
 .	O
-
 Ford	O
 is	O
 the	O
@@ -10463,7 +10100,6 @@ of	O
 the	O
 factory	O
 .	O
-
 According to	O
 Washington	ORGANIZATION
 Post	ORGANIZATION
@@ -10502,7 +10138,6 @@ s	O
 Dacia	ORGANIZATION
 plant	O
 .	O
-
 The	O
 vice	O
 president	O
@@ -10522,7 +10157,6 @@ is	O
 not	O
 important	O
 .	O
-
 ``	O
 It	O
 '	O
@@ -10541,7 +10175,6 @@ possible	O
 he	O
 added	O
 .	O
-
 ``	O
 With	O
 this	O
@@ -10568,6 +10201,3 @@ cited	O
 by	O
 HotNews	O
 .	O
-
-
-

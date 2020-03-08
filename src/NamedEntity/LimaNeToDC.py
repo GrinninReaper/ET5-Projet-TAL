@@ -23,7 +23,7 @@ try:
     #boucle sur chacune des lignes
     if(line != ""):
       #si ligne non vide
-      if(line[0] != '#'):
+      if(line[0] != "#"):
         #si pas ligne de commentaire
         #extraction du mot et de son entity nomme
         lineColumn = line.split("\t");
@@ -38,8 +38,8 @@ try:
           
         rsltStr += lineColumn[1] + "\t" + en + "\n";
         #print(rsltStr)
-    else:
-      rsltStr += "\n";
+    '''else:
+      rsltStr += "\n";'''
 except Exception as e:
     print(str(e))
 

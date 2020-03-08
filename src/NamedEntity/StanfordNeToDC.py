@@ -17,6 +17,7 @@ taggedFile.close();
 
 taggedLines = taggedContent.split("\n");
 taggedWords = []
+
 for line in taggedLines:
   taggedWords += line.split(" ");
 outputFile = open(outputPath, "w+");

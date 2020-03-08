@@ -40,16 +40,17 @@ for sentence in tokens:
   #Named Entity Recognition
   namedEnt = nltk.ne_chunk(tagged);
 
-print("-----------------NameEnt: ", namedEnt); #Testing
-
 #Creating output files
 outFile = open(outputPath, "w");
+res = ""
 for token in namedEnt:
-  if(type(token[0]) != type("string")):
-    print(token)
+  
+  if(type(token) is nltk.tree.Tree):
+    #recuperation du type de l'entite nommee
+    en = token.label()
     for parts in token:
-      outFile.write(parts[0] + "\t" + parts[1] + "\t")
-    outFile.write("\n");
+      outFile.write(parts[0] + "\t" + en + "\n")
   else:
-    outFile.write(token[0] + "\t" + token[1] + "\n");
+    outFile.write(token[0] + "\t" + "O" + "\n")
+
 outFile.close();

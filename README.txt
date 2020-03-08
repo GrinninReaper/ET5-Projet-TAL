@@ -28,14 +28,14 @@ Pour obtenir les résultats:
 Exercice 2
 Les fichiers de données de l'exercice 2 sont ceux commençant par "ne_".
 Les scripts relatifs à cet exercice sont dans le dossier /src/NamedEntity. 
-Le principe d'exécution des scripts restent le même que pour l'exercice 1 et est aussi détaillé dans le rapport.
+Le principe d'exécution des scripts reste le même que pour l'exercice 1 et est aussi détaillé dans le rapport.
  Pour obtenir les résultats: 
  * se placer dans le dossier /src/NamedEntity
  * lancer la commande java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz -textFile ne_test.txt > ne_test.txt.ne.stanford.unrendered
  pour stanford
  * lancer la commande analyzeText -l eng -p main ne_test.txt > ne_test.txt.ne.lima.unrendered
  pout lima
- * la le script Nltk_ne.py ../../data/ne_test.txt ../../data/ne_test.txt.ne.nltk
+ * lancer le script Nltk_ne.py ../../data/ne_test.txt ../../data/ne_test.txt.ne.nltk
 
   *** Transformer les résultats en deux colonnes***
   * Toujours se placer dans le dossier NamedEntity
